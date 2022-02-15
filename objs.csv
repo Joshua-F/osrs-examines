@@ -171,9 +171,9 @@
 283,The suspicious-looking remains of a suspicious-looking sheep.
 284,"This should protect me from the plague, I hope!"
 285,"These should protect me from the plague, I hope!"
-286,Armour designed to fit goblins.
-287,Armour designed to fit goblins.
-288,Armour designed to fit goblins.
+286,Some orange armour designed to fit goblins.
+287,Some blue armour designed to fit goblins.
+288,Some brown armour designed to fit goblins.
 290,This contains some vital research results.
 291,It seems to be written in some kind of code.
 292,A book on elven history in northern Gielinor.
@@ -2932,8 +2932,8 @@
 4619,"It's pretty, but you wish you knew what it was."
 4620,It looks horrible.
 4621,A long feather patterned like a flame.
-4622,Black ink made out of mushrooms.
-4623,A phoenix feather dipped in ink.
+4622,Black dye made out of mushrooms.
+4623,A phoenix feather using black dye as ink.
 4624,It reads 'YOUR TASK IS DONE'.
 4625,A tough-looking criminal.
 4627,A cheeky little lager.
@@ -4152,13 +4152,13 @@
 6739,A very powerful axe.
 6741,Bob can fix this for me.
 6743,It's missing a handle.
-6745,"The magical sword 'Silverlight', stained black with mushroom ink."
+6745,"The magical sword 'Silverlight', stained black."
 6746,"The magical sword 'Silverlight', enhanced with the blood of Agrith-Naar."
 6747,Used to make the sigil of the demon Agrith-Naar.
 6748,A sigil used for the summoning of the demon Agrith-Naar.
 6749,Will this book help in summoning Agrith-Naar?
-6750,A desert shirt stained black with mushroom ink.
-6752,A desert robe stained black with mushroom ink.
+6750,A desert shirt stained black.
+6752,A desert robe stained black.
 6754,It seems to change temperature as I walk.
 6755,Somebody's private journal.
 6756,A sealed letter to the king.
@@ -4896,7 +4896,7 @@
 7799,A tome of learning which focuses on the Woodcutting skill.
 7800,A shell from a giant snail.
 7801,Scaly but not slimy!
-7803,A non-magical copy of the make-over mage's amulet.
+7803,A non-magical copy of the Makeover Mage's amulet.
 7804,An Ancient Mjolnir.
 7806,A heavy duty sword.
 7807,A heavy duty axe.
@@ -5834,12 +5834,12 @@
 9048,This sceptre has one remaining charge.
 9050,This sceptre has no remaining charges.
 9052,"Delicious and nutritious. Well, nutritious anyway."
-9054,Armour designed to fit goblins.
-9055,Armour designed to fit goblins.
-9056,Armour designed to fit goblins.
-9057,Armour designed to fit goblins.
-9058,Armour designed to fit goblins.
-9059,Armour designed to fit goblins.
+9054,Some red armour designed to fit goblins.
+9055,Some black armour designed to fit goblins.
+9056,Some yellow armour designed to fit goblins.
+9057,Some green armour designed to fit goblins.
+9058,Some purple armour designed to fit goblins.
+9059,Some pink armour designed to fit goblins.
 9064,A mystical lantern.
 9065,A mystical lantern casting a green beam.
 9066,A roughly circular disc of glass.
@@ -12944,3 +12944,25 @@
 26554,"A set containing Shattered boots (t1), Shattered trousers (t1), Shattered top (t1) and Shattered hood (t1)."
 26557,"A set containing Shattered boots (t2), Shattered trousers (t2), Shattered top (t2) and Shattered hood (t2)."
 26560,"A set containing Shattered boots (t3), Shattered trousers (t3), Shattered top (t3) and Shattered hood (t3)."
+26566,A clue!
+26567,Some white armour designed to fit goblins.
+26569,These have magical transmogrification properties.
+26571,The key you stole from the Ekeleshuun priest.
+26572,The key you stole from the Narogoshuun priest.
+26573,The key you stole from the Huzamogaarb priest.
+26574,The key you stole from the Saragorgak priest.
+26575,The key you stole from the Horogothgar priest.
+26576,The key you stole from the Yurkolgokh priest.
+26577,Oldak's Marvellous Moving-Over-Distance Sphere.
+26579,An ugly albino fish.
+26581,4 doses of Goblin transmogrification potion.
+26583,3 doses of Goblin transmogrification potion.
+26585,2 doses of Goblin transmogrification potion.
+26587,1 dose of Goblin transmogrification potion.
+26589,An ancient goblin bone wrapped in fragments of priestly robes.
+26590,An ancient goblin bone wrapped in fragments of priestly robes.
+26591,An ancient goblin bone wrapped in fragments of priestly robes.
+26592,An ancient goblin bone wrapped in fragments of priestly robes.
+26593,An ancient goblin bone wrapped in fragments of priestly robes.
+26594,Follower obj
+26595,Follower obj

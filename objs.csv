@@ -174,8 +174,8 @@
 286,Some orange armour designed to fit goblins.
 287,Some blue armour designed to fit goblins.
 288,Some brown armour designed to fit goblins.
-290,This contains some vital research results.
-291,It seems to be written in some kind of code.
+290,This contains some vital research.
+291,They seem to be written in some kind of code.
 292,A book on elven history in northern Gielinor.
 293,I found this in a cave beneath the Tree Gnome Village (used in the Waterfall Quest).
 294,A small pebble with elven inscription.
@@ -859,14 +859,14 @@
 1430,A spiky mace.
 1432,A spiky mace.
 1434,A spiky mace.
-1436,An uncharged Rune Stone.
+1436,An unimbued rune.
 1438,A mysterious power emanates from the talisman...
 1440,A mysterious power emanates from the talisman...
 1442,A mysterious power emanates from the talisman...
 1444,A mysterious power emanates from the talisman...
 1446,A mysterious power emanates from the talisman...
 1448,A mysterious power emanates from the talisman...
-1450,null
+1450,A mysterious power emanates from the talisman...
 1452,A mysterious power emanates from the talisman...
 1454,A mysterious power emanates from the talisman...
 1456,A mysterious power emanates from the talisman...
@@ -2606,7 +2606,7 @@
 4148,A slayer monster.
 4149,A slayer monster.
 4150,Arrows with a wider than normal tip.
-4151,A weapon from the abyss.
+4151,A weapon from the Abyss.
 4153,Simplicity is the best weapon.
 4155,I can contact the Slayer Masters with this.
 4156,I can just about see things in this shield's reflection.
@@ -2619,7 +2619,7 @@
 4166,These will protect my ears from loud noise.
 4168,Protects me from any bad smells.
 4170,An old and magical staff.
-4178,A weapon from the abyss.
+4178,A weapon from the Abyss.
 4179,For playing fetch with.
 4180,These look pretty heavy.
 4181,A holding thingy for the zip line.
@@ -3420,7 +3420,7 @@
 5516,A mysterious power emanates from the talisman...
 5518,This contains mystical teleport information...
 5519,This orb apparently contains a cypher spell.
-5520,Some research notes on abyssal space.
+5520,Some research notes on the Abyss.
 5521,A necklace embedded with mystical power.
 5523,A mould for tiaras.
 5525,Makes me feel like a Princess.
@@ -3436,8 +3436,7 @@
 5545,A tiara infused with the properties of law.
 5546,null
 5547,A tiara infused with the properties of death.
-5549,null
-5550,null
+5549,A tiara infused with the properties of blood.
 5551,null
 5552,null
 5553,"Black banded leather armour, a rogue's dream!"
@@ -5022,7 +5021,7 @@
 7932,"""Best before 1st May 2014."""
 7933,"""Best before 1st May 2014."""
 7934,A field ration to help your wounds go away.
-7936,An uncharged Rune Stone of extra capability.
+7936,An unimbued rune of extra capability.
 7938,Fragments of essence that have been infested with dark power.
 7939,A word in your shell-like.
 7941,A sturdy sheet of iron.
@@ -7686,7 +7685,7 @@
 12000,It gives a 10% accuracy and damage bonus for spells on the standard spellbook.
 12002,A smokey evil embodies this amulet.
 12004,Ewwww... it's still sucky.
-12006,"A weapon from the abyss, embedded in a slimy tentacle."
+12006,"A weapon from the Abyss, embedded in a slimy tentacle."
 12007,It's just a jar of dirt.
 12009,A pack containing 100 pieces of soft clay.
 12010,A pack containing 100 pieces of soft clay.
@@ -9502,7 +9501,7 @@
 20402,"A vicious, curved sword."
 20403,"A shortbow made out of Maple, still effective."
 20404,null
-20405,A weapon from the abyss.
+20405,A weapon from the Abyss.
 20406,"A vicious, curved sword."
 20407,A powerful dagger.
 20408,A bow from a darker dimension.
@@ -12805,7 +12804,6 @@
 26243,.
 26245,.
 26247,The best pumpkin pie in Gielinor
-26248,null
 26250,Only possible because of Brother Jered's hard work.
 26252,A coupon for an advert in the Varrock Herald.
 26254,To be worn on the head.
@@ -12882,20 +12880,20 @@
 26418,Looks like a cabbage.
 26419,Looks like a cabbage.
 26420,Looks like a cabbage.
-26421,"A kit that can be used to apply a Leagues III: Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece."
+26421,"A kit that can be used to apply a Leagues III - Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece."
 26424,A banner showcasing the colours of Leagues III - Shattered Relics.
-26427,The headgear of a Shattered relic hunter.
-26430,The shirt of a Shattered relic hunter.
-26433,The trousers of a Shattered relic hunter.
-26436,The boots of a Shattered relic hunter.
-26439,The headgear of a Shattered relic hunter.
-26442,The shirt of a Shattered relic hunter.
-26445,The trousers of a Shattered relic hunter.
-26448,The boots of a Shattered relic hunter.
-26451,The headgear of a Shattered relic hunter.
-26454,The shirt of a Shattered relic hunter.
-26457,The trousers of a Shattered relic hunter.
-26460,The boots of a Shattered relic hunter.
+26427,The headgear of a Shattered Relic Hunter.
+26430,The shirt of a Shattered Relic Hunter.
+26433,The trousers of a Shattered Relic Hunter.
+26436,The boots of a Shattered Relic Hunter.
+26439,The headgear of a Shattered Relic Hunter.
+26442,The shirt of a Shattered Relic Hunter.
+26445,The trousers of a Shattered Relic Hunter.
+26448,The boots of a Shattered Relic Hunter.
+26451,The headgear of a Shattered Relic Hunter.
+26454,The shirt of a Shattered Relic Hunter.
+26457,The trousers of a Shattered Relic Hunter.
+26460,The boots of a Shattered Relic Hunter.
 26463,A void knight top plucked from the shattered abyss.
 26465,Void knight robes plucked from the shattered abyss.
 26467,Void knight gloves plucked from the shattered abyss.
@@ -12904,16 +12902,16 @@
 26473,A mage helm plucked from the shattered abyss.
 26475,A ranger helm plucked from the shattered abyss.
 26477,A melee helm plucked from the shattered abyss.
-26479,A kit that can be used on void armour to theme it to Leagues III: Shattered Relics.
+26479,A kit that can be used on void armour to theme it to Leagues III - Shattered Relics.
 26482,A weapon plucked from the shattered abyss.
 26484,"A weapon plucked from the shattered abyss, embedded in a spiked chain."
 26486,A weapon plucked from the shattered abyss.
-26488,The holy book of Guthix.
-26490,The dark book of a forgotten god.
-26492,The book of Armadyl's Law.
-26494,The short book of the wisdom of Bandos.
-26496,The holy book of Saradomin.
-26498,The unholy book of Zamorak.
+26488,"The holy book of Guthix, plucked from the shattered abyss."
+26490,"The dark book of a forgotten god, plucked from the shattered abyss."
+26492,"The book of Armadyl's Law, plucked from the shattered abyss."
+26494,"The short book of the wisdom of Bandos, plucked from the shattered abyss."
+26496,"The holy book of Saradomin, plucked from the shattered abyss."
+26498,"The unholy book of Zamorak, plucked from the shattered abyss."
 26500,A scroll which unlocks the Shattered Relics home teleport animation.
 26503,A Bronze trophy for competing in Leagues III - Shattered Relics
 26505,An Iron trophy for competing in Leagues III - Shattered Relics
@@ -12927,13 +12925,13 @@
 26522,The stand of a cannon plucked from the shattered abyss.
 26524,Eight deadly cylinders of a cannon plucked from the shattered abyss.
 26526,The beating heart of a cannon plucked from the shattered abyss.
-26528,An ornamental kit for the Dwarf multicannon in the style of Leagues III: Shattered Relics.
+26528,An ornamental kit for the Dwarf multicannon in the style of Leagues III - Shattered Relics.
 26531,A magical hat plucked from the shattered abyss.
 26533,The upper half of a magical robe plucked from the shattered abyss.
 26535,The lower half of a magical robe plucked from the shattered abyss.
 26537,Magical gloves plucked from the shattered abyss.
 26539,Magical boots plucked from the shattered abyss.
-26541,A kit that can be used to apply a Leagues III: Shattered Relics theme to a blue Mystic robe piece.
+26541,A kit that can be used to apply a Leagues III - Shattered Relics theme to a blue Mystic robe piece.
 26544,Breaking this will give you a power related to Harvesting skills.
 26545,Breaking this will give you a power related to Production skills.
 26546,Breaking this will give you a power related to Support skills.
@@ -13125,3 +13123,76 @@
 26780,A magic cave horror mask.
 26781,An inert-seeming cave horror mask.
 26782,"Increases melee, ranged and magic damage & accuracy by 20% against the undead."
+26784,A colossal-sized pouch used for storing essence.
+26786,A colossal-sized pouch used for storing essence.
+26788,Makes me feel like a wealthy Princess.
+26792,Some strange pearls from the Abyss.
+26798,A mysterious power emanates from the talisman...
+26801,A tiara infused with the properties of every catalytic rune.
+26804,A tiara infused with the properties of every elemental rune.
+26807,A strange green dye made from abyssal materials.
+26809,A strange blue dye made from abyssal materials.
+26811,A strange red dye made from abyssal materials.
+26813,A needle designed for use with abyssal materials.
+26815,A mystical ring.
+26818,A mystical ring.
+26820,The eye of a rune guardian.
+26822,A lantern containing power from the Abyss.
+26824,A lantern containing power from the Abyss. It's been lit with some logs.
+26826,A lantern containing power from the Abyss. It's been lit with some blue logs.
+26828,A lantern containing power from the Abyss. It's been lit with some red logs.
+26830,A lantern containing power from the Abyss. It's been lit with some white logs.
+26832,A lantern containing power from the Abyss. It's been lit with some purple logs.
+26834,A lantern containing power from the Abyss. It's been lit with some green logs.
+26836,A lantern containing power from the Abyss. It's been lit with some oak logs.
+26838,A lantern containing power from the Abyss. It's been lit with some willow logs.
+26840,A lantern containing power from the Abyss. It's been lit with some maple logs.
+26842,A lantern containing power from the Abyss. It's been lit with some yew logs.
+26844,A lantern containing power from the Abyss. It's been lit with some blisterwood logs.
+26846,A lantern containing power from the Abyss. It's been lit with some magic logs.
+26848,A lantern containing power from the Abyss. It's been lit with some redwood logs.
+26850,The perfect hood for runecrafting.
+26852,The perfect robe top for runecrafting.
+26854,The perfect robe bottoms for runecrafting.
+26856,The perfect boots for runecrafting.
+26858,The perfect hat for runecrafting.
+26860,The perfect robe top for runecrafting.
+26862,The perfect robe bottoms for runecrafting.
+26864,The perfect hat for runecrafting.
+26866,The perfect robe top for runecrafting.
+26868,The perfect robe bottoms for runecrafting.
+26870,The perfect hat for runecrafting.
+26872,The perfect robe top for runecrafting.
+26874,The perfect robe bottoms for runecrafting.
+26876,An old diary.
+26878,Highly potent rune guardian remnants. It looks like it could enhance the powers of pure essence.
+26879,Pure essence combined with rune guardian remnants. It looks like it can be imbued with energy.
+26880,"Highly potent essence, imbued with catalytic energy."
+26881,"Highly potent essence, imbued with elemental energy."
+26882,"Can potentially hold runic energy, but it currently holds nothing."
+26883,Contains a small amount of runic energy.
+26884,Contains a moderate amount of runic energy.
+26885,Contains a high amount of runic energy.
+26886,Contains an immense amount of runic energy.
+26887,A talisman bound to the Air Altar.
+26888,A talisman bound to the Water Altar.
+26889,A talisman bound to the Earth Altar.
+26890,A talisman bound to the Fire Altar.
+26891,A talisman bound to the Mind Altar.
+26892,A talisman bound to the Chaos Altar.
+26893,A talisman bound to the Death Altar.
+26894,A talisman bound to the Blood Altar.
+26895,A talisman bound to the Body Altar.
+26896,A talisman bound to the Cosmic Altar.
+26897,A talisman bound to the Nature Altar.
+26898,A talisman bound to the Law Altar.
+26899,"Not quite as great as the Great Guardian, but pretty close."
+26901,Your own personal abyssal horror.
+26903,A mysterious amulet in the shape of an eye.
+26904,A cup of tea that supposedly hits differently.
+26905,An abyssal teleportation incantation.
+26906,A large pouch used for storing essence.
+26908,A strange pouch with intricate symbols on it.
+26910,A worn and damaged locket.
+26912,A bag with strange markings on it... How did it fit into that small pouch?
+26914,An amulet in the shape of an eye.

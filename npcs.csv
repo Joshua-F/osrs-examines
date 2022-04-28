@@ -766,12 +766,12 @@
 791,A strange creature unique to Lunar Isle.
 792,A strange creature unique to Lunar Isle.
 793,A strange creature unique to Lunar Isle.
-794,"Part scarab, part man."
+794,"Part scarab, part human."
 795,A mounted lancer.
 796,A mounted archer.
-797,A huge scarab beast.
-798,A huge scarab beast.
-799,"Part scarab, part man."
+797,A huge scarab.
+798,A huge scarab.
+799,"Part scarab, part human."
 800,A mounted lancer.
 801,A mounted archer.
 802,A Fremennik bard.
@@ -1079,7 +1079,7 @@
 1124,
 1125,
 1126,"It's trying to mash you flat! Less examine, more fight!"
-1127,A huge scarab beast.
+1127,A huge scarab.
 1128,A vampyre warrior of Zamorak.
 1129,Ice warrior.
 1130,One of Gielinor's many citizens.
@@ -3074,7 +3074,7 @@
 3258,Loves nature.
 3259,Loves nature.
 3260,Not very fashion conscious.
-3261,One of the citizens of Al-Kharid.
+3261,One of the citizens of Al Kharid.
 3262,Don't let her arm-wrestle you for money.
 3263,"One of Gielinor's many citizens, currently incapacitated by alcohol."
 3264,One of Gielinor's many citizens.
@@ -3105,7 +3105,7 @@
 3289,"An ugly, smelly creature wielding a spear."
 3290,Didn't the mage say this procedure was totally safe?
 3291,Posts things.
-3292,Part of Al-Kharid's elite fighting force.
+3292,Part of Al Kharid's elite fighting force.
 3293,A holy warrior.
 3294,A holy warrior.
 3295,Heroic!
@@ -3669,7 +3669,7 @@
 3873,"A low-down, mean, dirty, cheating pirate with a fondness for kittens."
 3874,Apparently his nickname comes from his fondness for jam.
 3875,"Preach, my brother!"
-3876,Not a very convincing disguise.
+3876,She doesn't look happy.
 3877,He looks a little shifty.
 3878,He looks a little shifty.
 3879,He looks a little shifty.
@@ -3678,13 +3678,11 @@
 3882,A guard of Sophanem.
 3883,A guard of Sophanem.
 3884,A guard of Sophanem.
-3885,A guard of Menaphos.
-3886,A guard of Menaphos.
 3887,He can look after my money.
 3888,She can look after my money.
-3889,A stone mason.
-3890,The baker.
-3891,Dagger seller.
+3889,The Sophanem stonemason.
+3890,The local baker.
+3891,Seller of the finest weapons.
 3892,Runs the craft stall.
 3893,A dwarf smith. Quite handy with a hammer.
 3894,A Fremennik merchant.
@@ -3965,22 +3963,17 @@
 4183,It's a tree gnome
 4184,Never smile at a...
 4185,He has had his day.
-4186,"Obnoxious, overgrown insect."
+4186,"An obnoxious, overgrown insect."
 4187,Ball taken!
 4188,A very smelly frog.
-4189,I might give the burgers a miss in this town.
-4190,I don't fancy eating any part of this.
-4191,It's a sick-looking cow.
 4192,I think they're some kind of beetle.
 4193,A red-haired woman.
 4194,A red-haired woman.
-4195,Guardian of the liver. Guess he doesn't drink.
-4196,"Body of a woman, face of a monkey."
-4197,A scarab headed demi-god.
-4198,"Body of a woman, head of a crocodile."
+4195,Are they even real?
+4196,Are they even real?
+4197,Are they even real?
+4198,Are they even real?
 4199,A jackal headed demi-god.
-4200,A malnourished worker.
-4201,A malnourished worker.
 4202,A strange-smelling merchant.
 4203,A block of a man.
 4204,A dedicated follower of fashion.
@@ -4044,18 +4037,14 @@
 4270,One of Gielinor's many citizens.
 4271,One of Gielinor's many citizens.
 4272,One of Gielinor's many citizens.
-4274,She comes from Al-Kharid.
-4275,Lady Keli's head guard.
-4276,I wonder who he's guarding?
-4277,I wonder who he's guarding?
-4278,I wonder who he's guarding?
-4279,I wonder who he's guarding?
+4274,She comes from Al Kharid.
+4276,A dangerous looking guard.
+4277,A dangerous looking guard.
+4278,A dangerous looking guard.
+4279,A dangerous looking guard.
 4280,An old sailor.
-4281,An infamous bandit.
-4282,A young prince.
-4283,Now that's an effective disguise!
 4284,A witch.
-4285,The chancellor to the Emir.
+4285,Chancellor to the Emir.
 4286,He looks a little shifty.
 4287,Guards the border.
 4288,Guards the border.
@@ -4375,8 +4364,8 @@
 4637,He's the leader of the Bedabin tribe.
 4638,"A bedabin nomad, they live in the harshest extremes in the desert."
 4639,A bedabin nomad guard - it looks like he's protecting an area.
-4640,A resident of Al-Kharid.
-4641,A resident of Al-Kharid.
+4640,A resident of Al Kharid.
+4641,A resident of Al Kharid.
 4642,He's in control of the Shantay pass.
 4643,He patrols the Shantay Pass.
 4644,Can he build it? Yes he can!
@@ -4997,10 +4986,6 @@
 5282,"A large and lumbering undead monkey stands here, blocking the way."
 5283,A recently deceased monkey. Its flesh seems to be worse for the wear.
 5284,A small monkey dressed in purple clothes. He looks like a priest.
-5288,A strange-smelling merchant.
-5289,A block of a man.
-5290,A dedicated follower of fashion.
-5291,"Preach, my brother!"
 5293,I don't want to get on the wrong side of him.
 5294,I don't want to get on the wrong side of her.
 5295,He looks pretty handy with that bow.
@@ -5869,7 +5854,7 @@
 6340,How did this get in here?
 6341,Damages nearby monsters.
 6342,"It's trying to mash you flat! Less examine, more fight!"
-6343,A huge scarab beast.
+6343,A huge scarab.
 6344,A vampyre warrior of Zamorak.
 6345,Ice warrior.
 6346,The warrior of darkness.
@@ -9861,3 +9846,137 @@
 11467,Owner of the Old Nite pub.
 11468,The Easter Bunny! In the desert... what is going on?
 11470,The Easter Bunny! Not currently in the desert.
+11473,That's a strange hat for a local.
+11474,A spy from Al Kharid.
+11475,A spy from Al Kharid.
+11476,A spy from Al Kharid.
+11477,A spy from Al Kharid.
+11478,An ancient spirit.
+11479,An ancient spirit.
+11480,A holy scarab man.
+11481,A holy scarab man.
+11482,A powerful scabarite warrior.
+11483,A powerful scabarite warrior.
+11484,I think they're some kind of beetle.
+11485,A rift of shadows.
+11486,He looks a little shifty.
+11487,He looks a little shifty.
+11489,A shifty looking chap.
+11490,A servant of the Devourer.
+11491,A servant of the Devourer.
+11492,A servant of the Devourer.
+11493,A servant of the Devourer.
+11494,A strange shadow.
+11495,A servant of the Devourer.
+11496,A servant of the Devourer.
+11497,A servant of the Devourer.
+11498,A servant of the Devourer.
+11499,Head of the Menaphos Guards.
+11500,Adviser to Pharaoh Kemesis.
+11501,The mysterious ruler of Menaphos.
+11502,A very priestly man.
+11503,Preach my brother!
+11504,A guard of Menaphos.
+11505,A guard of Menaphos.
+11506,A guard of Menaphos.
+11507,A guard of Menaphos.
+11508,"Part scarab, part human."
+11509,I think they're some kind of beetle.
+11510,"Part scarab, part human."
+11511,"Part scarab, part human."
+11512,That's one big croc!
+11513,That's one big croc!
+11514,That's one big croc!
+11515,They seem to be in some sort of trance.
+11516,They seem to be in some sort of trance.
+11517,They seem to be in some sort of trance.
+11518,They seem to be in some sort of trance.
+11519,They seem to be in some sort of trance.
+11520,They seem to be in some sort of trance.
+11521,They seem to be in some sort of trance.
+11522,They seem to be in some sort of trance.
+11523,They seem to be in some sort of trance.
+11524,They seem to be in some sort of trance.
+11525,A guard of Menaphos.
+11526,A guard of Menaphos.
+11527,They seem to be in some sort of trance.
+11528,They seem to be in some sort of trance.
+11529,They seem to be in some sort of trance.
+11530,They don't look great.
+11531,They don't look great.
+11532,They don't look great.
+11533,They seem to be in some sort of trance.
+11534,They seem to be in some sort of trance.
+11535,They seem to be in some sort of trance.
+11536,They seem to be in some sort of trance.
+11537,They seem to be in some sort of trance.
+11538,They seem to be in some sort of trance.
+11539,They seem to be in some sort of trance.
+11540,They seem to be in some sort of trance.
+11541,They seem to be in some sort of trance.
+11542,They seem to be in some sort of trance.
+11543,They seem to be in some sort of trance.
+11544,They seem to be in some sort of trance.
+11545,They seem to be in some sort of trance.
+11546,They seem to be in some sort of trance.
+11547,They seem to be in some sort of trance.
+11548,They seem to be in some sort of trance.
+11549,A citizen of Menaphos.
+11550,A citizen of Menaphos.
+11551,A citizen of Menaphos.
+11552,A citizen of Menaphos.
+11553,A citizen of Menaphos.
+11554,A citizen of Menaphos.
+11555,A citizen of Menaphos.
+11556,A citizen of Menaphos.
+11557,That mining must be hard work.
+11558,That mining must be hard work.
+11560,A scarab headed demi-god.
+11561,A shifty looking chap.
+11562,"Preach, my brother!"
+11563,"Preach, my brother!"
+11564,She doesn't look happy.
+11565,He looks a little shifty.
+11566,He looks a little shifty.
+11569,I think they're some kind of beetle.
+11570,A guard of Menaphos.
+11571,A guard of Menaphos.
+11572,A guard of Menaphos.
+11573,A guard of Menaphos.
+11574,A guard of Menaphos.
+11575,A guard of Menaphos.
+11576,Head of the Menaphos Guards.
+11577,Lady Keli's head guard.
+11578,An infamous bandit.
+11579,A young prince.
+11580,A young prince.
+11581,Never smile at a...
+11582,Never smile at a...
+11583,He has had his day.
+11584,"An obnoxious, overgrown insect."
+11585,"An obnoxious, overgrown insect."
+11586,A very smelly frog.
+11587,I might give the burgers a miss in this town.
+11588,I don't fancy eating any part of this.
+11589,It's a sick-looking cow.
+11590,A red-haired woman.
+11591,A demi-goddess with a penchant for destruction.
+11592,Working hard or hardly working?
+11593,Working hard or hardly working?
+11594,Working hard or hardly working?
+11595,Working hard or hardly working?
+11596,A strange-smelling merchant.
+11597,A block of a man.
+11598,A dedicated follower of fashion.
+11599,A dedicated follower of fashion.
+11600,A dedicated follower of fashion.
+11601,I wonder if they dislike me examining them?
+11602,A very priestly man.
+11603,A very priestly man.
+11604,A very priestly man.
+11605,A very priestly man.
+11606,Preach my brother!
+11607,Preach my brother!
+11608,He has a dangerous glint in his eye.
+11609,Priestly.
+11610,Priestly.

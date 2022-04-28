@@ -1447,11 +1447,11 @@
 2416,A magical staff imbued with the power of Guthix.
 2417,A magical staff imbued with the power of Zamorak.
 2418,A heavy key made of bronze (Used in the Prince Ali Rescue quest).
-2419,A wig that has been dyed slightly blonde.
+2419,A wig that has been dyed blonde.
 2421,A grey woollen wig.
 2422,A nice hat from a cracker.
 2423,An imprint of a key in a lump of clay.
-2424,A bottle of skin coloured paste.
+2424,A bottle of skin paste.
 2425,Yuck! I could get it stuffed!
 2426,"Oh dear, it's totally burnt!"
 2428,4 doses of Attack potion.
@@ -2960,18 +2960,18 @@
 4674,An old and strangely shaped metal cross.
 4675,A magical staff of ancient origin...
 4677,It's an amulet of cat speak. It makes vague purring noises.
-4678,Has a lid shaped like a man. I think it contains someone's liver. Yuck.
-4679,Has a lid shaped like an ape. Eeew! I think it contains someone's intestines.
-4680,Has a lid shaped like a bug. Disgusting! I think there's a stomach inside.
-4681,"Has a lid shaped like a crocodile. Yuck, I think there are lungs inside."
-4682,Menaphite lucky charm.
-4683,Sign of the devourer.
+4678,It has a lid shaped like a man. I think it contains someone's liver. Yuck!
+4679,It has a lid shaped like an ape. Eeew! I think it contains someone's intestines.
+4680,It has a lid shaped like a bug. Disgusting! I think there's a stomach inside.
+4681,It has a lid shaped like a crocodile. Yuck! I think there are lungs inside.
+4682,A Menaphite lucky charm.
+4683,A sign of the Devourer.
 4684,One sheet of mummy wrap.
-4686,Little book of embalming by Bod E. Wrapper.
+4686,Written by Bod E. Wrapper.
 4687,It's a bucket of sap.
 4689,A little heap of salt.
-4691,Miniature golden statue of a sphinx.
-4692,Very delicate thin pressed gold.
+4691,A miniature golden statue of a sphinx.
+4692,Some very delicate thin pressed gold.
 4693,It's a bucket of salty water.
 4694,A combined Water and Fire Rune.
 4695,A combined Air and Water Rune.
@@ -5828,10 +5828,14 @@
 9038,A small statuette.
 9040,A seal. It's gold.
 9042,A seal. Made out of stone obviously.
-9044,This sceptre is fully charged.
-9046,This sceptre has two remaining charges.
-9048,This sceptre has one remaining charge.
-9050,This sceptre has no remaining charges.
+9044,An ancient and powerful sceptre.
+9045,An ancient and powerful sceptre.
+9046,An ancient and powerful sceptre.
+9047,An ancient and powerful sceptre.
+9048,An ancient and powerful sceptre.
+9049,An ancient and powerful sceptre.
+9050,An ancient and powerful sceptre.
+9051,An ancient and powerful sceptre.
 9052,"Delicious and nutritious. Well, nutritious anyway."
 9054,Some red armour designed to fit goblins.
 9055,Some black armour designed to fit goblins.
@@ -8440,11 +8444,11 @@
 13071,"A small boisterous bird, a delicacy for ogres."
 13072,Superior torso armour from the order of the Void Knights.
 13073,Superior leg armour from the order of the Void Knights.
-13074,This sceptre is fully charged.
-13075,This sceptre is fully charged.
-13076,This sceptre is fully charged.
-13077,This sceptre is fully charged.
-13078,This sceptre is fully charged.
+13074,An ancient and powerful sceptre.
+13075,An ancient and powerful sceptre.
+13076,An ancient and powerful sceptre.
+13077,An ancient and powerful sceptre.
+13078,An ancient and powerful sceptre.
 13079,This will teleport me to the Fremennik province when I play it.
 13080,A nice sturdy pike.
 13081,A nice sturdy pike.
@@ -8542,7 +8546,6 @@
 13187,A heavy package I must deliver for Little Mo.
 13188,A pair of familiar looking claws.
 13190,This bond can be redeemed for membership.
-13191,This bond can be redeemed for membership.
 13192,This bond can be redeemed for membership. It can be made tradeable again through the membership bonds interface.
 13193,A pack containing 100 bone crossbow bolts.
 13195,Ball taken!
@@ -8968,6 +8971,7 @@
 15344,null
 15345,null
 15346,null
+16176,An ancient and powerful sceptre.
 16684,A useless key.
 16888,A nice sturdy magical bow.
 16889,A nice sturdy magical bow.
@@ -10204,6 +10208,8 @@
 21437,A cape worn by fighters in the Wilderness Wars.
 21438,A cape worn by fighters in the Wilderness Wars.
 21439,"Formerly owned by Leon d'Cour, the Champion of Champions."
+21445,An ancient and powerful sceptre.
+21446,An ancient and powerful sceptre.
 21469,A teak tree seed has been sown in this plant pot.
 21471,A mahogany tree seed has been sown in this plant pot.
 21473,A teak tree seed has been sown and watered in this plant pot.
@@ -10758,8 +10764,6 @@
 22536,A pouch full of coins taken from the pockets of a gnome.
 22537,A pouch full of coins taken from the pockets of a hero.
 22538,A pouch full of coins taken from the pockets of an elf.
-22539,Looks like a cabbage.
-22540,Looks like a cabbage.
 22541,Bleh!
 22542,An ancient chainmace with a peculiar mechanism that allows for varying attack styles.
 22545,An ancient chainmace with a peculiar mechanism that allows for varying attack styles.
@@ -11690,7 +11694,6 @@
 24365,Contains an elite clue scroll.
 24366,Contains a master clue scroll.
 24367,Looks like a cabbage.
-24368,Looks like a cabbage.
 24370,You don't want to wear it inside-out.
 24372,A Dragon trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).
 24374,A Rune trophy for competing in Leagues I - Twisted (14th Nov 2019 to 16th Jan 2020).
@@ -11713,7 +11716,6 @@
 24409,The trousers of a twisted relic hunter.
 24411,The boots of a twisted relic hunter.
 24413,A banner showcasing the colours of Leagues I - Twisted.
-24415,Used for medium level missile spells.
 24416,You can store runes in here.
 24417,A powerful mace once wielded by the turncloak justiciar.
 24418,A simple marker for the dead.
@@ -11725,7 +11727,6 @@
 24424,An ancient staff corrupted by darkness. A volatile orb has been added to it.
 24425,An ancient staff corrupted by darkness. An eldritch orb has been added to it.
 24426,Looks like a cabbage.
-24427,Looks like a cabbage.
 24428,A delicious looking Gingerbread Gnome.
 24430,A delicious looking Gingerbread Gnome.
 24431,A delicious looking Gingerbread Gnome.
@@ -12028,9 +12029,7 @@
 24961,A teleport to Catherby.
 24963,A teleport to the Ice Plateau in level 53 Wilderness.
 24971,Looks like a cabbage.
-24972,Looks like a cabbage.
 24973,Looks like a cabbage.
-24974,Looks like a cabbage.
 24975,There's a spooky spell on this helm.
 24977,Looks like it can be planted in your garden.
 24979,Filled with candy.
@@ -12049,9 +12048,7 @@
 24992,It looks kind of tasty.
 24993,A rare incantation for a spell to swap heads with vegetables.
 24994,Looks like a cabbage.
-24995,Looks like a cabbage.
 24996,Looks like a cabbage.
-24997,Looks like a cabbage.
 25001,The headgear of a trailblazer relic hunter.
 25004,The coat of a trailblazer relic hunter.
 25007,The trousers of a trailblazer relic hunter.
@@ -12878,9 +12875,7 @@
 26392,A blood-filled essence with magical properties.
 26394,High grade material.
 26417,Looks like a cabbage.
-26418,Looks like a cabbage.
 26419,Looks like a cabbage.
-26420,Looks like a cabbage.
 26421,"A kit that can be used to apply a Leagues III - Shattered Relics theme to an Abyssal whip or Tentacle, Rune crossbow or God book piece."
 26424,A banner showcasing the colours of Leagues III - Shattered Relics.
 26427,The headgear of a Shattered Relic Hunter.
@@ -13222,3 +13217,29 @@
 26939,This would be pretty good for a sneaking mission.
 26941,"Highly potent essence, imbued with multiple elemental energies."
 26942,A strange message.
+26943,A clue!
+26944,A clue!
+26945,This sceptre has no remaining charges.
+26948,An ancient and powerful sceptre.
+26950,An ancient and powerful sceptre.
+26952,This could be used to make something.
+26953,An iron disc with a scarab on it.
+26954,Some writing has been carved into it.
+26955,An old chest with a combination lock on it.
+26956,A gold emblem of a scarab.
+26957,A gold emblem of a human.
+26958,A gold emblem of a baboon.
+26959,A gold emblem of a crocodile.
+26960,A rusty key (Used in the Beneath Cursed Sands quest).
+26961,A beautiful lily.
+26962,A crate full of vials.
+26963,Do they make me look... grouchy?
+26965,Better not drink this...
+26967,A magical circlet for keeping you hydrated in the desert. It needs charging.
+26969,A magical circlet for keeping you hydrated in the desert.
+26971,Looks like a cabbage.
+26973,Looks like a cabbage.
+26975,Looks like a cabbage.
+26977,Looks like a cabbage.
+26979,Looks like a cabbage.
+26981,Verac the Defiled's helm.

@@ -689,13 +689,13 @@
 1076,The Dancing Donkey - Licensed to sell intoxicating beverages.
 1077,The Dragon Inn - Visit us for a fiery brew!
 1078,Karamja Spirits bar - For all your alcohol needs.
-1079,North to Varrock :: East to Al-Kharid.
+1079,North to Varrock :: East to Al Kharid.
 1080,North road to Draynor Village :: East road to Varrock.
 1081,North to Draynor Village.
 1082,North to Draynor Manor :: West to Asgarnia.
 1083,South to the Wizards' Tower :: East to Lumbridge.
 1084,South to Lumbridge :: West to Varrock :: East to the Digsite.
-1085,South to Al-Kharid :: West to Lumbridge :: East to the Digsite.
+1085,South to Al Kharid :: West to Lumbridge :: East to the Digsite.
 1086,North to Varrock :: East to the Digsite.
 1087,South to the Wizards' Tower :: North to Draynor Village :: East to Lumbridge.
 1088,The ideal thing to sit on.
@@ -1863,8 +1863,6 @@
 2879,Patterns of light dance hypnotically across the pool's surface.
 2880,There seems to be some sort of magical field here.
 2881,It's closed.
-2882,The toll gate from Lumbridge to Al-Kharid.
-2883,The toll gate from Lumbridge to Al-Kharid.
 2884,I can climb this.
 2885,An antique by anyone's standards.
 2886,"An antique by anyone's standards, however, it might have something interesting in it."
@@ -3888,18 +3886,17 @@
 6561,A ladder that's almost not there at all...
 6567,ALL of the numbers.
 6568,Garments for the discerning.
-6569,"Gone-off bread, cakes and pastries."
+6569,Bread and cakes for sale.
 6570,Finest precious stones.
 6571,These will keep you warm.
 6572,The spice is right.
 6573,An empty market stall.
 6574,Fine brews from exotic regions.
 6575,Best used with a horse.
-6578,Grows a yellow fruit.
-6579,Grows a yellow fruit.
+6578,A tropical tree.
 6581,A way to get in the tent.
 6605,Wet and salty.
-6606,The focus of the suntrap.
+6606,It's surrounded by mirrors.
 6607,A shiny mirror.
 6608,A shiny mirror.
 6609,A shiny mirror.
@@ -3918,17 +3915,15 @@
 6626,A big wooden door.
 6627,A big wooden door.
 6629,That could hurt.
-6630,A strange thing to leave lying around...
 6632,I can't see the bottom.
 6633,I can't see the bottom.
-6635,Has a lid shaped like a man. I think it contains someone's liver. Yuck.
-6637,"Has a lid shaped like a crocodile. Yuck, I think there are lungs inside."
-6639,Has a lid shaped like a bug. Disgusting! I think there's a stomach inside.
-6641,Has a lid shaped like an ape. Eeew! I think it contains someone's intestines.
-6642,Holds the ceiling up.
-6643,"Opens into another area, come on, I know this."
+6635,It has a lid shaped like a man. I think it contains someone's liver. Yuck.
+6637,"It has a lid shaped like a crocodile. Yuck, I think there are lungs inside."
+6639,It has a lid shaped like a bug. Disgusting! I think there's a stomach inside.
+6641,It has a lid shaped like an ape. Eeew! I think it contains someone's intestines.
+6642,It's a wall.
 6644,Useful for putting things on.
-6645,A ladder!! Never seen one of those before.
+6645,A ladder! Never seen one of those before.
 6646,I wonder what's inside.
 6647,Perhaps I should search it.
 6648,I wonder where this goes?
@@ -8782,7 +8777,7 @@
 14025,It might have once looked something like a human.
 14026,The remains of an ancient beast.
 14027,The remains of an ancient beast.
-14028,Could this have been one of the ancient Dragonkin?
+14028,Could this have been one of the ancient dragonkin?
 14029,Looks like it used to be some kind of reptile.
 14030,I'm really glad it's dead.
 14031,I'm really glad it's dead.
@@ -11901,8 +11896,8 @@
 18955,Looks like he's been dead a while now...
 18956,I don't think he'd mind us checking for his wallet now...
 18957,I'm sure he died of natural causes. Like a massive dragon or something...
-18958,The cart which takes barrels of rocks from the mining encampment to Al-Kharid.
-18959,The cart which takes barrels of rocks from the mining encampment to Al-Kharid.
+18958,The cart which takes barrels of rocks from the mining encampment to Al Kharid.
+18959,The cart which takes barrels of rocks from the mining encampment to Al Kharid.
 18960,"A big strong camel, used for pulling carts full of minerals."
 18961,Rocky!
 18962,A barrel containing rocks and mining debris.
@@ -12489,9 +12484,9 @@
 20265,A hopper for eggs.
 20266,A hopper for eggs.
 20270,A rockslide.
-20271,It's the floor...
-20272,Looks suspicious.
-20273,Odd markings.
+20271,It's a trap!
+20272,Looks dangerous!
+20273,Looks dangerous!
 20274,The trapdoor is shut tight.
 20275,Allows access to level below.
 20277,The trapdoor is shut tight.
@@ -12505,7 +12500,6 @@
 20285,Allows access to level below.
 20286,Allows access to above level.
 20287,Allows access to level below.
-20288,"Kaleef is dead, killed by some evil beast."
 20297,Now that's what I call slimline!
 20298,He looks very relaxed.
 20299,Now he's just too thin.
@@ -12519,8 +12513,8 @@
 20328,This bank booth is too damaged to use.
 20329,A table.
 20330,A table.
-20331,A dagger market stall.
-20332,A market stall.
+20331,There's lots of weapons for sale here.
+20332,A stall of crafting goods.
 20335,It's the floor...
 20336,Sign.
 20338,A very solid stone door.
@@ -12530,7 +12524,6 @@
 20342,Best used with a horse.
 20343,Best used with a horse.
 20344,Garments for the discerning.
-20345,"Gone-off bread, cakes and pastries."
 20346,Finest precious stones.
 20347,These will keep you warm.
 20348,The spice is right.
@@ -12561,12 +12554,10 @@
 20375,Used for fashioning clay items.
 20376,I'm guessing it's for making women's clothes.
 20377,An altar.
-20378,An altar.
 20379,A broken altar.
 20386,Great for sleeping in.
 20387,Great for sleeping in.
 20388,Bits related to sewing.
-20391,Great.
 20402,Keeps mine carts from rolling away.
 20407,A mineral vein.
 20408,A mineral vein.
@@ -24196,3 +24187,225 @@
 43870,Someone has dropped their shield!
 43872,Watch your step!
 43873,An escape back to the surface.
+43876,There's nothing there.
+43877,There's nothing there.
+43878,A conveniently located hole.
+43879,Store things and stuff here.
+43882,There's a pickaxe stuck in one of them.
+43883,Nice and rocky.
+43884,Good for digging with.
+43886,Good for digging with.
+43887,Looks surprisingly comfortable.
+43888,Looks surprisingly comfortable.
+43889,There's an assortment of camping equipment here.
+43890,There's an assortment of camping equipment here.
+43891,It's not been used in a very long time.
+43892,It's not been used in a very long time.
+43893,It's not been used in a very long time.
+43894,It's not been used in a very long time.
+43895,It's been lit again.
+43898,An ancient pillar.
+43899,An ancient pillar.
+43900,An ancient pillar.
+43901,An ancient pillar.
+43902,Conveniently placed for blacksmiths.
+43903,Conveniently placed for blacksmiths.
+43919,"Knowing my luck, there'll probably be a snake in here..."
+43920,Old and fancy.
+43921,Might be worth a pretty penny.
+43922,Would probably have a smashing time trying to move these.
+43923,I wonder if that's gold...
+43924,Must resist the desire to steal it.
+43925,Someone's already got to this one.
+43926,Someone's already got to this one.
+43927,For someone very important.
+43935,They're looking great!
+43936,Their prognosis is pretty poor.
+43937,The bell has tolled for this one.
+43938,A statue of Scabaras.
+43939,A statue of Scabaras.
+43940,A statue of Scabaras.
+43941,The remains of a statue.
+43948,Looks sus.
+43949,Looks sus.
+43950,Looks sus.
+43951,Looks sus.
+43952,It's sealed.
+43953,It's sealed.
+43954,Leads down below.
+43955,Leads back to the surface.
+43956,For climbing.
+43957,For climbing.
+43958,For climbing.
+43959,For climbing.
+43960,An old door.
+43961,An old door.
+43962,An old door.
+43963,An old door.
+43964,An old door.
+43965,An old door.
+43966,An old door.
+43967,For pulling.
+43968,It's been pulled.
+43969,For pulling.
+43970,It's been pulled.
+43971,An ancient plaque.
+43972,An ancient plaque.
+43973,An ancient plaque.
+43974,An ancient plaque.
+43975,An ancient plaque.
+43976,An ancient plaque.
+43977,An ancient plaque.
+43978,An ancient plaque.
+43979,An ornate urn.
+43980,An ornate urn.
+43981,An ornate urn.
+43982,An altar dedicated to Scabaras.
+43983,An altar dedicated to Scabaras.
+43984,Beautiful!
+43985,Beautiful!
+43986,Not so beautiful now.
+43987,Not so beautiful now.
+43988,A well placed stone.
+43989,A well placed stone.
+43990,A well placed stone.
+43991,Covered in chemistry equipment.
+43992,Covered in chemistry equipment.
+43993,An ancient pillar.
+43994,An ancient pillar.
+43995,An ancient pillar.
+43996,An ancient pillar.
+43997,An ancient pillar.
+44003,A pile of rubble.
+44004,A pile of rubble.
+44005,A pile of rubble.
+44006,A pile of rubble.
+44007,A pile of rubble.
+44008,There doesn't seem to be any way through.
+44009,There doesn't seem to be any way through.
+44010,Leads inside.
+44013,Amazing how these survive the harsh desert.
+44014,Amazing how these survive the harsh desert.
+44015,Amazing how these survive the harsh desert.
+44019,A crude stone table.
+44020,Better than sitting on sand.
+44021,As if it wasn't already hot enough out here.
+44022,Burning with dark magic.
+44023,Burning with dark magic.
+44024,Burning with dark magic.
+44025,Burning with dark magic.
+44026,Burning with dark magic.
+44027,Burning with dark magic.
+44028,Burning with dark magic.
+44029,A succulent cactus.
+44030,A less-than-succulent succulent.
+44031,Bread and cakes for sale.
+44032,Allows access to above level.
+44033,An altar.
+44034,An altar.
+44035,A fancy railing.
+44036,For going through.
+44038,For going through.
+44040,For going through.
+44042,For going through.
+44043,For going through.
+44044,Allows access to level below.
+44045,Allows access to above level.
+44046,Killed by some evil beast.
+44047,Killed by some evil beast.
+44048,Formed over many years.
+44049,There's no way of getting in there.
+44050,The toll gate from Lumbridge to Al Kharid.
+44051,The toll gate from Lumbridge to Al Kharid.
+44052,The toll gate from Lumbridge to Al Kharid.
+44053,The toll gate from Lumbridge to Al Kharid.
+44054,For storing things in.
+44057,A place for the dead.
+44058,A place for the dead.
+44059,For going through.
+44060,For going through.
+44061,For going through.
+44062,For going through.
+44063,A ladder! Never seen one of those before.
+44064,It looks like a hole in the wall.
+44065,A large door with a hieroglyph of a cat.
+44068,Looks succulent.
+44069,Looks succulent.
+44070,Looks succulent.
+44071,Looks succulent.
+44072,Looks succulent.
+44073,Looks succulent.
+44074,Looks succulent.
+44075,Looks succulent.
+44076,Looks succulent.
+44077,Looks succulent.
+44078,Looks succulent.
+44079,Looks succulent.
+44080,Looks succulent.
+44081,Looks succulent.
+44082,Looks succulent.
+44111,I could probably climb these.
+44113,I could probably climb these.
+44126,Looks to be holding up down here.
+44127,Looks to be holding up down here.
+44128,Smells a bit iffy.
+44129,Once used for ancient ceremonies.
+44130,Once used for ancient ceremonies.
+44131,Once used for ancient ceremonies.
+44132,Once used for ancient ceremonies.
+44133,Happy little plant.
+44134,Happy little plant.
+44135,Happy little plant.
+44136,Happy little plant.
+44137,Happy little plant.
+44143,"Looks a bit tatty, but who am I to judge?"
+44144,"Looks a bit tatty, but who am I to judge?"
+44145,"Looks a bit tatty, but who am I to judge?"
+44146,"Looks a bit tatty, but who am I to judge?"
+44147,"Looks a bit tatty, but who am I to judge?"
+44148,"Looks a bit tatty, but who am I to judge?"
+44204,A very old pillar.
+44205,A very old pillar.
+44206,A large piece of rubble.
+44207,A very old pillar.
+44208,A very old pillar.
+44209,A very old pillar.
+44210,A very old pillar.
+44211,A pile of stones.
+44216,This tree contains dangerous insects no doubt.
+44217,This tree contains dangerous insects no doubt.
+44218,This tree contains dangerous insects no doubt.
+44223,A small bushy plant.
+44224,A small bushy plant.
+44225,A small bushy plant.
+44226,A small bushy plant.
+44227,All the leaves have fallen off.
+44228,All the leaves have fallen off.
+44260,I don't think they're going to make it.
+44261,One less adventurer...
+44262,Oh dear.
+44276,Some wooden crates.
+44277,A wooden crate.
+44278,A little shaded area.
+44279,It's a tent.
+44280,Looks surprisingly comfortable.
+44281,Looks surprisingly comfortable.
+44282,Looks surprisingly comfortable.
+44287,A magic carpet.
+44288,A rolled up magic carpet.
+44289,Prepared hides hang here drying.
+44290,Better than sitting on sand.
+44291,Better than sitting on sand.
+44292,Better than sitting on sand.
+44293,Generally used for putting things on.
+44294,I wonder what happened to this.
+44295,Generally used for putting things on.
+44296,An ancient obelisk.
+44547,test
+44548,
+44551,This place needs a clean...
+44552,This place needs a clean...
+44553,So that's where the light is coming from!
+44584,"It's so lifelike, you can almost hear the roar."
+44585,The heat distorts the light.
+44586,The heat distorts the light.

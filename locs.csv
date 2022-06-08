@@ -7467,6 +7467,7 @@
 12008,It faintly glimmers.
 12009,It faintly glimmers.
 12010,It faintly glimmers.
+12011,It faintly glimmers.
 12012,It faintly glimmers.
 12013,It faintly glimmers.
 12014,It faintly glimmers.
@@ -10253,6 +10254,7 @@
 16277,A patch of bullrushes.
 16278,A patchy patch of bullrushes.
 16279,A large bullrush.
+16280,What do you call a bull in a hurry? A bullrush.
 16281,A patch of bullrushes.
 16282,A patchy patch of bullrushes.
 16283,"Rock, but obviously not roll."
@@ -15437,10 +15439,10 @@
 26167,Some abyssal tendrils.
 26168,Some abyssal tendrils.
 26169,Some abyssal tendrils.
-26170,Eeeeew.
-26171,Eeeeew.
-26172,Eeeeew.
-26173,Eeeeew.
+26170,Eww.
+26171,Eww.
+26172,Eww.
+26173,Eww.
 26174,Looks like it's coming from the walls.
 26175,"It's a long, hot rock."
 26176,Looks like it's coming from the walls.
@@ -23488,7 +23490,7 @@
 42155,An assortment of items stored on shelves.
 42156,An assortment of items stored on shelves.
 42157,An assortment of items stored on shelves.
-42158,It's locked tight. It probably contains someone elses valuable possessions.
+42158,It's locked tight. It probably contains someone else's valuable possessions.
 42159,A fire burns cosily in the grate.
 42160,A dedication to Shay - an absolute warrior.
 42161,"It's locked tight. All that gold... Out of reach, so far..."
@@ -23739,7 +23741,6 @@
 42840,An ancient frozen door.
 42841,An ancient frozen door.
 42852,For when you have far too much money.
-42853,Perhaps you might like to go in this direction.
 42854,It might have something in it.
 42855,Looks foreboding!
 42856,There is some sort of ancient inscription on it.
@@ -23948,19 +23949,19 @@
 43479,A mysterious power emanates from this shrine.
 43484,Collect the loot from your Wilderness Keys here.
 43485,Contains the loot from one of your Wilderness Keys.
-43487,To keep your group's most valueable possessions in... potentially
-43488,To keep your group's most valueable possessions in... potentially
-43489,To keep your group's most valueable possessions in... potentially
-43490,To keep your group's most valueable possessions in... potentially
-43491,To keep your group's most valueable possessions in... potentially
-43492,To keep your group's most valueable possessions in... potentially
-43493,To keep your group's most valueable possessions in... potentially
-43494,To keep your group's most valueable possessions in... potentially
-43495,To keep your group's most valueable possessions in... potentially
-43496,To keep your group's most valueable possessions in... potentially
-43497,To keep your group's most valueable possessions in... potentially
-43498,To keep your group's most valueable possessions in... potentially
-43499,To keep your group's most valueable possessions in... potentially
+43487,To store your group's most valuable possessions... potentially.
+43488,To store your group's most valuable possessions... potentially.
+43489,To store your group's most valuable possessions... potentially.
+43490,To store your group's most valuable possessions... potentially.
+43491,To store your group's most valuable possessions... potentially.
+43492,To store your group's most valuable possessions... potentially.
+43493,To store your group's most valuable possessions... potentially.
+43494,To store your group's most valuable possessions... potentially.
+43495,To store your group's most valuable possessions... potentially.
+43496,To store your group's most valuable possessions... potentially.
+43497,To store your group's most valuable possessions... potentially.
+43498,To store your group's most valuable possessions... potentially.
+43499,To store your group's most valuable possessions... potentially.
 43503,It's raining blood? Oh dear.
 43504,It's raining blood? Oh dear.
 43508,"A message carved into the ground next to it reads: 'Minas, I'm sorry.'"
@@ -24067,8 +24068,8 @@
 43723,Various scraps of essence and guardian parts. Some of it looks useful.
 43724,Perhaps I can climb these.
 43726,Perhaps I can climb these.
-43727,Perhaps I can use these to climb down?
-43728,Perhaps I can use these to climb down?
+43727,Perhaps I can climb these.
+43728,Perhaps I can climb these.
 43729,Where might it go?
 43730,Where might it go?
 43731,A bunch of strange-looking containers for holding runic energy.
@@ -24168,6 +24169,15 @@
 43828,A strange abyssal plant.
 43849,A mystical barrier.
 43851,Better not eat them!
+43857,Looks like a large water-powered piece of machinery that's been left in disrepair.
+43858,A large water-powered piece of machinery.
+43860,Looks like a large water-powered piece of machinery that's been left in disrepair.
+43861,A large water-powered piece of machinery.
+43862,Looks like a large water-powered piece of machinery that's been left in disrepair.
+43863,A large water-powered piece of machinery.
+43864,Wonder what this was used for.
+43865,Looks like it can hold a heavy load.
+43866,For putting things in.
 43867,A pile of rubble is blocking the way. There's probably a better exit somewhere.
 43868,It's not any safer out there.
 43869,Someone has dropped their weapon!
@@ -24396,3 +24406,49 @@
 44584,"It's so lifelike, you can almost hear the roar."
 44585,The heat distorts the light.
 44586,The heat distorts the light.
+44601,I don't think I'd want to swim in that.
+44602,A raging torrent.
+44604,Some kind of rack? Maybe the giants used it to cook food.
+44605,Looks heavy.
+44606,Would probably hurt to stick my hand in there.
+44607,Looks like a large water-powered piece of machinery that's been left in disrepair.
+44608,Looks like a large water-powered piece of machinery that's been left in disrepair.
+44609,Looks like a large water-powered piece of machinery that's been left in disrepair.
+44610,You can feel the heat of the desert wafting through.
+44611,Wonder what this was used for.
+44612,Looks like can hold a heavy load.
+44613,For putting things in.
+44614,I don't think I'd want to swim in that.
+44615,A raging torrent.
+44616,Some kind of rack? Maybe the giants used it to cook food.
+44617,Looks heavy.
+44619,A large industrial hammer powered by water.
+44620,A large industrial grindstone powered by water.
+44621,A large industrial polishing wheel powered by water.
+44622,A big bucket.
+44623,A big bucket.
+44624,A big bucket.
+44625,Looks like it can hold a heavy load.
+44626,Looks like it can hold a heavy load.
+44627,Looks like it can hold a heavy load.
+44628,Looks like it can hold a heavy load.
+44629,Looks like it can hold a heavy load.
+44630,Hope my things don't get too hot up here.
+44631,Dipping the preform here will heat it up.
+44632,Dipping the preform here will cool it down.
+44633,Looks like it'll keep a preform hot.
+44634,Looks like it'll keep a preform hot.
+44635,Ominous.
+44636,You can feel the heat of the desert wafting through.
+44637,Looks heavy.
+44638,Looks heavy.
+44663,A descent of water.
+44683,A selection of moulds have been stacked here.
+44726,Probably useful for putting things in.
+44727,Cor blimey that's a big one.
+44728,A wooden wheelbarrow.
+44729,Useful for picking up hot things.
+44761,Must be what powers these tools.
+44762,Would probably hurt to stick my hand in there.
+44763,Would probably hurt to stick my hand in there.
+44772,

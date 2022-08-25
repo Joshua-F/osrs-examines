@@ -10672,6 +10672,7 @@
 22361,A chocolate egg decorated in the colours of Zamorak.
 22364,For seeing things that are there.
 22365,I can use this to gain Shayzien Favour.
+22366,It's a cyan crystal.
 22367,I can use this to gain Kourend favour.
 22368,"It's a slightly magical stick. All natural, of course."
 22370,"It's a slightly more magical stick. All natural, of course."
@@ -10884,6 +10885,7 @@
 22774,Some old notes.
 22775,A copy of an ancient letter.
 22777,I can use this to gain Arceuus favour.
+22778,Site of the darkest rites in Kourend's history.
 22779,null
 22780,I wonder how Wyrms have bones...
 22783,The bones of a ferocious Drake.
@@ -11302,7 +11304,7 @@
 23646,A sturdy pair of tassets.
 23648,A dragon tipped javelin.
 23649,Enchanted Diamond tipped Adamantite Crossbow Bolts.
-23650,Unlimited charges of Blood and Ice Barrage.
+23650,Unlimited charges of some handy spells from your chosen spellbook.
 23652,The magical book of the Mage.
 23653,Ahrim the Blighted's quarterstaff.
 23654,A smokey evil embodies this amulet.
@@ -12028,6 +12030,12 @@
 24959,A teleport to the Fishing Guild.
 24961,A teleport to Catherby.
 24963,A teleport to the Ice Plateau in level 53 Wilderness.
+24965,This kitten seems to like you.
+24966,This kitten seems to like you.
+24967,This kitten seems to like you.
+24968,This kitten seems to like you.
+24969,This kitten seems to like you.
+24970,This kitten seems to like you.
 24971,Looks like a cabbage.
 24973,Looks like a cabbage.
 24975,There's a spooky spell on this helm.
@@ -12103,6 +12111,8 @@
 25112,A very powerful pickaxe in the colours of the Trailblazer League.
 25114,A very powerful harpoon in the colours of the Trailblazer League.
 25117,Special tomato to do league things.
+25127,This looks like it can be turned.
+25128,An odd diagram.
 25129,Makes sure no bees get in your eyes!!
 25131,"According to the laws of aviation, there is no way that a bee should be able to fly."
 25133,Truly these pants are the bee's knees.
@@ -12112,6 +12122,10 @@
 25145,A badly sculpted clay head.
 25146,A badly sculpted clay head covered in fur.
 25147,A badly sculpted clay head covered in fur and 'blood'.
+25148,A badly sculpted clay head.
+25149,A badly sculpted clay head covered in fur.
+25150,A badly sculpted clay head covered in fur and 'blood'.
+25151,It looks awful.
 25152,"According to the cover, it was written by someone called Neilan Redmark."
 25154,Ornate undead combat dummy
 25155,"Very decorative boots, but they're broken."
@@ -12340,6 +12354,10 @@
 25521,How does someone jar this?
 25524,Don't breathe in.
 25527,"Small, shiny bits of rock. Someone at the Mining Guild might find them interesting."
+25529,"Small, shiny bits of rock. Someone at the Mining Guild might find them interesting."
+25530,"Small, shiny bits of rock. Someone at the Mining Guild might find them interesting."
+25531,"Small, shiny bits of rock. Someone at the Mining Guild might find them interesting."
+25532,"Small, shiny bits of rock. Someone at the Mining Guild might find them interesting."
 25533,A pack containing 100 pieces of soft clay.
 25535,A pack containing 100 pure essence.
 25537,Contains gems - but which ones?
@@ -12440,6 +12458,7 @@
 25704,"A compilation of old notes found on Lithkren, written in a strange text."
 25706,A dusty note found in the Tower of Magic Prison.
 25708,A piece used in board games.
+25709,Used to delete runes in Sudoku.
 25710,A comfy stool.
 25711,A comfy stool.
 25712,Shows your clan's colours.
@@ -12530,6 +12549,7 @@
 25817,The original Royal Accord of Twill.
 25818,A book that grants its holder the powers of resurrection.
 25820,Good for rubbing.
+25821,A rare type of rose.
 25822,Down with the Council!
 25824,Random scribbles about some stone. They looks to be very old.
 25826,A viscous bright-green ale. Smells like a herpetarium.
@@ -12608,24 +12628,30 @@
 25959,A corrupted crystal enchanted to allow the user to escape the Gauntlet.
 25960,Tastes a bit sharp.
 25961,A crystal enchanted to allow the user to escape the Gauntlet.
+25962,Ewww!
 25963,The key to a crypt (Used in the A Night at the Theatre quest).
 25964,The head of Ranis Drakan.
 25965,Yuck!
 25966,A corrosive liquid.
 25967,There's some nasty substance on it.
 25968,The sticky bark of a hespori. It feels like it's still alive.
-25969,An ancient chestplate once worn by a powerful ranger.
-25971,An ancient chainskirt once worn by a powerful ranger.
-25973,An ancient amulet once worn by a powerful ranger.
+25969,null
+25970,null
+25971,null
+25972,null
+25973,null
+25974,null
 25975,A heavy ring that glimmers with a strange power.
 25977,null
 25978,null
 25979,A mystical-feeling polearm.
-25981,A mystical-feeling polearm imbued with an ancient power.
-25983,A broken ward once used by Elidinis herself.
+25981,A mystical-feeling polearm imbued with great power.
+25983,null
+25984,null
 25985,A ward once used by Elidinis herself.
-25987,A wand once used by Tumeken himself.
-25989,A wand once used by Tumeken himself. It is currently uncharged.
+25987,null
+25988,null
+25989,null
 25990,A sigil attuned to you with great power.
 25991,A power enhancing sigil not yet attuned to you.
 25993,A sigil attuned to you with great power.
@@ -12785,8 +12811,9 @@
 26214,An icon.
 26215,An icon.
 26216,null
-26217,An ancient chainskirt once worn by a powerful ranger.
-26219,An ancient and deadly sword.
+26217,null
+26218,null
+26219,A deadly sword created long ago.
 26221,Some ceremonial robes dedicated to an ancient god.
 26223,Some ceremonial robes dedicated to an ancient god.
 26225,A ceremonial mask dedicated to an ancient god.
@@ -13288,7 +13315,7 @@
 27050,A platebody representing your group of three.
 27052,A platebody representing your group of four.
 27054,A platebody representing your group of five.
-27086,Supplies the runes for casting any spell.
+27086,Supplies a selection of runes for spellcasting.
 27087,null
 27098,Use on an elder maul to make it look fancier!
 27100,A maul crafted from the component parts of Tekton and various decorative materials.
@@ -13311,3 +13338,123 @@
 27151,A crown made out of six beautiful flowers that celebrates Pride.
 27153,A crown made out of six beautiful flowers that celebrates Pride.
 27155,A crown made out of six beautiful flowers that celebrates Pride.
+27157,A finely balanced and powerful throwing knife.
+27158,The upper half of a magical robe.
+27159,The lower half of a magical robe.
+27160,The upper half of a magical robe.
+27161,The lower half of a magical robe.
+27162,Slightly magical boots.
+27163,Halo with the protection of Guthix.
+27164,Halo with the protection of Zamorak.
+27165,Halo with the protection of Saradomin.
+27166,"A ghostly hood, fit for a ghostly head."
+27167,A particularly spooky robe top.
+27168,An unearthly set of robe bottoms.
+27169,This helmet is worn by berserkers.
+27170,Mystical boots.
+27171,A deep sense of torment burns within this powerful bracelet.
+27172,A deep sense of anguish burns within this powerful necklace.
+27173,A deep sense of torture burns within this powerful amulet.
+27174,The robes worn by the dangerous elder druids.
+27175,The robes worn by the dangerous elder druids.
+27176,The hood worn by the dangerous elder druids.
+27177,A kilt worn by the mightiest of Fremennik warriors.
+27178,"Some very spikey metal bands, better make sure I don't cut myself while walking."
+27179,Lightweight body armour ideal for rangers.
+27180,Guthix blessed dragonhide chaps.
+27181,Zamorak blessed dragonhide chaps.
+27182,Saradomin blessed dragonhide chaps.
+27183,Fabulously ancient mage protection enchanted in the 3rd Age.
+27184,"A mysterious, heavy sword."
+27185,A defensive weapon.
+27186,A weapon born out of conflict.
+27187,"A magical elven bow, corrupted through the addition of too many shards."
+27188,A weapon forged from the wreckage of an airship.
+27189,Verac the Defiled's flail.
+27190,Verac the Defiled's brassard.
+27191,The unholy book of Zamorak.
+27192,"Enchanted Dragon crossbow bolts, tipped with opal."
+27193,The robe top of a powerful sorceress from a bygone era.
+27194,The robe bottoms of a powerful sorceress from a bygone era.
+27195,The great helmet of the turncloak justiciar.
+27196,The hauberk of the turncloak justiciar.
+27197,The plateskirt of the turncloak justiciar.
+27198,A powerful mace once wielded by the turncloak justiciar.
+27199,Fabulously ancient range protection crafted from white dragonhide.
+27200,Fabulously ancient range protection crafted from white dragonhide.
+27201,Fabulously ancient range protection crafted from white dragonhide.
+27202,4 doses of Menaphite remedy.
+27205,3 doses of Menaphite remedy.
+27208,2 doses of Menaphite remedy.
+27211,1 dose of Menaphite remedy.
+27214,"Eww, it stinks! Why would I want this?"
+27216,Perhaps this was more valuable in another age?
+27219,Fallen out during battle.
+27221,Too big to eat.
+27223,A heap of strange ashes.
+27225,That's right! Grain!
+27226,An ancient mask once worn by a powerful ranger.
+27229,Ancient armour once worn by a powerful ranger.
+27232,Ancient armour once worn by a powerful ranger.
+27235,A fortified mask once worn by a powerful ranger.
+27238,Fortified armour once worn by a powerful ranger.
+27241,Fortified armour once worn by a powerful ranger.
+27246,A deadly sword created long ago.
+27248,Cursed with a strange magical power. Looks like it could be attached to something.
+27251,A fortified ward once used by Elidinis herself.
+27253,A fortified ward once used by Elidinis herself.
+27255,Use on Elidinis' ward to change its look.
+27257,A cloak made to honour the dead.
+27259,A cloak made to honour the dead.
+27261,A cloak made to honour the dead.
+27263,A cloak made to honour the dead.
+27265,A cloak made to honour the dead.
+27267,A hood made to honour the dead.
+27269,High grade material.
+27272,A beautiful lily.
+27275,An ancient staff created using a higher power.
+27277,An ancient staff created using a higher power.
+27279,A spool of thread that gives off a divine energy.
+27281,A vessel used to store runes that's been imbued with the powers of Elidinis.
+27283,A jewel with a scarab etched upon it that radiates with power.
+27285,A jewel with a symbol of destruction etched upon it that radiates with power.
+27287,A mystical-feeling polearm imbued with destructive power.
+27289,A jewel with a symbol of the sun etched upon it that radiates with power.
+27291,A mystical-feeling polearm imbued with radiating power.
+27293,"An intricate casket engraved with images of blood, soul and death runes."
+27295,It's a little leaky!
+27296,I can just about see something in the reflection.
+27297,For neutralising toxic fumes and corruption.
+27298,A message from Maisa.
+27299,Good for rubbing.
+27300,A journal found at the entrance to Osmumten's Tomb.
+27302,A book about Amascut's capture of Het.
+27304,A book about Amascut's capture of Apmeken.
+27306,A book about Amascut's capture of Scabaras.
+27308,A book about Amascut's capture of Crondis.
+27310,A book about the Wardens.
+27312,An old Menaphite story.
+27314,Some helpful supplies.
+27315,Provides immediate healing at the cost of combat prowess.
+27317,Provides immediate healing at the cost of combat prowess.
+27319,Provides immediate healing at the cost of combat prowess.
+27321,Provides immediate healing at the cost of combat prowess.
+27323,Restores a large amount of health over time.
+27325,Restores a large amount of health over time.
+27327,Restores combat abilities and prayer for you and for nearby allies.
+27329,Restores combat abilities and prayer for you and for nearby allies.
+27331,Restores combat abilities and prayer for you and for nearby allies.
+27333,Restores combat abilities and prayer for you and for nearby allies.
+27335,Restores a large amount of prayer over time.
+27337,Restores a large amount of prayer over time.
+27339,Reduces how much energy is used when peforming a special attack.
+27341,Reduces how much energy is used when peforming a special attack.
+27343,Repeatedly boosts combat abilities over time and restores run energy.
+27345,Repeatedly boosts combat abilities over time and restores run energy.
+27347,Restores and boosts health and prayer while also curing poison.
+27349,Restores and boosts health and prayer while also curing poison.
+27351,Just close your eyes and pretend its beef jerky.
+27352,A tiny automaton imbued with a trace of Tumeken's power.
+27354,A tiny automaton imbued with a trace of Elidinis' power.
+27355,"A set containing a Masori mask (f), Masori body (f), Masori chaps (f)"
+27358,An ancient tome containing the secrets of fire magic.

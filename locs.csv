@@ -9758,6 +9758,7 @@
 15479,Home sweet home?
 15480,Home sweet home?
 15481,Home sweet home?
+15483,The way in.
 15487,For swinging on.
 15488,A terribly tall tropical tree.
 15489,A terribly tall tropical tree.
@@ -23186,7 +23187,7 @@
 41693,A hanging banner depicting the colours of the clan that resides here.
 41694,Good for preparing food on.
 41695,Good for preparing food on.
-41696,A wooden stool with a cat sleeping peacefully. You don't want to disturb him sleeping.
+41696,What could be inside?
 41697,Something about them doesn't seem right.
 41701,The sort of bench you get in churches.
 41703,A suit of armour.
@@ -24266,7 +24267,7 @@
 44007,A pile of rubble.
 44008,There doesn't seem to be any way through.
 44009,There doesn't seem to be any way through.
-44010,Leads inside.
+44010,Enter if you dare...
 44013,Amazing how these survive the harsh desert.
 44014,Amazing how these survive the harsh desert.
 44015,Amazing how these survive the harsh desert.
@@ -24384,7 +24385,6 @@
 44294,I wonder what happened to this.
 44295,Generally used for putting things on.
 44296,An ancient obelisk.
-44547,test
 44548,
 44551,This place needs a clean...
 44552,This place needs a clean...
@@ -24442,6 +24442,23 @@
 44781,Contains the loot from one of your Wilderness Keys.
 44784,The door is closed.
 44785,The door is open.
+44786,What could be inside?
+44787,It's been opened.
+44788,It's been opened.
+44789,It's been opened.
+44790,It's empty.
+44791,It's empty.
+44792,It's empty.
+44793,I wonder what's inside?
+44794,I like that pillar. That is a nice pillar.
+44795,I like that pillar. That is a nice pillar.
+44796,I like that pillar. That is a nice pillar.
+44797,I like that pillar. That is a nice pillar.
+44798,I like that pillar. That is a nice pillar.
+44799,It looks slightly damaged.
+44800,It looks slightly damaged.
+44801,It looks very damaged.
+44802,It looks very damaged.
 44804,A flag displaying the colours of the arena.
 44805,These flowers project an aura of life.
 44806,These flowers project an aura of life.
@@ -24461,7 +24478,10 @@
 44820,These flowers project an aura of spirit.
 44821,These flowers project an aura of spirit.
 44822,These flowers project an aura of spirit.
-44826,These flowers project an aura of spirit.
+44823,It looks very damaged.
+44824,A tall obelisk.
+44825,A place for the dead.
+44826,A place for the dead.
 44827,A standard displaying the colours of the arena.
 44828,A standard displaying the colours of the arena.
 44829,A statue of an arena champion.
@@ -24498,3 +24518,391 @@
 44931,The exit from the arena.
 44932,Pass through here when you're ready.
 44933,Used for observing battles up close.
+44934,It's been opened.
+44935,Loot!
+44936,Loot!
+44937,Loot!
+44938,A magical barrier.
+44939,A magical barrier.
+44940,I wonder what they say?
+44941,I wonder what they say?
+44942,Details how you did.
+44953,Some rubble.
+44954,Some rubble.
+44984,Would be rude not to search them.
+44985,Full of money!
+44986,Ooh shiny!
+44987,Ooh shiny!
+44988,Ooh shiny!
+44989,Ooh shiny!
+44990,Ooh shiny!
+44991,Ooh shiny!
+44992,Ooh shiny!
+44993,For putting things in.
+44994,For putting things in.
+44995,For putting things in.
+45024,What's hiding through here?
+45107,toa_wall_support03
+45108,toa_wall_support04
+45109,toa_wall_support05
+45110,toa_wall_support06
+45111,toa_wall_support07
+45119,What's hiding through here?
+45128,The way out.
+45129,The way out.
+45130,The way out.
+45131,The way forward.
+45135,Dare you pass through?
+45136,For passing through.
+45137,Should be safe to use.
+45138,Should be safe to use.
+45139,Somebody has left behind some notes...
+45140,Somebody has left behind some notes...
+45144,The way out.
+45183,A mural of Scabaras and Kephri.
+45203,An ancient pillar.
+45204,Somebody stole the vase?
+45205,A statue of Scabaras.
+45206,A statue of Scabaras.
+45210,Spooky!
+45211,Spooky!
+45212,Spooky!
+45213,Spooky!
+45214,Spooky!
+45215,Spooky!
+45216,Spooky!
+45217,Spooky!
+45218,Spooky!
+45219,Spooky!
+45220,Spooky!
+45221,Spooky!
+45244,Fire goes here.
+45245,Fire goes here.
+45246,Fire goes here.
+45247,Fire goes here.
+45248,Fire goes here.
+45249,A bit broken.
+45250,For putting things in.
+45251,A bit broken.
+45252,For putting things in.
+45253,A bit broken.
+45254,For putting things in.
+45255,A bit broken.
+45256,For putting things in.
+45257,A bit broken.
+45258,For putting things in.
+45259,A bit broken.
+45260,For putting things in.
+45261,A bit broken.
+45262,For putting things in.
+45263,For putting things in.
+45264,For putting things in.
+45265,For putting things in.
+45266,For putting things in.
+45267,For putting things in.
+45268,For putting things in?
+45269,Great storage!
+45270,For putting things in!
+45271,Pots - the new crates!
+45272,They sure do like their pots!
+45273,WOW! Get your pots from Peter Potter! Sale now on!
+45274,"...Yep, they are pots."
+45275,"Just a bunch of pots, being pots."
+45276,That's a nice pot. I like that pot. The one next to it? Not so much.
+45277,Who'd have thought to find pots in a place like this?
+45278,Would you look at that... Pots!
+45279,Just the one pot.
+45280,Would you look at that...
+45281,Would you look at that...
+45282,Would you look at that...
+45283,Would you look at that...
+45284,Just the one pot.
+45285,Just the one pot.
+45286,Just the one pot.
+45287,Just the one pot.
+45288,Just the one pot.
+45289,Poor pot.
+45290,Poor pot.
+45291,Poor pot.
+45292,Oh no.
+45293,Poor pot.
+45294,Oh no.
+45295,Oh dear.
+45296,This place needs a clean.
+45297,Poor pot.
+45320,What a mess!
+45321,What a mess!
+45322,RIP.
+45323,F.
+45324,Poor guy.
+45328,RIP.
+45329,F.
+45330,Poor guy.
+45334,The flames fill the room with a wicked odour.
+45335,A magical barrier.
+45336,A magical barrier.
+45337,The way forward.
+45338,Push me.
+45339,It's covered in ancient symbols...
+45340,I can probably depress this by standing on it.
+45341,I can probably depress this by standing on it.
+45342,I can probably depress this by standing on it.
+45343,Leads to the other lane.
+45344,I can probably depress this by standing on it.
+45345,A tile.
+45346,A tile.
+45347,A tile.
+45348,A tile.
+45349,A tile.
+45350,A tile.
+45351,A tile.
+45352,A tile.
+45353,A tile.
+45355,Looks very pushable.
+45356,It looks like it should light up...
+45357,It looks like it should light up...
+45358,It looks like it should light up...
+45359,It looks like it should light up...
+45360,It looks like it should light up...
+45361,It looks like it should light up...
+45362,It looks like it should light up...
+45363,It looks like it should light up...
+45364,It looks like it should light up...
+45365,Too hot to stand on.
+45366,Too hot to stand on.
+45367,Too hot to stand on.
+45368,Too hot to stand on.
+45369,Too hot to stand on.
+45370,Too hot to stand on.
+45371,Too hot to stand on.
+45372,Too hot to stand on.
+45373,Too hot to stand on.
+45374,There's nothing there.
+45396,Looks sturdy enough.
+45397,The way forward.
+45398,A surprising flow of clear water.
+45399,No water is running.
+45403,A magical acid-producing orb.
+45404,I hear rustling from these bushes.
+45405,I hear rustling from these bushes.
+45406,I hear rustling from these bushes.
+45407,I hear rustling from these bushes.
+45408,I hear rustling from these bushes.
+45409,I hear rustling from these bushes.
+45414,A innocuous looking statue.
+45415,A innocuous looking statue.
+45416,Ouch!
+45421,A bit overgrown.
+45453,The way out.
+45455,I can see myself!
+45456,Seems to be fixed in place.
+45457,Could certainly do with a bit of a clean.
+45458,Likes getting in the way.
+45459,Likes getting in the way.
+45460,Likes getting in the way.
+45461,Likes getting in the way.
+45462,A good swing or two from a pickaxe would probably bring it down.
+45464,A good swing or two from a pickaxe would probably bring it down.
+45468,A statue of Het.
+45469,The statue of Het is holding out a bronze pickaxe.
+45470,The statue of Het is holding out a bronze pickaxe.
+45471,The statue of Het is holding out an iron pickaxe.
+45472,The statue of Het is holding out a steel pickaxe.
+45473,The statue of Het is holding out a black pickaxe.
+45474,The statue of Het is holding out a mithril pickaxe.
+45475,The statue of Het is holding out an adamant pickaxe.
+45476,The statue of Het is holding out a rune pickaxe.
+45477,The statue of Het is holding out a gilded rune pickaxe.
+45478,The statue of Het is holding out a dragon pickaxe.
+45479,The statue of Het is holding out a dragon pickaxe.
+45480,The statue of Het is holding out a dragon pickaxe.
+45481,The statue of Het is holding out a 3rd age pickaxe.
+45482,The statue of Het is holding out an infernal pickaxe.
+45483,The statue of Het is holding out a crystal pickaxe.
+45484,The statue of Het is holding out a trailblazer pickaxe.
+45485,A statue holding a shield.
+45486,It seems to be casting some sort of energy beam!
+45487,There's nothing there.
+45489,The remains of a once powerful seal.
+45491,The remains of a once powerful seal.
+45492,Holds the roof up.
+45493,A pool of venomous liquid.
+45494,Holds the roof up... hopefully.
+45495,Holds the roof up... hopefully.
+45496,Looks fancy.
+45497,Some hammers.
+45498,Some potions.
+45500,The way forward.
+45503,Ooh. It glows.
+45504,Hot? Warm.
+45505,Use with caution...
+45506,Use with caution...
+45507,It wasn't bubbling a moment ago...
+45509,Looks like I can climb up these rocks.
+45510,It wasn't bubbling a moment ago...
+45511,It wasn't bubbling a moment ago...
+45512,It wasn't bubbling a moment ago...
+45513,It wasn't bubbling a moment ago...
+45514,It wasn't bubbling a moment ago...
+45515,It wasn't bubbling a moment ago...
+45516,It wasn't bubbling a moment ago...
+45517,It wasn't bubbling a moment ago...
+45518,It wasn't bubbling a moment ago...
+45526,For putting things in.
+45527,It's floatin'.
+45528,For putting things in.
+45529,For putting things in.
+45530,Stops the roof from falling on my head.
+45531,Uh oh.
+45532,Never smile at a...
+45533,I hear rustling from these bushes.
+45534,I hear rustling from these bushes.
+45535,I hear rustling from these bushes.
+45537,I hear rustling from these bushes.
+45540,What a mess!
+45541,What a mess!
+45542,What a mess!
+45543,The way out.
+45578,Ooh. It glows.
+45579,Use with caution...
+45628,Better not touch these.
+45629,Better not touch these.
+45630,Better not touch these.
+45631,Someone had quite a journey.
+45639,Floaty.
+45640,Floaty.
+45641,Floaty.
+45642,Floaty.
+45726,Doom.
+45727,Doom.
+45728,Doom.
+45729,Doom.
+45730,Doom.
+45731,Doom.
+45732,Doom.
+45733,Doom.
+45734,Doom.
+45735,Doom.
+45736,Doom.
+45737,Doom.
+45738,Doom.
+45752,A fancy name for a coffin.
+45753,Looks like energy is pouring out.
+45754,Use with caution...
+45755,Looks slippery.
+45756,Doubles as a toilet.
+45762,What a mess!
+45763,What a mess!
+45764,Don't slip!
+45765,Don't slip!
+45766,Don't slip!
+45767,Don't slip!
+45768,Don't slip!
+45769,Don't slip!
+45770,What a mess!
+45771,What a mess!
+45772,What a mess!
+45773,What a mess!
+45774,What a mess!
+45775,Oh dear.
+45776,Don't slip!
+45844,The way out.
+45851,What a mess!
+45852,What a mess!
+45853,What a mess!
+45854,What a mess!
+45855,What a mess!
+45856,What a mess!
+45866,Use with caution...
+45867,A mural of Het and Akkha.
+46044,Looks to have been brought here fairly recently.
+46045,A warrior's weapons.
+46046,A big pile of sand.
+46047,A big pile of sand.
+46055,The way out.
+46068,Maybe I can form a party here.
+46069,Maybe I can form a party here.
+46070,Maybe I can form a party here.
+46071,Check your performace here.
+46072,Check your performace here.
+46073,Displays information on invocations.
+46074,Displays information on invocations.
+46075,A well equipped camel.
+46076,A well equipped camel.
+46077,Full of animal feed.
+46078,For keeping your items safe.
+46079,For keeping your items safe.
+46080,A mysterious chest.
+46081,A mysterious chest.
+46082,Contains spoils from the tombs.
+46083,A fake door... I wonder if it will open?
+46084,A fake door... I wonder if it will open?
+46085,A wooden crate.
+46086,A wooden crate.
+46087,The way out.
+46088,The way out.
+46089,Leads down below...
+46090,Leads down below...
+46104,A bit broken.
+46105,For putting things in.
+46106,A bit broken.
+46107,For putting things in.
+46108,A bit broken.
+46109,For putting things in.
+46110,A bit broken.
+46111,For putting things in.
+46112,A bit broken.
+46113,For putting things in.
+46114,A bit broken.
+46115,For putting things in.
+46116,A bit broken.
+46117,For putting things in.
+46118,For putting things in.
+46119,For putting things in.
+46120,Sand fills the gaps between the cracks in the stone.
+46121,Sand fills the gaps between the cracks in the stone.
+46122,Sand fills the gaps between the cracks in the stone.
+46123,Sand fills the gaps between the cracks in the stone.
+46124,Sand fills the gaps between the cracks in the stone.
+46125,Sand fills the gaps between the cracks in the stone.
+46126,Sand fills the gaps between the cracks in the stone.
+46127,Sand fills the gaps between the cracks in the stone.
+46130,A wooden crate.
+46131,Some wooden crates.
+46132,Might be worth a pretty penny.
+46133,Must resist the desire to steal it.
+46134,Might be worth a pretty penny.
+46135,Someone had a smashing time trying to move these.
+46136,Would probably have a smashing time trying to move these.
+46137,Must resist the desire to steal it.
+46138,Some wooden crates.
+46148,
+46150,A large piece of rubble.
+46151,A large piece of rubble.
+46152,A large piece of rubble.
+46153,What a mess!
+46154,A magical barrier.
+46155,Walk the Path of Scabaras?
+46156,Another path has been started.
+46157,The Path of Scabaras has been completed.
+46158,Walk the Path of Apmeken?
+46159,Another path has been started.
+46160,The Path of Apmeken has been completed.
+46161,Walk the Path of Crondis?
+46162,Another path has been started.
+46163,The Path of Crondis has been completed.
+46164,Walk the Path of Het?
+46165,Another path has been started.
+46166,The Path of Het has been completed.
+46167,Leads down below...
+46168,Leads down below...
+46170,Looks old.
+46171,Looks old.
+46172,Looks old.
+46180,So that's where the light is coming from!
+46181,What's inside?
+46182,What's inside?
+46183,What's inside?
+46184,What's inside?
+46198,Creepy.
+46199,Creepy.

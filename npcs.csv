@@ -958,7 +958,7 @@
 992,Former adviser to the Duke of Lumbridge.
 993,Former adviser to the Duke of Lumbridge.
 994,Former adviser to the Duke of Lumbridge.
-995,A guard for the humans against monster group.
+995,A guard for the 'Humans Against Monsters' group.
 996,What has he got under his coat?
 997,He's standing guard.
 998,He tries to keep order around here.
@@ -2385,10 +2385,10 @@
 2533,Eeek! A ghost!
 2534,Eeek! A ghost!
 2535,The leader of the 'Humans Against Monsters' group.
-2536,A guard for the humans against monster group.
-2537,A guard for the humans against monster group.
-2538,A guard for the humans against monster group.
-2539,A deacon in the Humans Against Monsters group. A rather enthusiastic chap.
+2536,A guard for the 'Humans Against Monsters' group.
+2537,A guard for the 'Humans Against Monsters' group.
+2538,A guard for the 'Humans Against Monsters' group.
+2539,A deacon in the 'Humans Against Monsters' group. A rather enthusiastic chap.
 2540,A member of the 'Humans Against Monsters' group.
 2541,A member of the 'Humans Against Monsters' group.
 2542,A member of the 'Humans Against Monsters' group.
@@ -3529,13 +3529,13 @@
 3730,"A thirsty-looking, airborne bloodsucker!"
 3731,"A thirsty-looking, airborne bloodsucker!"
 3732,"A thirsty-looking, airborne bloodsucker!"
-3733,A curious fellow.
+3733,An evil vampyre.
 3734,An evil vampyre.
 3735,An evil vampyre.
 3736,An evil vampyre.
-3737,"A thirsty-looking, airborne bloodsucker!"
-3738,A thirsty-looking airborne bloodsucker!
-3739,"A thirsty-looking, airborne bloodsucker!"
+3737,An evil vampyre.
+3738,An evil vampyre.
+3739,An evil vampyre.
 3740,She seems almost human.
 3741,She seems almost human.
 3742,A female vampyre of incredible power.
@@ -4084,9 +4084,9 @@
 4324,The mark on her head is glowing.
 4325,A shimmering creature of blue light.
 4326,"Hopefully she'll pass as a short, hunched HAM member."
-4327,A guard for the humans against monster group.
+4327,A guard for the 'Humans Against Monsters' group.
 4328,He's plotting something bad!
-4329,A deacon in the Humans Against Monsters group. A rather enthusiastic chap.
+4329,A deacon in the 'Humans Against Monsters' group. A rather enthusiastic chap.
 4330,The leader of the 'Humans Against Monsters' group.
 4331,A dark-hearted knight.
 4332,Primping with combs and hair clips.
@@ -4266,17 +4266,17 @@
 4512,He delivers the goods.
 4513,A member of the 'Humans Against Monsters' group.
 4514,A member of the 'Humans Against Monsters' group.
-4516,A guard for the humans against monster group.
-4517,A guard for the humans against monster group.
-4518,A guard for the humans against monster group.
-4519,A guard for the humans against monster group.
-4520,A guard for the humans against monster group.
-4521,A guard for the humans against monster group.
-4522,A guard for the humans against monster group.
-4523,A guard for the humans against monster group.
-4524,A guard for the humans against monster group.
-4525,A guard for the humans against monster group.
-4526,A guard for the humans against monster group.
+4516,A guard for the 'Humans Against Monsters' group.
+4517,A guard for the 'Humans Against Monsters' group.
+4518,A guard for the 'Humans Against Monsters' group.
+4519,A guard for the 'Humans Against Monsters' group.
+4520,A guard for the 'Humans Against Monsters' group.
+4521,A guard for the 'Humans Against Monsters' group.
+4522,A guard for the 'Humans Against Monsters' group.
+4523,A guard for the 'Humans Against Monsters' group.
+4524,A guard for the 'Humans Against Monsters' group.
+4525,A guard for the 'Humans Against Monsters' group.
+4526,A guard for the 'Humans Against Monsters' group.
 4527,Shopkeeper.
 4533,"A nasty spider, blessed by Zamorak."
 4534,"Some oversized vermin, blessed by Zamorak."
@@ -4844,7 +4844,7 @@
 5138,An old archaeologist.
 5139,Former adviser to the Duke of Lumbridge.
 5140,Putting up a fight!
-5141,A guard for the Humans Against Monsters group.
+5141,A guard for the 'Humans Against Monsters' group.
 5142,Former adviser to the Duke of Lumbridge.
 5143,Former adviser to the Duke of Lumbridge.
 5144,Former adviser to the Duke of Lumbridge.
@@ -5781,8 +5781,8 @@
 6211,Seems intelligent... for an ogre.
 6212,Seems intelligent... for an ogre.
 6213,Seems intelligent... for an ogre.
-6233,A resident of Al-Kharid.
-6234,A resident of Al-Kharid.
+6233,A resident of Al Kharid.
+6234,A resident of Al Kharid.
 6260,"Rantz's boat, operated by his kids Fycie and Bugs."
 6261,"Rantz's boat, operated by his kids Fycie and Bugs."
 6264,One of Gielinor's many citizens.
@@ -7544,9 +7544,9 @@
 8235,A citizen of Meiyerditch.
 8236,A citizen of Meiyerditch.
 8237,A citizen of Meiyerditch.
-8238,A curious fellow.
+8238,An evil vampyre.
 8239,An evil vampyre.
-8240,"A thirsty-looking, airborne bloodsucker!"
+8240,An evil vampyre.
 8241,He looks haughty and arrogant.
 8242,He looks haughty and arrogant.
 8243,He looks haughty and arrogant.
@@ -8656,7 +8656,7 @@
 9563,He has an odd look in his eyes.
 9564,He has an odd look in his eyes.
 9565,He seems to be in a spot of bother.
-9566,A curious fellow.
+9566,An evil vampyre.
 9567,"Formerly Ascertes Hallow, now an evil vampyre."
 9568,"Formerly Ascertes Hallow, now an evil vampyre."
 9569,"Formerly Ascertes Hallow, now an evil vampyre."
@@ -9930,7 +9930,6 @@
 11556,A citizen of Menaphos.
 11557,That mining must be hard work.
 11558,That mining must be hard work.
-11560,A scarab headed demi-god.
 11561,A shifty looking chap.
 11562,"Preach, my brother!"
 11563,"Preach, my brother!"
@@ -9980,7 +9979,19 @@
 11609,Priestly.
 11610,Priestly.
 11650,He must run this place.
+11651,A wooden stool with a cat sleeping peacefully. You don't want to disturb him sleeping.
+11652,A tiny automaton imbued with a trace of Tumeken's power.
+11653,A tiny automaton imbued with a trace of Elidinis' power.
+11654,Tumeken's avatar of companionship.
+11655,Tumeken's avatar of companionship.
+11656,Tumeken's avatar of companionship.
+11657,Tumeken's avatar of resourcefulness.
 11658,He wants everyone to feel comfortable showing their own colours. Just like a rainbow!
+11659,Tumeken's avatar of resourcefulness.
+11660,Tumeken's avatar of resourcefulness.
+11661,Tumeken's avatar of isolation.
+11662,Tumeken's avatar of isolation.
+11663,Tumeken's avatar of isolation.
 11664,Looks fairly strong for a guy his size.
 11665,He keeps order around the Arena.
 11666,He smells weirdly of lemons.
@@ -10001,3 +10012,128 @@
 11681,Fighting in the Emir's Arena.
 11682,Fighting in the Emir's Arena.
 11683,Fighting in the Emir's Arena.
+11686,Tumeken's avatar of health.
+11687,Tumeken's avatar of health.
+11688,Tumeken's avatar of health.
+11689,A long-dead pharaoh.
+11690,A long-dead pharaoh.
+11691,A long-dead spirit.
+11692,A long-dead pharaoh.
+11693,A long-dead pharaoh.
+11694,He's here to help.
+11695,Eeek! A ghost!
+11696,The all-powerful Devourer.
+11697,This isn't really the most convenient time to be under attack!
+11698,Looks pretty solid.
+11699,Looks pretty solid.
+11700,It needs a lot more water.
+11701,It needs a lot more water.
+11702,It needs more water.
+11703,It needs a bit more water.
+11704,A healthy and nourished palm.
+11705,Never smile at a...
+11706,It looks to be glimmering slightly.
+11707,The cracks are starting to show.
+11708,A magical orb.
+11709,An undead baboon brawler.
+11710,An undead baboon thrower.
+11711,An undead baboon mage.
+11712,An undead baboon brawler.
+11713,An undead baboon thrower.
+11714,An undead baboon mage.
+11715,An undead baboon shaman.
+11716,An undead volatile baboon.
+11717,An undead cursed baboon.
+11718,An undead baboon thrall.
+11719,The cursed mother.
+11720,The cursed mother.
+11721,The cursed mother.
+11722,She's a bit dead.
+11723,A buzzing mass of angry scarabs.
+11724,One of Kephri's false children.
+11725,One of Kephri's false children.
+11726,One of Kephri's false children.
+11727,A tiny annoying scarab.
+11728,Looks gross.
+11729,Looks gross.
+11730,A big gluttonous croc.
+11731,Scaley.
+11732,He seems a tad upset.
+11733,A big dead croc.
+11734,Scaley.
+11735,Doesn't look tasty.
+11736,Doesn't look tasty.
+11737,This must be a choking hazard.
+11738,Wet.
+11739,Wet and bloody.
+11740,Never smile at a...
+11741,Better stay well away from this.
+11742,What?
+11743,Wait... what?
+11746,An ancient automaton imbued with the power of Elidinis.
+11747,An ancient automaton imbued with the power of Tumeken.
+11748,An ancient automaton imbued with the power of Elidinis.
+11749,An ancient automaton imbued with the power of Tumeken.
+11750,An ancient body of power.
+11751,An ancient body of power.
+11752,An ancient body of power.
+11753,An ancient automaton imbued with the power of Elidinis.
+11754,An ancient automaton imbued with the power of Elidinis.
+11755,An ancient automaton imbued with the power of Elidinis.
+11756,An ancient automaton imbued with the power of Tumeken.
+11757,An ancient automaton imbued with the power of Tumeken.
+11758,An ancient automaton imbued with the power of Tumeken.
+11759,An ancient automaton imbued with the power of Elidinis.
+11760,An ancient automaton imbued with the power of Tumeken.
+11761,An ancient automaton imbued with the power of Elidinis.
+11762,An ancient automaton imbued with the power of Tumeken.
+11763,An ancient automaton imbued with the power of Elidinis.
+11764,An ancient automaton imbued with the power of Tumeken.
+11767,A deadly apparition.
+11768,A deadly apparition.
+11769,It's glowing with energy.
+11770,The heart of an ancient automaton.
+11771,The heart of an ancient automaton.
+11772,A throbbing energy source.
+11774,A phantom of Zebak.
+11775,A phantom of Ba-Ba.
+11776,A phantom of Kephri.
+11777,A phantom of Akkha.
+11778,A big ol' monke.
+11779,A big ol' monke.
+11780,A big ol' monke.
+11781,An undead baboon.
+11782,I should stop examining this and get out of the way!
+11783,I should stop examining this and get out of the way!
+11784,This place needs a clean...
+11785,This place needs a clean...
+11786,This place needs a clean...
+11787,This place needs a clean...
+11789,A manifestation of vengeance.
+11790,A manifestation of vengeance.
+11791,A manifestation of vengeance.
+11792,A manifestation of vengeance.
+11793,A manifestation of vengeance.
+11794,A manifestation of vengeance.
+11795,A manifestation of vengeance.
+11796,A manifestation of vengeance.
+11797,A shadow of vengeance.
+11798,A shadow of vengeance.
+11799,A shadow of vengeance.
+11800,A magical orb.
+11801,A magical orb.
+11802,A magical orb.
+11803,A magical orb.
+11804,A magical orb.
+11806,A well equipped camel.
+11807,A spy from Al Kharid.
+11808,A spy from Al Kharid.
+11809,Tumeken's avatar of companionship.
+11810,Tumeken's avatar of resourcefulness.
+11811,Tumeken's avatar of health.
+11812,A tiny automaton imbued with a trace of Tumeken's power.
+11813,A tiny automaton imbued with a trace of Elidinis' power.
+11814,Maybe they have something for you.
+11815,Maybe they have something for you.
+11816,Maybe they have something for you.
+11817,Maybe they have something for you.

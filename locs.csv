@@ -1412,7 +1412,7 @@
 2297,Bank of Gielinor.
 2298,Some kind of training facility.
 2299,Runes for sale.
-2300,"'Gypsy Aris, fortune-teller. Guaranteed no waiting.'"
+2300,"'Aris, fortune-teller. Guaranteed no waiting.'"
 2301,Magical staves for sale.
 2302,Cooking Guild.
 2303,A market stall.
@@ -1882,16 +1882,16 @@
 2899,A door to the Legends Guild.
 2900,Looks slippery!
 2901,Looks slippery!
-2902,Stoney!
+2902,Something's off about these rocks...
 2903,A rather shadowy cavern entrance.
 2904,A rather shadowy cavern entrance.
-2905,An old crate for storage.
-2906,Useful for putting things on.
-2907,I guess I could sleep in it if I was really tired.
+2905,"It's a rickety old crate, perhaps placed in this recess to hide it from prying eyes."
+2906,A makeshift table made from various bits of wood.
+2907,You could sleep here... if you really had to.
 2908,A wall of magic fire.
 2909,A wall of magic fire.
-2910,Rickety bamboo tables that are lashed together to make a desk.
-2911,Bamboo storage!
+2910,A rickety old desk made of bamboo.
+2911,A bamboo bookcase. It doesn't house many books...
 2912,This gate has a horribly complex locking mechanism.
 2913,This gate has a horribly complex locking mechanism.
 2914,This gate has a horribly complex locking mechanism.
@@ -1905,14 +1905,14 @@
 2923,"A heavily constructed, cast-iron, ancient gateway."
 2924,"A heavily constructed, cast-iron, ancient gateway."
 2925,"A heavily constructed, cast-iron, ancient gateway."
-2926,A high wall made up of rocks with sharp edges.
+2926,A high wall made up of rocks with sharp edges. It looks like it may have been placed here deliberately.
 2927,It looks like ancient graffiti.
 2928,An ornately carved rock with a pointed receptacle.
 2929,"A half buried skeleton, probably dwarven remains."
-2930,"A huge, strangely constructed doorway, not sure how this opens."
+2930,"A huge, strangely-constructed doorway. The doorknob is a glass orb."
 2931,"It looks like a magical portal of some kind, who knows where it leads?"
-2932,"Strangely, there's a locked barrel here, I wonder what's inside."
-2934,A large scaffold platform most likely used for lifting and lowering heavy items.
+2932,A locked barrel. What might be inside?
+2934,A large scaffold platform most likely used for lifting and lowering heavy items. It's useless without a rope.
 2935,"Used to move earth to, and from, the dig shaft. A rope has been thrown over it."
 2936,A sculpted trunk of wood.
 2937,A sculpted trunk of wood.
@@ -1920,18 +1920,18 @@
 2940,A wonderfully dressed table.
 2941,Sparkling sacred water straight from the source.
 2942,"A sparkling, babbling flow of water from an underground source."
-2943,Disgusting filthy quagmire that oozes from the ground.
-2944,Found near the water's edge.
-2945,"A baby Yommi tree, it has a mystical aura."
-2946,"An adolescent-looking Yommi tree, it has a mystical aura."
-2947,"A dead Yommi tree sapling, you'll need a tough axe to remove this."
-2948,"A fully grown Yommi tree, it won't get much taller than this."
-2949,"A dead fully grown Yommi tree, you'll need a tough, sharp axe to remove this."
-2950,"A felled adult Yommi tree, perhaps you should trim those branches?"
-2951,"A rotten felled Yommi tree, it was left too long in the damp jungle."
+2943,A disgusting filthy quagmire oozing up from the ground. Yuck!
+2944,These tall reeds have a long tube for a stem. Interesting...
+2945,A baby Yommi tree. It already has a mystical aura about it.
+2946,An adolescent Yommi tree with a mystical aura.
+2947,A dead Yommi tree sapling. You'll need a tough axe to remove this.
+2948,A fully grown Yommi tree. It won't get much taller than this.
+2949,"A dead Yommi tree. You'll need a tough, sharp axe to remove this."
+2950,A felled adult Yommi tree. Perhaps you should trim those branches?
+2951,The damp jungle air has rotted this poor Yommi tree.
 2952,"A trimmed Yommi tree log, perfect for sculpting into a totem pole."
-2953,"A rotten Yommi tree log, it was left too long in the damp jungle air."
-2954,A beautifully crafted totem pole carved from the trunk of the sacred Yommi tree.
+2953,A rotten Yommi tree log. It was left too long in the damp jungle air.
+2954,A beautifully-crafted totem pole carved from the trunk of the sacred Yommi tree.
 2955,"A rotten totem pole, it was left to rot in the jungle."
 2956,This earth is particularly fertile.
 2957,"This earth is damaged by cultivation, time will restore the fertility."
@@ -1943,10 +1943,10 @@
 2963,Stoney!
 2964,Stoney!
 2965,Looks slippery!
-2966,A hot place for forging things in.
-2969,It looks like a strangely shaped depression in the rock.
-2970,This recess has a glowing heart shaped crystal in it.
-2971,This looks like some sort of shimmering surface.
+2966,This ancient furnace is partially molten and buried by piles of debris. There's a small compartment inside with oddly-shaped sections...
+2969,A strange depression in the rock.
+2970,"This recess has a glowing, heart-shaped crystal in it."
+2971,A shimmering force field. You'll need to find a way to pass through it into the next cave.
 2972,A huge lump of rock.
 2973,A huge lump of rock.
 2974,A huge lump of rock.
@@ -15636,7 +15636,7 @@
 26567,"Many brave adventurers have entered, yet none have returned."
 26568,"Many brave adventurers have entered, yet none have returned."
 26569,"Many brave adventurers have entered, yet none have returned."
-26572,It almost looks like some supernatural force has blighted this plant.
+26572,It looks like some supernatural force has blighted this plant.
 26575,Hot!
 26576,Hot!
 26577,Glowing embers.
@@ -15682,7 +15682,7 @@
 26698,Take the area at all costs!
 26703,A small pile of snow.
 26704,A small pile of snow.
-26705,It almost looks like some supernatural force has blighted this plant.
+26705,It looks like some supernatural force has blighted this plant.
 26707,It's open.
 26709,It sounds like there are dangerous creatures in there.
 26711,A convenient bank chest.
@@ -18605,9 +18605,9 @@
 31814,A holy warrior. A dead one.
 31815,A holy warrior. A dead one.
 31816,Shiny armour! Shame he's dead.
-31817,Shiny armour! Shame he's dead.
+31817,Shiny armour! Shame she's dead.
 31818,I don't think he'll be getting back up.
-31819,I don't think he'll be getting back up.
+31819,I don't think she'll be getting back up.
 31822,I can climb over these.
 31824,I can climb over these.
 31825,It looks magical.
@@ -20468,7 +20468,7 @@
 34959,A loom.
 34960,Tracks in the soil.
 34961,Tracks in the soil.
-34962,Found near the water's edge.
+34962,These tall reeds look so pretty by the water.
 34963,A recently killed guard.
 34964,I can go through here.
 34965,The pillar has a rune shaped dent in it.
@@ -24991,3 +24991,6 @@
 46315,Nicely decorated.
 46316,Nicely decorated.
 46317,Nicely decorated.
+46320,A holy warrior. A dead one.
+46321,I don't think he'll be getting back up.
+46322,I don't think she'll be getting back up.

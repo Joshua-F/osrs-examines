@@ -514,7 +514,7 @@
 527,An evil human cleric.
 528,An evil human cleric.
 529,An evil human cleric.
-530,A primitive warrior.
+530,A vicious warrior.
 531,A warrior touched by chaos.
 532,A crazy evil druid.
 533,"A fun guy. No wait, that's awful. Plus it doesn't even make sense."
@@ -720,7 +720,7 @@
 736,Tough-looking.
 737,Tough-looking.
 738,A very tough-looking bandit.
-739,Probably the weakest bandit in the world ....ever.
+739,Probably the weakest bandit in the world... poor thing.
 741,Trollish.
 742,Trollish.
 750,He's poking his farming patch with my dibber.
@@ -3340,9 +3340,9 @@
 3538,Ali the discount animal seller.
 3539,A mischievous looking child.
 3540,Mayor of Pollnivneach.
-3541,An old Hag named Alice.
+3541,An old hag named Alisha.
 3542,A snake charmer.
-3543,A foul tempered ugly lumpy yellow horse prone to spitting.
+3543,"A foul tempered, ugly, lumpy yellow horse prone to spitting."
 3544,A slithering serpent.
 3545,A toothless old Snake.
 3546,A market stall keeper.
@@ -3740,17 +3740,17 @@
 3948,I wonder what he does with all that fur?
 3949,Keeps the stalls secure.
 3950,A hardened Fremennik warrior.
-3951,A Legends Guild guard; he protects the entrance to the Legends Guild.
-3952,A Legends Guild guard; he protects the entrance to the Legends Guild.
-3953,Radimus is the Grand Vizier of the Legends Guild.
+3951,A Legends' Guild guard; he protects the entrance to the Legends' Guild.
+3952,A Legends' Guild guard; he protects the entrance to the Legends' Guild.
+3953,Radimus is the Grand Vizier of the Legends' Guild.
 3954,He deals in exotic types of wood.
 3955,She deals in exotic types of wood.
-3956,"A dark, charismatic jungle native."
+3956,"A tall, dark, and charismatic member of the Kharazi tribe."
 3957,The Kharazi tribe's elusive shaman.
 3958,The Kharazi tribe's elusive shaman; something doesn't look quite right with him.
-3959,An aggressive native of the Kharazi Jungle.
-3960,She sells general items at the Legends Guild.
-3961,"An eccentric shopkeeper, related to the Grand Vizier of the Legends Guild."
+3959,"A Kharazi warrior, tormented by evil spirits."
+3960,She sells general items at the Legends' Guild.
+3961,"An eccentric shopkeeper, related to the Grand Vizier of the Legends' Guild."
 3962,"An ancient, powerful demon of the underworld."
 3963,The spirit of a long-dead wizard.
 3964,The spirit of a long-dead warrior.
@@ -4564,8 +4564,6 @@
 4844,A shoal of Pearl Danio.
 4845,A shoal of Pearl Danio.
 4846,A shoal of Pearl Danio.
-4847,An old gypsy lady.
-4848,An old gypsy lady.
 4849,A demented evil wizard who specialises in food spells.
 4850,"He's got funky socks, but he's still an ugly green creature."
 4851,More like a goblin cooked.
@@ -4785,7 +4783,6 @@
 5079,A freshly summoned demon.
 5080,The demon doesn't look so strong now.
 5081,An old wizard.
-5082,An old gypsy lady.
 5083,One of the king's knights.
 5084,One of the king's knights.
 5085,The head of the palace guard.
@@ -6479,7 +6476,7 @@
 7038,This creature has been dragged back from the grave.
 7039,This creature has been dragged back from the grave.
 7040,Oversees the acquisition of essence.
-7041,Harbinger of the River of Blood.
+7041,His gaze is fixed on the River of Blood.
 7042,A soulful spirit.
 7043,Looks like a dancing nun.
 7044,Chief Librarian.
@@ -9158,7 +9155,6 @@
 10677,"Edelschwarz, a barbarian warrior with a spear."
 10678,"Siegfried, a young guard in the Barbarian Village."
 10679,"Adolpho, a barbarian warrior with a warhammer."
-10680,He tries to keep order around here. His bizarre uniform isn't helping.
 10681,Runes are his passion.
 10682,A popular dwarven delicacy.
 10683,Animal skins are a speciality.
@@ -10151,6 +10147,7 @@
 11851,A tiny automaton imbued with a trace of Elidinis' power.
 11852,She's a big fan of adventuring.
 11853,She's a big fan of adventuring.
+11854,She's a big fan of adventuring.
 11855,Enjoying the spooky season.
 11856,Enjoying the spooky season.
 11857,Enjoying the spooky season.
@@ -10163,3 +10160,83 @@
 11865,Really embracing the spooky spirit!
 11866,Really embracing the spooky spirit!
 11867,All dressed up and ready for some treats!
+11868,A fortune-teller.
+11870,A colourful character.
+11872,Drunk man.
+11874,A hassled looking barman.
+11876,A kebab seller.
+11878,Sami the discount animal seller.
+11879,Mayor of Pollnivneach.
+11881,An old hag named Alisha.
+11883,A snake charmer.
+11886,"A foul tempered, ugly, lumpy, yellow horse prone to spitting."
+11887,"A foul tempered, ugly, lumpy, yellow horse prone to spitting."
+11889,Smooth operator.
+11890,A fortune-teller.
+11891,A fortune-teller.
+11892,Shiny armour!
+11893,A holy warrior.
+11894,A holy warrior.
+11895,To battle!
+11896,To battle!
+11897,To battle!
+11898,To battle!
+11899,To battle!
+11900,To battle!
+11901,A holy warrior.
+11902,A member of Ardougne's militia.
+11903,He tries to keep order around here. His bizarre uniform isn't helping.
+11904,She tries to keep order around here. Her bizarre uniform isn't helping.
+11905,He tries to keep order around here. His bizarre uniform isn't helping.
+11906,Trains the guards of the future.
+11907,He's studying to be a guard.
+11908,He's studying to be a guard.
+11909,She's studying to be a guard.
+11910,She's studying to be a guard.
+11911,He tries to keep order around here. His bizarre uniform isn't helping.
+11912,He tries to keep order around here. His bizarre uniform isn't helping.
+11913,He tries to keep order around here. His bizarre uniform isn't helping.
+11914,She tries to keep order around here. Her bizarre uniform isn't helping.
+11915,She tries to keep order around here. Her bizarre uniform isn't helping.
+11916,She tries to keep order around here. Her bizarre uniform isn't helping.
+11917,He tries to keep order around here. His bizarre uniform isn't helping.
+11918,She grows the crops in this area.
+11919,She grows the crops in this area.
+11920,She grows the crops in this area.
+11921,He grows the crops in this area.
+11922,He tries to keep order around here.
+11923,She tries to keep order around here.
+11924,She tries to keep order around here.
+11925,Not very fashion conscious.
+11926,Not very fashion conscious.
+11927,Not very fashion conscious.
+11928,Not very fashion conscious.
+11929,Not very fashion conscious.
+11930,A holy warrior.
+11931,A holy warrior.
+11932,A holy warrior.
+11933,A holy warrior.
+11934,Heroic!
+11935,Heroic!
+11936,A member of Ardougne's militia.
+11937,Keeps the peace... kind of.
+11938,Keeps the peace... kind of.
+11939,Keeps the peace... kind of.
+11940,A master at farming.
+11941,A master at farming.
+11942,He tries to keep order around here.
+11943,She tries to keep order around here.
+11944,He tries to keep order around here.
+11945,She tries to keep order around here.
+11946,She tries to keep order around here.
+11947,She tries to keep order around here.
+11948,Shiny armour!
+11949,A White Knight proselyte.
+11950,A White Knight acolyte.
+11951,A White Knight partisan.
+11952,A dark-hearted knight.
+11953,A dark-hearted knight.
+11954,A vicious warrior.
+11955,A vicious warrior.
+11956,A vicious warrior.
+11957,Perhaps this gardener might look after your crops for you.

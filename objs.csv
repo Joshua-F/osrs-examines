@@ -454,42 +454,42 @@
 711,"It's about chemicals, judging from its cover."
 712,A refreshing cuppa.
 713,It's a clue scroll.
-714,"Notes given to you by Radimus Erkle, it includes a partially completed map."
-715,"Notes given to you by Radimus Erkle, it includes a partially completed map."
+714,"Notes given to you by Radimus Erkle, including a partially-completed map of the Kharazi jungle."
+715,"Notes given to you by Radimus Erkle, including a partially-completed map of the Kharazi jungle."
 716,It makes a loud but interesting sound when swung in the air.
 717,A scrawled note with spidery writing on it.
 718,A scrawled note with spidery writing on it.
 719,A scrawled note with spidery writing on it.
-720,A rough sketch of a bowl shaped vessel given to you by Gujuo.
-721,A specially made bowl constructed out of pure gold.
-722,A specially made bowl constructed out of pure gold and blessed.
-723,A specially made golden bowl with water.
-724,A specially made bowl constructed out of pure gold. It has pure water in it.
+720,"A rough sketch of a bowl-shaped vessel, given to you by Gujuo."
+721,A specially-made bowl constructed out of pure gold.
+722,A specially-made bowl constructed out of pure gold and blessed by Gujuo.
+723,A specially-made golden bowl filled with water.
+724,"A specially-made golden bowl filled with pure, sacred water."
 725,A blessed golden bowl. It has water in it.
-726,A blessed golden bowl. It has pure sacred water in it.
+726,"A blessed golden bowl. It has pure, sacred water in it."
 727,One of nature's pipes.
 728,One of nature's pipes.
-729,It looks like the Shamans personal notes...
+729,It looks like the Shaman's personal notes...
 730,An ancient tome on Demonology.
 731,An enchanted empty glass vial.
 732,"A vial of holy water, good against certain demons."
 733,Fragments of a broken container.
 735,These need to be germinated before they can be used.
-736,These are germinated and ready to be planted in fertile soil.
+736,These seeds are germinated and ready to be planted in fertile soil.
 737,It's a mixture of Snakeweed and water. Needs another ingredient.
 738,It's a mixture of Ardrigal and water. Needs another ingredient.
-739,"A bravery potion for which Gujuo gave you the details, let's hope it works."
-740,A strange blue wizards hat.
+739,A Bravery Potion made from Gujuo's recipe. Let's hope it works.
+740,A strange blue wizard's hat.
 741,It looks like it's been snapped off of something.
 742,It looks like it's been snapped off of something.
 743,It looks like it's been snapped off of something.
-744,A heart shaped crystal.
-745,A heart shaped crystal.
-746,"A black obsidian dagger, it has a strange aura about it."
-747,"A black obsidian dagger, it has a strange aura about it - it seems to be glowing."
+744,A heart-shaped crystal.
+745,A heart-shaped crystal.
+746,A black obsidian dagger. It has a strange aura about it.
+747,A black obsidian dagger. It has a strange aura about it - and it seems to be glowing!
 748,A powerful spell for good.
-749,A well carved totem pole made from the trunk of a Yommi tree.
-750,A gilded totem pole from the Kharazi tribe.
+749,A well-carved totem pole made from the trunk of a Yommi tree.
+750,"A gilded totem pole, given to you as a gift from the Kharazi tribe."
 751,A ball used in Gnomeball.
 753,Poisonous berries.
 755,A message from Juliet to Romeo.
@@ -631,7 +631,7 @@
 970,Used for making notes.
 972,"Used papyrus, it has squiggles all over it."
 973,A lump of charcoal.
-975,A jungle specific slashing device.
+975,A jungle-specific slashing device.
 977,A cooking pot.
 981,Used to get out of Thordur's blackhole.
 983,Opens a door that leads into a dungeon (Edgeville Dungeon entrance).
@@ -3492,7 +3492,7 @@
 5603,For shearing sheep.
 5604,A very attractive magnet.
 5605,A dangerous looking knife.
-5606,I can exchange this for one free makeover with the makeover mage.
+5606,null
 5607,A sack full of grain.
 5608,I don't think he likes being carried.
 5609,He'd be easier to carry if I cooked and ate him first...
@@ -6685,7 +6685,7 @@
 10496,Shiny!
 10498,"A bagged chicken ready to serve you, magnet in claw."
 10499,"A superior bagged chicken ready to serve you, magnet in claw."
-10500,Allows the ghost farmer to talk to Alice - a breakthrough!
+10500,Allows Malcolm the ghost farmer to talk to his wife Alice - a breakthrough!
 10501,Made from snow.
 10506,A gublinch frozen and crumbled into shards.
 10507,A reindeer hat and a matching flashing nose.

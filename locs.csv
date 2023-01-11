@@ -71,10 +71,10 @@
 72,Sturdy looking door.
 73,Securely fastened shut.
 74,Securely fastened shut.
-75,I wonder what's inside?
-76,It's open.
-77,Securely fastened shut.
-78,Securely fastened shut.
+75,I wonder what's inside...
+76,I wonder what's inside...
+77,Looks secure.
+78,Looks secure.
 79,Looks secure.
 80,Looks secure.
 81,The door is closed.
@@ -1836,11 +1836,8 @@
 2850,It's closed.
 2851,It's open.
 2852,I can probably squeeze my way inside there.
-2853,It's a flight of stairs.
-2854,Made of wood.
+2853,Leads back outside.
 2855,Made of wood.
-2856,I wonder what's inside?
-2857,It's open.
 2858,Used for storage.
 2859,"A hot range, where some soup is bubbling nicely."
 2860,Very ominous.
@@ -9311,7 +9308,7 @@
 14864,The sort of bench you get in churches.
 14865,A wooden barrel for storage.
 14866,A wooden barrel for storage.
-14867,A wooden barrel for storage.
+14867,Some wooden barrels for storage.
 14868,"After working with livestock, why not wash your hands?"
 14869,Storage for cookery items.
 14870,Contains various cooking supplies.
@@ -23882,8 +23879,6 @@
 43101,The setup console for Oldak's fairy ring hacking machine.
 43102,The setup console for Oldak's fairy ring hacking machine.
 43103,It's a wall.
-43107,Better not eat them!
-43108,Better not eat them!
 43109,Better not eat them!
 43116,A vortex of magical power!
 43117,Ready for departure.
@@ -25146,3 +25141,141 @@
 46537,An empty plantpot.
 46538,A pretty wintumber tree.
 46539,A pretty wintumber tree.
+46562,Looks secure.
+46563,The way out of here.
+46564,He probably doesn't care what you call him now.
+46569,Oh dear.
+46571,What a mess!
+46572,It's been broken.
+46573,A wooden rowboat.
+46574,Some wooden barrels for storage.
+46575,Some wooden barrels for storage.
+46576,A huge lump of rock.
+46577,A huge lump of rock.
+46578,A huge lump of rock.
+46579,A huge lump of rock.
+46580,This tree was either the victim of weather or mankind.
+46581,This tree was either the victim of weather or mankind.
+46582,This tree has been cut down.
+46583,This tree has been cut down.
+46584,Found in wild areas.
+46585,Found in wild areas.
+46589,Storage for cookery items.
+46590,A good old wall.
+46591,A good old wall.
+46592,I wonder what's inside...
+46593,I wonder what's inside...
+46594,I wonder what's inside...
+46595,I wonder what's inside...
+46596,Looks slippery.
+46597,Looks slippery.
+46598,Looks slippery.
+46599,The way out.
+46600,The way out.
+46601,It's closed.
+46602,It's closed.
+46603,It's closed.
+46604,It's open.
+46605,I guess this table was in the wrong place at the wrong time...
+46606,Better off as firewood at this point.
+46607,For storing things.
+46608,For storing things.
+46609,A barrel of weapons.
+46610,It's a bit useless without the actual lever handle.
+46611,Maybe I should give it a tug.
+46612,It's been pulled.
+46613,For holding the roof up.
+46614,Fire goes here.
+46615,Something's burning here.
+46616,I wonder what's inside...
+46617,I wonder what's inside...
+46618,I wonder what's inside...
+46619,I wonder what's inside...
+46620,I wonder what's inside...
+46621,I wonder what's inside...
+46622,A cloud of obscuring smoke.
+46638,Looks slippery.
+46658,It's closed.
+46659,It's open.
+46660,It's closed.
+46661,It's open.
+46665,I might be able to climb over this.
+46673,Very imposing.
+46674,Better off as firewood at this point.
+46675,I guess this table was in the wrong place at the wrong time...
+46676,Not so good for sitting on.
+46677,This needs dusting before I'll sit on it.
+46678,I wonder what's inside...
+46679,I wonder what's inside...
+46680,It's closed.
+46686,Maybe I should give it a tug.
+46687,It's been pulled.
+46688,For storing things.
+46689,For storing things.
+46690,A barrel of weapons.
+46691,Fire goes here.
+46692,A barrier of ancient magic.
+46693,Looks dangerous.
+46694,Looks dangerous.
+46695,Looks dangerous.
+46696,Looks dangerous.
+46697,Looks dangerous.
+46700,Details some interesting statistics.
+46701,Strange crystals protrude from the wall.
+46702,There's nothing here.
+46704,I can climb these stairs.
+46705,They go down.
+46706,It's open.
+46707,Made of wood.
+46708,Made of wood.
+46709,Made of wood.
+46710,I wonder what's inside...
+46711,It's been broken.
+46712,I wonder what's inside...
+46713,I wonder what's inside...
+46714,I wonder what's inside...
+46715,I wonder what's inside...
+46716,I can climb this.
+46717,I can climb down this.
+46718,Resting place of the Carnillean family's pet dog.
+46719,I bet bees like this.
+46743,Looks to be solidly sealed.
+46752,"A great brazier, wreathed in magical flame."
+46783,It's totally blocked.
+46793,A deposit of rocks.
+46794,A deposit of rocks.
+46795,A deposit of rocks.
+46796,A deposit of rocks.
+46797,A deposit of rocks.
+46798,A deposit of rocks.
+46802,Generally used for putting things on.
+46805,Best used with a bucket.
+46807,For sleeping in.
+46808,There's an assortment of camping equipment here.
+46809,"Not as fancy as a range, but it will do the job."
+46810,For putting things in.
+46811,Allows access to the level above.
+46812,Allows access to the level below.
+46813,Makes things smell nice.
+46815,Looks like I could squeeze my way through there.
+46816,Stops things getting in.
+46817,Looks like I could squeeze my way through there.
+46839,Looks dark in there.
+46840,Just a normal cave wall.
+46841,A bed.
+46842,Shrine to the glory of Saradomin.
+46843,Shrine to the glory of Saradomin.
+46845,Perfect for butts.
+46846,Looks surprisingly comfortable.
+46847,Various notes have been placed on here.
+46848,These open and close!
+46849,A good source of books!
+46851,Shrine to the glory of Saradomin.
+46852,Storage for cookery items.
+46859,They go down.
+46860,A large double door.
+46861,A large double door.
+46862,A nicely fitted door.
+46863,A nicely fitted door.
+46864,A nicely fitted door.
+46865,A locked trapdoor.

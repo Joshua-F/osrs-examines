@@ -6788,7 +6788,7 @@
 10813,Betty's counter. There is a vial standing on it.
 10814,It's very sandy.
 10815,Sandy's Sand Corp.
-10817,Can be used to repair certain untradeable gear!
+10817,Can be used to repair certain untradeable gear.
 10819,These trees are found near water.
 10820,A beautiful old oak.
 10821,It's hollow...
@@ -18496,11 +18496,11 @@
 31613,I can climb down this.
 31616,A barrier that judges the worth of an adventurer.
 31617,A barrier that judges the worth of an adventurer.
-31618,A gateway to the Champions' Guild
+31618,A gateway to the Champions' Guild.
 31619,"For Jarvis, who died saving Gielinor."
 31620,A dead bush.
-31621,A gateway to the Heroes' Guild
-31622,A gateway to the Legends' Guild
+31621,A gateway to the Heroes' Guild.
+31622,A gateway to the Legends' Guild.
 31623,Three anvils in one.
 31624,An altar adorned with strange figures.
 31625,An old fountain... Or an Uhld fountain?
@@ -18677,11 +18677,11 @@
 31905,"A map of Great Kourend. This came into the game on January 7th, 2016."
 31906,"A display of the Kraken. This came into the game on April 10th, 2014."
 31907,"A display of Zulrah. This came into the game on January 8th, 2015."
-31908,"A display of Cerberus. This came into the game on August 27th, 2015"
+31908,"A display of Cerberus. This came into the game on August 27th, 2015."
 31909,"A display of the Abyssal Sire. This came into the game on October 1st, 2015."
 31910,"A display of Skotizo. This came into the game on June 16th, 2016."
 31911,"A display of the Grotesque Guardians. They came into the game on October 26th, 2017."
-31912,"A display of Vorkath. Dragon Slayer 2 was released on January 4th, 2018."
+31912,"A display of Vorkath. Dragon Slayer II was released on January 4th, 2018."
 31913,"Achievement Diaries were released on March 5th, 2015."
 31914,"Achievement Diaries were released on March 5th, 2015."
 31915,"Elite clue scrolls were added to the game on June 12th, 2014."
@@ -18703,7 +18703,7 @@
 31931,"A map of Fossil Island. This came into the game on September 7th, 2017."
 31932,"They can't trade others. By the way, this mode was added to the game on October 13th, 2014."
 31933,"A hardcore ironman succumbing to death. This mode was added to the game on November 10th, 2016."
-31934,"Monkey Madness 2, the first new quest for OSRS was added to the game on May 6th, 2016."
+31934,"Monkey Madness II, the first new quest for OSRS was added to the game on May 6th, 2016."
 31935,"Rooftop agility courses were added to the game on December 5th, 2013. They were designed by the player BigRedJapan."
 31936,"The Nightmare Zone was added to the game on September 5th, 2013."
 31939,"The Grand Exchange was added to the game on February 26th, 2015."
@@ -18788,8 +18788,8 @@
 32078,It looks very old.
 32079,A wooden rowboat.
 32080,Looks to descend into a dungeon.
-32081,"Climb them, 1 step at a time."
-32082,"Climb them, 1 step at a time."
+32081,"Climb them, one step at a time."
+32082,"Climb them, one step at a time."
 32083,A way out of the basement.
 32084,An entrance to the basement.
 32089,I can climb up these.
@@ -18800,14 +18800,14 @@
 32114,There is a large recess in the middle of the doors.
 32115,There is a large recess in the middle of the doors.
 32116,Who knows what secrets lie on the other side.
-32117,The doors are broken but should still be useable.
+32117,"The doors are broken, but should still be useable."
 32118,It's a torch.
 32119,A large brazier.
 32125,"Hmm, big teeth."
 32126,Falling apart and full of an ancient script.
 32127,Falling apart and full of an ancient script.
 32128,Oooh look! A candle!
-32132,The doors are broken but should still be useable.
+32132,"The doors are broken, but should still be useable."
 32133,Guess I know whats on the other side now.
 32139,An incubator of some sorts.
 32141,Looks to be wheely old.
@@ -18815,11 +18815,11 @@
 32144,This looks to be displaying some data.
 32147,Appears to be malfunctioning.
 32148,An ancient machine. A spellbook sits upon it.
-32149,An overturned crate
-32150,An overturned crate
+32149,An overturned crate.
+32150,An overturned crate.
 32151,Looks to be wheely old.
 32153,Some sort of magical barrier.
-32154,"Something lurks below the surface, it seems to be sleeping."
+32154,Something lurks below the surface. It seems to be sleeping.
 32156,Looks to have been used to distill some kind of liquid.
 32157,Looks to have been used to distill some kind of liquid.
 32158,Appears to be malfunctioning.
@@ -18850,17 +18850,17 @@
 32203,A strange piece of artwork.
 32205,I can climb up this.
 32206,Going down?
-32207,There's lots of books here.
+32207,There are lots of books here.
 32208,It has an odd sheen and looks more durable than you might expect.
 32209,I wonder what this orb is for.
 32210,I wonder what this orb is for.
 32211,"Some steps, for stepping down."
-32212,"These steps, once slippery seem to be much less so now."
-32213,A carving of a dragon's skull; it has white-hot molten fluid pouring from its mouth.
+32212,"Some steps, for stepping up."
+32213,A carving of a dragon's skull. It has white-hot molten fluid pouring from its mouth.
 32214,A carving of a dragon's skull.
 32215,"An ancient metallic anvil, completely undamaged or corroded despite its age."
 32216,"An ancient metallic anvil, completely undamaged or corroded despite its age."
-32235,The bow of a Viking style ship.
+32235,The bow of a Fremennik ship.
 32238,It almost looks like it could support a dragon.
 32239,It almost looks like it could support a dragon.
 32289,Keeps the front sail up.
@@ -18962,7 +18962,7 @@
 32467,"Here lies Bob. A hero, and a friend."
 32468,"Here lies Bob. A hero, and a friend."
 32479,What secrets lie within?
-32480,A staircase
+32480,The way back outside.
 32481,It's a trap!
 32482,It's a trap!
 32483,Could be dangerous.
@@ -25309,3 +25309,79 @@
 47149,I can see the surface.
 47174,A pile of rubble.
 47175,An dark and dangerous looking cave.
+47179,One of the Party Room's finest.
+47180,A goblin fire. Looks fierce.
+47186,A banner in celebration to the 10th year of OSRS.
+47187,A banner in celebration to the 10th year of OSRS.
+47188,Some balloons in celebration to the 10th year of OSRS.
+47189,"A group of plushies, chilling."
+47190,An eruption of Jad plushies.
+47191,Grrr!
+47192,"Aww, cute!"
+47193,"A stray dog, all on his own."
+47194,A gang of gnome children.
+47195,A true master of disguise.
+47200,Happy Birthday!
+47201,Happy Birthday!
+47202,A grand door.
+47203,A grand door.
+47204,"Crack the Clue II was a community event released on 22nd February, 2019."
+47205,"The Mimic and beginner clues were released as a part of the Treasure Trail expansion on 11th April, 2019."
+47206,"House Hosidius in Kourend was reworked graphically on 23rd May, 2019."
+47207,"The Forthos dungeon was released on 4th July, 2019."
+47208,"The Last Man Standing minigame was reworked and released on 29th August, 2019."
+47211,"The Fremennik Exiles is a master level quest that was released on 26th September, 2019."
+47212,"The Twisted League was the first league and was released on 14th November, 2019."
+47217,"The Nightmare of Ashihama was released on 6th February, 2020."
+47219,"The Song of the Elves is a grandmaster quest which unlocked access to Prifddinas on 25th July, 2019."
+47224,"The Death system rework was released on 24th June, 2020."
+47225,"The Mahogany Homes update to construction was released on 26th August, 2020."
+47226,"The Ferox Enclave PvP outpost in the wilderness was released on 16th July, 2020."
+47227,"The Porcine of Interest is a novice level quest which was released on 10th September, 2020."
+47228,"The Soul Wars minigame was the first in a series of backported pieces of content and was released on 6th January, 2021."
+47232,"The Sins of the Father is a Grandmaster quest which unlocked access to Darkmeyer on 4th June, 2020."
+47234,"The Shades of Mort'ton rework was released on 27th January, 2021."
+47235,"The Trailblazer League was the second league and was released on 28th October, 2020."
+47240,A strange archway.
+47241,"Tzhaar-Ket-Rak's challenges which introduced the ability to fight 6 jads at once was released on 3rd March, 2021."
+47242,"Shooting Stars is a distraction and diversion mining activity which was released on 17th March, 2021."
+47243,"Tempoross the fishing skill boss was released on 24th March, 2021."
+47244,"Below Ice Mountain is a free-to-play quest which was released on 14th April, 2021."
+47245,"The Combat Achievements system was released on 21st July, 2021."
+47246,"A Kingdom Divided is a master level quest which was released on 16th June, 2021."
+47251,"Deadman: Reborn was a seasonal event released on 25th August, 2021."
+47254,"The Group Ironman gamemode was released on 6th October, 2021."
+47255,"Nex: The Fifth General was released and added to the Godwars Dungeon on 5th January, 2022."
+47257,"The Shattered Relics League was the third league and was released on 19th January, 2022."
+47262,"Land of the Goblins is an experienced level quest and was released on 9th February, 2022."
+47263,"Land of the Goblins is an experienced level quest and was released on 9th February, 2022."
+47264,"Land of the Goblins is an experienced level quest and was released on 9th February, 2022."
+47265,"Phosani's Nightmare was released on 30th June, 2021."
+47266,"The Revenant Maledictus boss was released and added to the revenant caves on 2nd February, 2022."
+47267,"The Temple of the Eye quest which unlocked access to the Guardians of the Rift minigame was released on 23rd March, 2022."
+47268,"The Giants' Foundry minigame was released on 8th June, 2022."
+47269,"The Emir's Arena is a ranked pvp minigame which was released on 13th July, 2022."
+47272,"The Unranked Group Ironman gamemode was released on 26th May, 2022."
+47273,"The Secrets of the North is a master level quest which introduced the Phantom Muspah boss and was released on 11th January, 2023."
+47274,"Quest Speedrunning is a minigame which was released on 12th October, 2022."
+47278,"The Venenatis, Callisto and Vet'ion bosses were reworked on 25th January, 2023."
+47282,"Raids III: Tombs of Amascut was released on 24th August, 2022."
+47314,I can climb down these stairs.
+47315,I can climb up these stairs.
+47316,"Oh, it's just a prop. I can't leave this way."
+47317,Sit.
+47318,For sitting.
+47319,That's really bright!
+47320,Happy birthday!
+47321,Happy birthday!
+47323,Happy Birthday!
+47324,I can climb over these.
+47326,I can climb these.
+47327,There is a large recess in the middle of the doors.
+47328,Who knows what secrets lie on the other side.
+47329,"The doors are broken, but should still be useable."
+47330,Guess I know whats on the other side now.
+47331,Some hammers.
+47332,Some water containers.
+47333,Some swamp paste.
+47334,Some potions.

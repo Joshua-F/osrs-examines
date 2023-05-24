@@ -1056,7 +1056,7 @@
 1749,The scaly rough hide from a Red Dragon.
 1751,The scaly rough hide from a Blue Dragon.
 1753,The scaly rough hide from a Green Dragon.
-1755,Good for detailed Crafting.
+1755,Good for detailed crafting.
 1757,A mostly clean apron.
 1759,Spun from sheeps' wool.
 1761,Clay soft enough to mould.
@@ -2298,7 +2298,7 @@
 3664,
 3665,
 3666,
-3667,null
+3667,A tool to teleport you to various bosses and setup slayer tasks.
 3678,An exquisitely shaped tool specially designed for fixing temples.
 3680,A shoe.
 3681,A shoe.
@@ -6802,29 +6802,29 @@
 10636,null
 10637,null
 10638,null
-10639,A large piece of Sarachnis' shell.
+10639,null
 10640,null
-10641,Essence left behind from a vanquished vampire.
+10641,null
 10642,null
 10643,null
-10644,A strange sigil obtained from a powerful creature found in the wilderness.
+10644,null
 10645,null
-10646,"A large sharp piece of the phantom muspah, solid to the touch yet ethereal in nature."
-10647,An emblem to Zaros found on one of their followers.
-10648,A large piece of crystal.
-10649,A coin looted from the tomb of Osmumten.
+10646,null
+10647,null
+10648,null
+10649,null
 10650,null
-10651,A brick found within the Hallowed Sepulchre.
-10652,"A piece of essence infused with abyssal energy, unable to be used for Runecraft."
+10651,null
+10652,null
 10653,null
-10654,A large piece of a casket.
+10654,null
 10655,null
 10656,null
-10657,A large piece of Barronite unable to be broken down further.
-10658,A piece of fabric torn from Death's robe.
-10659,A large shard mined from a shooting star.
+10657,null
+10658,null
+10659,null
 10660,null
-10661,A container containing shifting water trying to return to Tempoross.
+10661,null
 10662,null
 10663,null
 10664,null
@@ -7657,7 +7657,7 @@
 11938,Oops!
 11940,What on earth would eat this?
 11941,You can store stuff in the bag when you're in the Wilderness.
-11942,An icy key that can be used to access a boss rooms in the God Wars Dungeon.
+11942,An icy key that can be used to access a boss room in the God Wars Dungeon.
 11943,Bones of a lava dragon.
 11951,4 doses of extended anti-firebreath potion.
 11953,3 doses of extended anti-firebreath potion.
@@ -8316,7 +8316,7 @@
 12843,That's gross. Why am I carrying it around?
 12844,A 'voice of doom' potion used to deepen your voice.
 12845,"Allows me to imitate the bringer of doom, the stealer of souls, the eternal end..."
-12846,Unlocks the level 85 Target Teleport spell.
+12846,Unlocks the level 85 Teleport to Target spell.
 12848,Its power should not be taken for granited.
 12849,"A strong clamp, used for hardening granite maul blocks."
 12851,Heirloom of an ancient family of Morytania.
@@ -10429,7 +10429,7 @@
 21907,Yuck! I could get it stuffed!
 21909,I could mount this on my wall!
 21911,Rune dragon
-21912,Vorkath's mounted head.
+21912,Vorkath's mounted head
 21913,Mythical cape
 21914,A broken Ava's Assembler.
 21916,A broken Assembler Max Cape.
@@ -11002,7 +11002,7 @@
 23075,You really don't want to wear it inside-out.
 23077,Yuck! I could get it stuffed!
 23079,I could mount this on my wall!
-23081,Mounted head of the Alchemical Hydra.
+23081,Mounted head of the Alchemical Hydra
 23082,I love rubbing things!
 23083,Unlocks Konar's chest found atop Mount Karuulm.
 23091,Some ornate armoured gloves.
@@ -11822,8 +11822,8 @@
 24611,"Enough power for a Snare, blighted so it can be used only in the Wilderness."
 24613,"Enough power for an Entangle, blighted so it can be used only in the Wilderness."
 24615,"Enough power for a Teleblock or a Teleport to Target, blighted so it can be used only in the Wilderness."
-24617,Blighted so it can fight only in the Wilderness on Target worlds.
-24619,"Blighted so it can fight only in the Wilderness on Target worlds, once activated."
+24617,Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds.
+24619,"Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds, once activated."
 24621,"Enough power for a Vengeance, blighted so it can be used only in the Wilderness."
 24623,4 doses of divine battlemage potion.
 24626,3 doses of divine battlemage potion.
@@ -12317,15 +12317,15 @@
 25476,A worn diary with a blood red cover.
 25478,"A rough scroll with faint writing, on a deep green parchment."
 25481,"A rough scroll with faint writing, on a malevolent dark red parchment."
-25484,"A bow of a follower of Armadyl, corrupted by the power of Venenatis."
-25485,"A bow of a follower of Armadyl, corrupted by the power of Venenatis."
-25486,"An ancient and peculiar chainmace, corrupted by the power of Callisto."
-25487,"An ancient and peculiar chainmace, corrupted by the power of Callisto."
-25488,"A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion."
-25489,"A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion."
-25490,"Behold, the Limeium Scimitar."
-25491,"A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion."
-25492,"A mighty sceptre from long forgotten battles, corrupted by the power of Vet'ion."
+25484,An axe that manipulates the very lifeforce of those who touch it.
+25485,An occult ring made of compounded blood.
+25486,An occult ring made of fractured ice.
+25487,An occult ring made of crystallised smoke.
+25488,An occult ring made of bound shadow.
+25489,"A very old and powerful stick, enhanced with the power of blood magic."
+25490,"A very old and powerful stick, enhanced with the power of ice magic."
+25491,"A very old and powerful stick, enhanced with the power of smoke magic."
+25492,"A very old and powerful stick, enhanced with the power of shadow magic."
 25493,Made from 100% real dragonhide.
 25494,Vambraces made from 100% real dragonhide.
 25495,"This helmet shines bright, like a diamond."
@@ -12824,9 +12824,9 @@
 26235,A pair of ancient vambraces.
 26237,.
 26239,.
-26241,.
-26243,.
-26245,.
+26241,An ancient mage's mask.
+26243,An ancient mage's robe top.
+26245,An ancient mage's robe bottom.
 26247,The best pumpkin pie in Gielinor
 26248,null
 26250,Only possible because of Brother Jered's hard work.
@@ -13707,18 +13707,18 @@
 27777,"This helmet shines bright, like a diamond."
 27779,"This helmet shines bright, like a diamond."
 27781,Looks like a cabbage.
-27783,A platinum trophy to show your speedrunning prowess.
+27783,A diamond trophy to show your speedrunning prowess.
 27785,A mighty sceptre used in long forgotten battles.
 27788,A mighty sceptre used in long forgotten battles.
 27790,Deadly but compact.
-27794,Slightly less useful for baking cakes.
-27795,A shiny tin for shiny cakes.
-27796,A hastily written note for Bob.
-27797,Lumbridge's entry into the Great Gielinor Cake Off.
-27798,King Roald has slightly overdone this one.
-27799,The Gnome Child has done a fantastic job baking this!
-27800,It's only meant to look like chocolate.
-27801,Pie might just about meet the critera.
+27794,null
+27795,null
+27796,null
+27797,null
+27798,null
+27799,null
+27800,null
+27801,null
 27802,Wait...who's wearing who in this situation?!
 27804,Fashionable and delicious.
 27806,No cats were harmed in the making of these slippers.
@@ -13739,3 +13739,132 @@
 27826,A cosy piece of Oldschool memorabilia!
 27827,A cosy piece of Oldschool memorabilia!
 27828,A nice silver hat commemorating 10 years of Oldschool!
+27831,A powerful chainbody.
+27832,A powerful plateskirt.
+27833,A powerful helmet.
+27834,A powerful platebody.
+27835,A powerful pair of platelegs.
+27836,A powerful coif.
+27837,A powerful leather body.
+27838,A powerful pair of leather chaps.
+27839,A powerful hood.
+27840,A powerful robe top.
+27841,A powerful robe bottom.
+27842,A powerful chainbody.
+27843,A powerful plateskirt.
+27844,A powerful helmet.
+27845,A powerful platebody.
+27846,A powerful pair of platelegs.
+27847,A powerful coif.
+27848,A powerful leather body.
+27849,A powerful pair of leather chaps.
+27850,A powerful hood.
+27851,A powerful robe top.
+27852,A powerful robe bottom.
+27853,A bow from an even darker dimension.
+27855,This is likely to put my back out...
+27857,A spiky mace.
+27859,A very powerful sword.
+27861,Something sharp from the body of a defeated Abyssal Sire.
+27863,Something sharp and poisonous from the body of a defeated Abyssal Sire.
+27865,Something sharp and very poisonous from the body of a defeated Abyssal Sire.
+27867,Something sharp and extremely poisonous from the body of a defeated Abyssal Sire.
+27869,A truly fearsome weapon.
+27870,A heavy ring that glimmers with a strange power.
+27871,Not so subtle.
+27873,A decorated spade.
+27875,An egg-cellent look.
+27877,People won't stop chicken you out.
+27878,null
+27880,null
+27882,null
+27884,null
+27886,null
+27888,null
+27890,null
+27892,null
+27897,A scaled blue dragonhide.
+27900,A powerful spear.
+27902,"A powerful spear, now inactive."
+27904,A powerful longsword.
+27906,"A powerful longsword, now inactive."
+27908,A powerful warhammer.
+27910,"A powerful warhammer, now inactive."
+27912,A vicious throwing axe.
+27914,"A vicious throwing axe, now inactive."
+27916,A vicious javelin.
+27918,"A vicious javelin, now inactive."
+27920,A powerful staff.
+27922,"A powerful staff, now inactive."
+27925,"A powerful chainbody, now inactive."
+27928,"A powerful plateskirt, now inactive."
+27931,"A powerful helmet, now inactive."
+27934,"A powerful platebody, now inactive."
+27937,"A powerful pair of platelegs, now inactive."
+27940,"A powerful coif, now inactive."
+27943,"A powerful leather body, now inactive."
+27946,"A powerful pair of leather chaps, now inactive."
+27949,"A powerful hood, now inactive."
+27952,"A powerful robe top, now inactive."
+27955,"A powerful robe bottom, now inactive."
+27957,Grants an amount of Attack experience based on your level.
+27958,Grants an amount of Strength experience based on your level.
+27959,Grants an amount of Defence experience based on your level.
+27960,Grants an amount of Hitpoints experience based on your level.
+27961,Grants an amount of Magic experience based on your level.
+27962,Grants an amount of Ranged experience based on your level.
+27963,Grants an amount of Prayer experience based on your level.
+27965,"A powerful chainbody, now inactive."
+27968,"A powerful plateskirt, now inactive."
+27971,"A powerful helmet, now inactive."
+27974,"A powerful platebody, now inactive."
+27977,"A powerful pair of platelegs, now inactive."
+27980,"A powerful coif, now inactive."
+27983,"A powerful leather body, now inactive."
+27986,"A powerful pair of leather chaps, now inactive."
+27989,"A powerful hood, now inactive."
+27992,"A powerful robe top, now inactive."
+27995,"A powerful robe bottom, now inactive."
+27997,An emblem from ancient times.
+27999,An emblem from ancient times.
+28001,An emblem from ancient times.
+28003,An emblem from ancient times.
+28005,An emblem from ancient times.
+28007,An emblem from ancient times.
+28009,An emblem from ancient times.
+28011,An emblem from ancient times.
+28013,An emblem from ancient times.
+28015,An emblem from ancient times.
+28017,Use on various pieces of equipment to make them look fancier!
+28019,A powerful dagger.
+28021,A powerful dagger.
+28023,A powerful dagger.
+28025,A powerful dagger.
+28027,A spiky mace.
+28029,A razor sharp sword.
+28031,"A vicious, curved sword."
+28033,A very powerful sword.
+28035,"Spikey, close combat weapon."
+28037,A vicious looking axe.
+28039,A set of fighting claws.
+28041,A dragon-tipped spear.
+28043,A poisoned dragon-tipped spear.
+28045,A poisoned dragon-tipped spear.
+28047,A poisoned dragon-tipped spear.
+28049,A dragon halberd.
+28051,A two-handed Dragon Sword.
+28053,A dragon crossbow.
+28055,These will protect my feet.
+28057,Makes the wearer pretty intimidating.
+28059,An ancient and powerful-looking Dragon Square Shield.
+28061,Heavy protective legwear.
+28063,This looks pretty heavy.
+28065,A series of connected metal rings.
+28067,A Penance Fighter torso armour.
+28069,A Penance Fighter torso armour.
+28070,A gift from Neitiznot's Burgher.
+28072,Use on a Dark Bow to imbue the weapon.
+28074,Use on a Barrelchest Anchor to imbue the weapon.
+28076,Use on a Dragon Mace to imbue the weapon.
+28078,Use on a Dragon longsword to imbue the weapon.
+28080,Use on a Abyssal dagger to imbue the weapon.

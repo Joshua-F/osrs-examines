@@ -5478,10 +5478,10 @@
 5820,I can see fish swimming in the water.
 5821,I can see fish swimming in the water.
 5822,An impressive-looking troll.
-5823,An ice troll youngling.
-5824,A male troll wielding a large club.
-5825,An ice troll with a bag of rocks.
-5826,A large ice troll.
+5823,An ice troll youngling. All brawn and no loot.
+5824,A male troll wielding a large club. All brawn and no loot.
+5825,An ice troll with a bag of rocks. All brawn and no loot.
+5826,A large ice troll. All brawn and no loot.
 5827,Physician to Neitiznot's militia.
 5828,An ice troll youngling.
 5829,A male troll wielding a large club.
@@ -6173,6 +6173,7 @@
 6721,"Fluffy and cute, keep away from fire!"
 6722,A long-legged bird that likes to fish.
 6723,A chaotic death spawn.
+6724,He's at home in the forests.
 6725,Rock with attitude.
 6726,Rock with attitude.
 6727,Rock with attitude.
@@ -9791,6 +9792,7 @@
 11423,
 11424,
 11425,
+11427,He's at home in the forests.
 11428,"Not quite as great as the Great Guardian, but pretty close."
 11429,Your own personal abyssal horror.
 11430,"Small but wise, he is."
@@ -10370,6 +10372,7 @@
 12116,Anyone fancy a trim?
 12117,A sweet girl who doesn't speak much.
 12118,A corrupted warrior of Fort Daimon - a place of cut-throat hand-to-hand combat.
+12120,A strange bush with pollen-rich flowers.
 12121,A white knight sent to oversee the construction of the Oldschool Museum.
 12122,A white knight sent to oversee the construction of the Oldschool Museum.
 12123,A deadly predator formed from crystal.
@@ -10382,16 +10385,28 @@
 12130,An ancient automaton imbued with the power of Tumeken.
 12131,An ancient automaton imbued with the power of Elidinis.
 12132,An ancient body of power.
+12133,"A strange, fruit producting bush."
+12134,A strange bush with pollen-rich flowers.
+12135,"A strange, fruit producting bush."
 12137,A researcher from the Varrock Museum.
 12138,"Formerly Robert the Strong, now a cat."
 12139,This can't end well.
 12140,The shadow of a dragon flying above.
-12162,He's at home in the forests.
+12141,A strange bush with pollen-rich flowers.
+12142,"A strange, fruit producting bush."
+12143,A strange bush with pollen-rich flowers.
+12144,"A strange, fruit producting bush."
+12145,A strange bush with pollen-rich flowers.
+12146,"A strange, fruit producting bush."
+12147,A strange bush with pollen-rich flowers.
+12148,"A strange, fruit producting bush."
+12149,A strange bush with pollen-rich flowers.
+12150,"A strange, fruit producting bush."
+12151,A strange bush with pollen-rich flowers.
+12152,"A strange, fruit producting bush."
 12163,Helps foresters bank.
 12164,Sapling nutrients
 12165,Sapling nutrients
-12166,A strange bush with pollen-rich flowers.
-12167,"A strange, fruit producting bush."
 12168,A group of friendly bees helping to spread pollen around.
 12169,Looks like it's gotten through a lot of wood.
 12170,Looks like it's gotten through a lot of wood.

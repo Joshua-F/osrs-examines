@@ -3735,7 +3735,7 @@
 6294,A locked display case for valuable artefacts.
 6295,"One of the sculptures is missing. Oh yes, that was me!"
 6296,It looks like the demon didn't survive after all.
-6297,"He looks old, older than me anyway."
+6297,They look old. Older than me anyway.
 6298,I don't think he's going to make it.
 6299,"I don't understand, why didn't he go back to Lumby?"
 6301,A throne encrusted with sparkling gems.
@@ -19366,13 +19366,13 @@
 33431,A gateway to your dreams.
 33432,A gateway to Catherby.
 33433,A gateway to Ghorrock
-33434,A gateway to Carrallangar
+33434,A gateway to Carrallanger
 33435,A gateway to Catherby.
 33436,A gateway to Ghorrock.
-33437,A gateway to Carrallangar.
+33437,A gateway to Carrallanger.
 33438,A gateway to Catherby.
 33439,A gateway to Ghorrock.
-33440,A gateway to Carrallangar.
+33440,A gateway to Carrallanger.
 33441,Get a closer look at things.
 33442,Prepare yourself for a fight.
 33443,Leads to other arenas.
@@ -25185,7 +25185,7 @@
 46610,It's a bit useless without the actual lever handle.
 46611,Maybe I should give it a tug.
 46612,It's been pulled.
-46613,For holding the roof up.
+46613,A surprisingly decorative pillar.
 46614,Fire goes here.
 46615,Something's burning here.
 46616,I wonder what's inside...
@@ -25195,6 +25195,10 @@
 46620,I wonder what's inside...
 46621,I wonder what's inside...
 46622,A cloud of obscuring smoke.
+46628,A pretty non-descript pillar.
+46629,A surprisingly decorative pillar.
+46634,I wonder what they're in for.
+46635,Appears to be locked. Maybe for a good reason.
 46638,Looks slippery.
 46658,It's closed.
 46659,It's open.
@@ -25240,7 +25244,7 @@
 46717,I can climb down this.
 46718,Resting place of the Carnillean family's pet dog.
 46719,I bet bees like this.
-46743,Looks to be solidly sealed.
+46743,A mysterious door.
 46752,"A great brazier, wreathed in magical flame."
 46783,It's totally blocked.
 46793,A deposit of rocks.
@@ -25512,3 +25516,996 @@
 47498,A collection of wild mushrooms great for providing plants with nutrition.
 47499,A pile of splintered bark great for providing plants with nutrition.
 47501,Good for detailed crafting.
+47502,A barrel.
+47504,A heavily damaged rowboat.
+47505,A cloud of obscuring smoke.
+47510,"Whoever that is carved into it, I don't think I'd like to meet them."
+47522,A salty deposit.
+47523,A salty deposit.
+47524,Probably not tasty.
+47526,Probably not tasty.
+47528,Probably not tasty.
+47530,Probably not tasty.
+47532,Probably not tasty.
+47533,Probably not tasty.
+47534,Probably not tasty.
+47535,Probably not tasty.
+47536,For fermenting fungal poison.
+47537,For fermenting fungal poison.
+47538,For fermenting fungal poison.
+47539,For fermenting fungal poison.
+47540,For fermenting fungal poison.
+47541,For fermenting fungal poison.
+47542,For fermenting fungal poison.
+47543,For fermenting fungal poison.
+47544,This creature is... everywhere?
+47545,This creature is... everywhere?
+47546,This creature is... everywhere?
+47547,This creature is... everywhere?
+47548,This creature is... everywhere?
+47549,This creature is... everywhere?
+47550,This creature is... everywhere?
+47551,This creature is... everywhere?
+47552,This creature is... everywhere?
+47560,A shelf with some pestles and mortars on it.
+47561,I wonder what they were mining.
+47562,Full of interesting statistics.
+47563,Full of interesting statistics.
+47564,Full of interesting statistics.
+47565,It's closed.
+47566,It's closed.
+47567,A shelf with some pestles and mortars on it.
+47568,I wonder what they were mining.
+47569,"Given the very rude word drawn in the ice next to them, they clearly weren't a fan of dying."
+47573,Looks spooky.
+47574,Looks spooky.
+47575,Looks spooky.
+47576,Looks... safe?
+47578,How lovely.
+47579,How lovely.
+47580,Full of interesting statistics.
+47581,Full of interesting statistics.
+47582,Full of interesting statistics.
+47583,Full of interesting statistics.
+47584,Looks slimy.
+47585,Looks slimy.
+47586,Looks slimy.
+47587,Very broken indeed.
+47588,Full of interesting statistics.
+47589,Full of interesting statistics.
+47592,Looks like I could climb these.
+47593,Looks like I could climb these.
+47594,Looks like I could climb these.
+47595,Looks like I could climb these.
+47596,An ancient stele covered in an odd script.
+47597,An ancient stele covered in an odd script.
+47598,An ancient stele covered in an odd script.
+47599,They are everywhere.
+47600,They are everywhere.
+47601,They are everywhere.
+47602,They are everywhere.
+47603,Rocky.
+47604,Rocky.
+47665,"Oh great, a grate."
+47667,Where does this lead?
+47732,"Oh great, a grate."
+47734,This seems to stand out.
+47735,Where does this lead?
+47744,Fire goes here.
+47745,Great for blowing!
+47746,Looks like it's non-stick too!
+47747,Forged to withstand the hottest of temperatures.
+47748,The bubbling goop is very important.
+47749,A study barrel used for storing goods.
+47750,I wonder what strange concoctions were brewed in here.
+47751,I wonder what strange concoctions were brewed in here.
+47752,The goop goes slosh!
+47753,Secrets hidden in an archaic text.
+47754,Manic notes scrawled in an unsettling tone.
+47755,How very peculiar...
+47756,There's all sorts of interesting things on it.
+47757,I wonder what this was used for.
+47758,There are various documents scattered across it.
+47759,There are various documents scattered across it.
+47760,Looks very comfortable for a nap!
+47761,A dummy target for combat practice.
+47762,Packed with bows.
+47763,Packed with spears.
+47764,Loaded with weapons.
+47765,Loaded with weapons.
+47766,Protective!
+47767,Pointy!
+47768,Pointy!
+47769,Excellent craftsmanship.
+47770,I want one.
+47771,I want one.
+47772,Loaded with bolts.
+47773,An ominous statue of a powerful Mahjarrat.
+47774,Holds things up.
+47775,Very fancy.
+47777,Very fancy.
+47778,Very fancy.
+47780,Very fancy.
+47781,Hasn't been sat on for a long time.
+47782,It probably needs some water.
+47783,It probably needs some water.
+47784,It probably needs some water.
+47785,Looks like they've been dead a while now...
+47786,Looks like they've been dead a while now...
+47787,Looks like they've been dead a while now...
+47788,Looks like they've been dead a while now...
+47789,Looks like they've been dead a while now...
+47790,Looks like they've been dead a while now...
+47791,Looks like they've been dead a while now...
+47792,Looks like they've been dead a while now...
+47793,Looks like they've been dead a while now...
+47794,They're looking great!
+47795,Lacking sustenance.
+47817,It's a flight of stairs.
+47818,It's a flight of stairs.
+47866,Peer into the void.
+47867,Peer into the void.
+47871,A large gate.
+47872,A large gate.
+47873,A large gate.
+47874,A large gate.
+47875,Holding the gate closed.
+47876,Holding the gate closed.
+47877,Holding the gate closed.
+47878,Holding the gate closed.
+47879,Holding the gate closed.
+47880,Holding the gate closed.
+47881,Holding the gate closed.
+47882,Holding the gate closed.
+47883,Holding the gate closed.
+47887,Dusty.
+47888,Dusty.
+47889,Dusty.
+47914,A large gate.
+47915,A crate for storing things.
+47916,Some crates for storing things.
+47917,The ideal thing to sit on.
+47918,"The ideal thing to sit on. Well, perhaps not ideal... but it'll do."
+47919,It's a table... A small one.
+47920,It's a table... A long one.
+47921,It's a table... A big one.
+47922,It's polite to remove your hat before entering a house.
+47923,A big cupboard.
+47924,A big cupboard.
+47925,Ideal for cooking on.
+47926,Used for getting water.
+47927,A very hot furnace.
+47928,A big luxurious bed.
+47929,Neatly made up.
+47930,A sturdy barrel used for storing liquids. It smells horrific!
+47931,It's empty... so empty...
+47932,It has a distinct lack of fire.
+47933,I wonder what's inside...
+47934,A hanging banner depicting an ancient symbol.
+47935,Not much gets sold here now.
+47942,Plenty of old books here.
+47943,Plenty of old books here.
+47945,What a nice lamp.
+47946,For putting things on.
+47947,For putting things on.
+47949,A little three legged stool.
+47950,A pretty water feature.
+47951,An old broken market stall.
+47955,You probably don't want to be in there.
+47956,Wash here.
+47957,Looking good!
+47958,A privacy aid!
+47959,Takes my dirty bath water away.
+47960,For moving cargo.
+47961,Fire goes here.
+47962,Great for blowing!
+47963,Looks like it's non-stick too!
+47964,Forged to withstand the hottest of temperatures.
+47965,The bubbling goop is very important.
+47966,A study barrel used for storing goods.
+47967,I wonder what strange concoctions were brewed in here.
+47968,I wonder what strange concoctions were brewed in here.
+47969,The goop goes slosh!
+47970,Secrets hidden in an archaic text.
+47971,Manic notes scrawled in an unsettling tone.
+47972,How very peculiar...
+47973,There's all sorts of interesting things on it.
+47974,I wonder what this was used for.
+47975,There are various documents scattered across it.
+47976,There are various documents scattered across it.
+47977,Looks very comfortable for a nap!
+47978,A dummy target for combat practice.
+47979,Packed with bows.
+47980,Packed with spears.
+47981,Loaded with weapons.
+47982,Loaded with weapons.
+47983,Protective!
+47984,Pointy!
+47985,Pointy!
+47986,Excellent craftsmanship.
+47987,I want one.
+47988,I want one.
+47989,Loaded with bolts.
+47990,An ominous statue of a powerful Mahjarrat.
+47991,An ominous statue of a demon.
+47992,An ominous statue of a siren.
+47993,An ominous statue of a siren.
+47994,An ominous statue of a vampyre.
+47995,There's a hole in the roof.
+47996,There's a hole in the roof.
+47997,Holds things up.
+47998,Very fancy.
+47999,Very fancy.
+48000,Very fancy.
+48001,Very fancy.
+48002,Very fancy.
+48003,Very fancy.
+48004,Hasn't been sat on for a long time.
+48005,It probably needs some water.
+48006,It probably needs some water.
+48007,It probably needs some water.
+48008,Looks like they've been dead a while now...
+48009,Looks like they've been dead a while now...
+48010,Looks like they've been dead a while now...
+48011,Looks like they've been dead a while now...
+48012,Looks like they've been dead a while now...
+48013,Looks like they've been dead a while now...
+48014,Looks like they've been dead a while now...
+48015,Looks like they've been dead a while now...
+48016,Looks like they've been dead a while now...
+48017,They're looking great!
+48018,Lacking sustenance.
+48040,I can climb this.
+48041,I can climb this.
+48042,I can climb this.
+48043,I can climb down this.
+48044,For climbing.
+48045,For climbing.
+48046,It's a flight of stairs.
+48047,It's a flight of stairs.
+48101,Peer into the void.
+48102,Peer into the void.
+48106,A large gate.
+48107,A large gate.
+48108,A large gate.
+48109,A large gate.
+48110,Holding the gate closed.
+48111,Holding the gate closed.
+48112,Holding the gate closed.
+48113,Holding the gate closed.
+48114,Holding the gate closed.
+48115,Holding the gate closed.
+48116,Holding the gate closed.
+48117,Holding the gate closed.
+48118,Holding the gate closed.
+48122,Dusty.
+48123,Dusty.
+48124,Dusty.
+48140,Leads upwards.
+48149,A large gate.
+48150,An odd creeping vine snakes across the floor here.
+48151,An odd creeping vine snakes across the floor here.
+48152,An odd creeping vine snakes across the floor here.
+48153,An odd creeping vine snakes across the floor here.
+48154,An odd creeping vine snakes across the floor here.
+48155,An odd creeping vine snakes across the floor here.
+48156,An odd creeping vine snakes across the floor here.
+48157,Nasty curling tendrils of a shadowy plant.
+48158,Nasty curling tendrils of a shadowy plant.
+48159,A crate for storing things.
+48160,Some crates for storing things.
+48161,The ideal thing to sit on.
+48162,"The ideal thing to sit on. Well, perhaps not ideal... but it'll do."
+48163,It's a table... A small one.
+48164,It's a table... A long one.
+48165,It's a table... A big one.
+48166,It's polite to remove your hat before entering a house.
+48167,A big cupboard.
+48168,A big cupboard.
+48169,Ideal for cooking on.
+48170,Used for getting water.
+48171,A very hot furnace.
+48172,A big luxurious bed.
+48173,Neatly made up.
+48174,A sturdy barrel used for storing liquids. It smells horrific!
+48175,It's empty... so empty...
+48176,It has a distinct lack of fire.
+48177,I wonder what's inside...
+48178,A hanging banner depicting an ancient symbol.
+48179,Not much gets sold here now.
+48186,Plenty of old books here.
+48187,Plenty of old books here.
+48189,What a nice lamp.
+48190,An old broken market stall.
+48191,Smaller than the average skeleton.
+48192,Looking good!
+48193,A privacy aid!
+48194,For moving cargo.
+48195,Very rocky.
+48196,Very rocky.
+48197,A long rope descends down into the void...
+48198,Leads upwards.
+48199,A puddle of strange goo.
+48200,A puddle of strange goo.
+48201,It's inactive.
+48202,Helps you get around.
+48203,It won't work here.
+48205,Eww!
+48206,Eww!
+48208,Eww!
+48209,Eww!
+48211,Eww!
+48212,Eww!
+48213,Keeps the shadows at bay.
+48214,Keeps the shadows at bay.
+48215,Helps to protect you from the influence of the Shadow Realm.
+48216,Helps to protect you from the influence of the Shadow Realm.
+48217,It's been used.
+48218,A strange magical portal.
+48219,A strange magical portal.
+48220,What could be inside?
+48221,What could be inside?
+48222,What could be inside?
+48223,What could be inside?
+48224,What could be inside?
+48225,What could be inside?
+48226,What could be inside?
+48227,What could be inside?
+48228,What could be inside?
+48229,What could be inside?
+48230,What could be inside?
+48231,What could be inside?
+48232,What could be inside?
+48233,What could be inside?
+48234,What could be inside?
+48235,What could be inside?
+48236,What could be inside?
+48237,What could be inside?
+48238,What could be inside?
+48239,What could be inside?
+48240,What could be inside?
+48241,What could be inside?
+48242,What could be inside?
+48243,What could be inside?
+48244,A remnant of the distant past.
+48245,A remnant of the distant past.
+48246,A remnant of the distant past.
+48247,For tinkering.
+48248,For tinkering.
+48249,For tinkering.
+48250,For tinkering.
+48251,Burning through strange magic.
+48252,Burning through strange magic.
+48253,A place to store a fire.
+48254,They're closed.
+48255,They're closed.
+48256,They're open.
+48257,They're open.
+48258,They're closed.
+48259,They're closed.
+48260,They're open.
+48261,They're open.
+48262,It's closed.
+48263,It's closed.
+48264,It's open.
+48265,It's open.
+48266,They're closed.
+48267,They're closed.
+48268,They're closed.
+48269,They're closed.
+48270,They're open.
+48271,They're open.
+48272,They're open.
+48273,They're open.
+48274,It's closed.
+48275,It's closed.
+48276,It's open.
+48277,It's open.
+48278,They're closed.
+48279,They're closed.
+48280,They're closed.
+48281,They're closed.
+48282,They're open.
+48283,They're open.
+48284,They're open.
+48285,They're open.
+48286,It's closed.
+48287,It's open.
+48288,It's open.
+48289,They're closed.
+48290,They're closed.
+48291,They're open.
+48292,They're open.
+48293,They're open.
+48294,They're open.
+48295,Peer into the void.
+48296,Peer into the void.
+48297,Peer into the void.
+48298,Peer into the void.
+48299,Leads upwards.
+48301,Looks secure.
+48302,Looks secure.
+48303,Leads upwards.
+48304,Leads downwards.
+48305,This seems to stand out.
+48306,What could be inside?
+48307,What could be inside?
+48308,What could be inside?
+48309,Not got much choice.
+48310,Looks slimy.
+48311,Taken by the depths of time.
+48326,Very ominous indeed.
+48327,Taken by the depths of time.
+48349,It doesn't look healthy.
+48350,It doesn't look healthy.
+48351,It doesn't look healthy.
+48352,It doesn't look healthy.
+48353,It doesn't look healthy.
+48354,It doesn't look healthy.
+48355,It doesn't look healthy.
+48356,It doesn't look healthy.
+48357,It doesn't look healthy.
+48358,It doesn't look healthy.
+48359,It doesn't look healthy.
+48360,It doesn't look healthy.
+48361,It doesn't look healthy.
+48362,It doesn't look healthy.
+48363,It doesn't look healthy.
+48364,It doesn't look healthy.
+48365,It doesn't look healthy.
+48366,It doesn't look healthy.
+48367,A beautiful pine tree.
+48368,A beautiful pine tree.
+48369,A beautiful pine tree.
+48370,A beautiful pine tree.
+48371,A beautiful pine tree.
+48372,A beautiful pine tree.
+48373,A beautiful pine tree.
+48374,It doesn't look healthy.
+48375,It doesn't look healthy.
+48376,It doesn't look healthy.
+48377,It doesn't look healthy.
+48378,It doesn't look healthy.
+48379,It doesn't look healthy.
+48380,It doesn't look healthy.
+48381,It doesn't look healthy.
+48382,It doesn't look healthy.
+48383,It doesn't look healthy.
+48384,It doesn't look healthy.
+48385,It doesn't look healthy.
+48386,It doesn't look healthy.
+48387,It doesn't look healthy.
+48388,It doesn't look healthy.
+48389,It doesn't look healthy.
+48390,It doesn't look healthy.
+48391,It doesn't look healthy.
+48392,It doesn't look healthy.
+48393,It doesn't look healthy.
+48394,It doesn't look healthy.
+48395,It doesn't look healthy.
+48396,It doesn't look healthy.
+48397,It doesn't look healthy.
+48398,It doesn't look healthy.
+48399,It doesn't look healthy.
+48400,It doesn't look healthy.
+48401,It doesn't look healthy.
+48402,It doesn't look healthy.
+48403,It doesn't look healthy.
+48404,It doesn't look healthy.
+48405,It doesn't look healthy.
+48406,It doesn't look healthy.
+48407,It doesn't look healthy.
+48408,It doesn't look healthy.
+48409,It doesn't look healthy.
+48410,It doesn't look healthy.
+48411,It doesn't look healthy.
+48412,It doesn't look healthy.
+48413,That's... unpleasant.
+48414,That's... unpleasant.
+48415,That's... unpleasant.
+48416,That's... unpleasant.
+48417,That's... unpleasant.
+48418,A pillar carved from rock with a strange symbol on it.
+48419,A pillar carved from rock with a strange symbol on it.
+48420,A pillar carved from rock with a strange symbol on it.
+48421,A pillar carved from rock with a strange symbol on it.
+48422,A pillar carved from rock with a strange symbol on it.
+48423,A pillar carved from rock with a strange symbol on it.
+48424,A pillar carved from rock with a strange symbol on it.
+48425,A pillar carved from rock with a strange symbol on it.
+48426,What a mess!
+48427,What a mess!
+48428,What a mess!
+48429,What a mess!
+48430,What a mess!
+48431,What a mess!
+48432,A pillar carved from rock with a strange symbol on it.
+48433,A pillar carved from rock with a strange symbol on it.
+48434,A pillar carved from rock with a strange symbol on it.
+48435,A pillar carved from rock with a strange symbol on it.
+48436,A pillar carved from rock with a strange symbol on it.
+48437,A pillar carved from rock with a strange symbol on it.
+48438,A pillar carved from rock with a strange symbol on it.
+48439,A pillar carved from rock with a strange symbol on it.
+48440,What a mess!
+48441,What a mess!
+48442,What a mess!
+48443,What a mess!
+48444,A pillar carved from rock with a strange symbol on it.
+48445,A pillar carved from rock with a strange symbol on it.
+48446,A pillar carved from rock with a strange symbol on it.
+48447,A pillar carved from rock with a strange symbol on it.
+48448,An ancient monument.
+48449,An ancient monument.
+48450,An ancient monument.
+48451,An ancient monument.
+48452,What a mess!
+48495,Creeping along the ground.
+48496,Creeping along the ground.
+48497,Creeping along the ground.
+48498,Creeping along the ground.
+48499,Creeping along the ground.
+48500,Creeping along the ground.
+48501,Creeping along the ground.
+48502,Creeping along the ground.
+48533,A decaying plant.
+48534,A decaying plant.
+48535,A decaying plant.
+48536,A decaying plant.
+48537,A decaying plant.
+48538,A decaying plant.
+48539,A decaying fern.
+48540,A decaying fern.
+48541,A decaying fern.
+48542,A decaying fern.
+48543,A decaying fern.
+48544,A decaying fern.
+48545,A decaying bushy plant.
+48546,A decaying bushy plant.
+48547,A decaying bushy plant.
+48548,A decaying bushy plant.
+48549,A decaying bushy plant.
+48550,A decaying leafy shrub.
+48551,A decaying leafy shrub.
+48552,A decaying leafy shrub.
+48553,A decaying leafy shrub.
+48554,A decaying leafy shrub.
+48555,A decaying leafy shrub.
+48575,A lump of rock.
+48576,A lump of rock.
+48577,A lump of rock.
+48578,A lump of rock.
+48579,A lump of rock.
+48580,A lump of rock.
+48581,A lump of rock.
+48582,A lump of rock.
+48583,RIP.
+48584,F.
+48585,Poor guy.
+48589,Some webs are blocking the way.
+48590,An abandoned tent.
+48591,The tent hangs motionlessly.
+48592,A heavy tendril has crushed the tent.
+48594,"Yep, those are sacks."
+48595,A wooden barrel for storage.
+48596,A crate for storing things.
+48597,Some crates for storing things.
+48598,Of the boat faced variety.
+48633,Where could it lead?
+48634,Where could it lead?
+48635,Where could it lead?
+48636,Where could it lead?
+48638,Looks sturdy enough to support something.
+48643,Where could it lead?
+48644,Where could it lead?
+48646,A very old table.
+48647,A very old table.
+48648,A very old table.
+48649,An ancient stone chest.
+48650,An ancient stone chest.
+48651,A very old table.
+48652,A very old table.
+48653,A very old table.
+48654,An ancient stone chest.
+48655,An ancient stone chest.
+48662,Where could it lead?
+48663,Where could it lead?
+48714,Designed to keep things out.
+48715,For blocking the way.
+48716,Kept someone warm at some point.
+48717,Where does it go?
+48718,The ideal place to study.
+48719,The ideal place to study.
+48720,A wooden rowboat.
+48721,A wooden rowboat.
+48722,Where could it lead?
+48723,Where could it lead?
+48724,A very old set of doors.
+48725,A very old set of doors.
+48726,A very old set of doors.
+48727,A very old set of doors.
+48728,A very old set of doors.
+48729,A very old set of doors.
+48730,They lead back outside.
+48731,They lead back outside.
+48732,Goes up.
+48733,Goes up.
+48734,For blocking the way.
+48735,For blocking the way.
+48736,Some berries are growing here.
+48737,Some berries are growing here.
+48738,Some herbs are growing here.
+48739,Some herbs are growing here.
+48740,Rocky.
+48741,Rocky.
+48742,Rocky.
+48743,An ancient stone chest.
+48744,An ancient stone chest.
+48745,Where could it lead?
+48746,Where could it lead?
+48753,That should hold them back for now...
+48754,Stand back!
+48755,Supplies ready for the taking.
+48756,A locked stone chest.
+48757,An empty stone chest.
+48758,An ancient stone chest.
+48759,An ancient stone chest.
+48760,An ancient stone chest.
+48761,An ancient stone chest.
+48762,An ancient stone chest.
+48763,An ancient stone chest.
+48764,An ancient stone chest.
+48765,A heavy tendril has crushed the tent.
+48766,An ancient stone chest.
+48767,The way out?
+48768,The way out?
+48769,Looks like there was once a building here.
+48770,A mysterious portal.
+48771,I wonder what's inside...
+48772,I wonder what's inside...
+48773,I wonder what's inside...
+48774,Solid bars of iron.
+48775,Solid bars of iron.
+48776,Solid bars of iron.
+48777,Technically a bed.
+48778,Technically a bed.
+48779,A dusty altar.
+48780,A dusty altar.
+48781,A magical barrier.
+48782,A magical barrier.
+48786,Hot.
+48787,What a mess!
+48788,What a mess!
+48789,What a mess!
+48790,Great for sleeping in.
+48791,A workbench with clamps.
+48792,Good for sitting on.
+48793,There are some books on it.
+48795,The air doesn't smell so foul up there.
+48796,The air doesn't smell so foul up there.
+48797,They lead down below...
+48798,An ancient plaque.
+48799,An ancient plaque.
+48800,A very old statue.
+48801,A very old statue.
+48802,A very old statue.
+48803,A very old statue.
+48804,A very old statue.
+48805,A very old statue.
+48806,A very old statue.
+48807,A very old statue.
+48808,A very old statue.
+48809,A very old statue.
+48810,A very old statue.
+48811,A very old statue.
+48812,A very old statue.
+48813,A very old statue.
+48814,A very old statue.
+48815,A very old statue.
+48858,"A great brazier, wreathed in magical flame."
+48890,That's a fancy staircase.
+48891,That's a fancy staircase.
+48892,Looks old and heavy.
+48893,Looks old and heavy.
+48894,Looks old and heavy.
+48895,Looks old and heavy.
+48896,Looks old and heavy.
+48897,A big supporting pillar. Looks to be holding up the roof well.
+48898,A big supporting pillar. Looks to be holding up the roof well.
+48899,A tattered flag from a bygone era.
+48900,A tattered flag from a bygone era.
+48901,"A great brazier, wreathed in magical flame."
+48902,It's empty. How boring.
+48903,It's empty. How boring.
+48904,It's empty. How boring.
+48905,"Covered in cloth, either for protection or because someone didn't want to look at it."
+48906,"Covered in cloth, either for protection or because someone didn't want to look at it."
+48907,"Covered in cloth, either for protection or because someone didn't want to look at it."
+48908,A pile of stones.
+48909,A pile of rubble.
+48912,A strange horn that exudes a mysterious power.
+48913,A powerful artefact of a higher power.
+48914,A powerful artefact of a higher power.
+48915,A powerful artefact of a higher power.
+48916,Where a powerful artefact once rested.
+48918,Used to move earth to and from the dig shaft.
+48919,This leads back up the dig shaft.
+48920,A big pile of rocks.
+48921,A big pile of rocks.
+48922,A small crevice in the ground.
+48923,A wooden crate.
+48924,I can probably climb up these rocks.
+48925,I can probably climb up these rocks.
+48926,Blocking the way forward.
+48927,Looks to have been heavily modified.
+48928,Looks to have been heavily modified.
+48929,An altar created long ago.
+48930,An ancient power emanates from it.
+48931,A wooden crate.
+48933,A mysterious door.
+48934,An imposing set of stairs.
+48947,Not that kind of fantasy game...
+48948,Not that kind of fantasy game...
+48949,Not that kind of fantasy game...
+48950,A tattered flag from a bygone era.
+48951,A tattered flag from a bygone era.
+48952,A tattered flag from a bygone era.
+48953,A tattered flag from a bygone era.
+48954,A tattered flag from a bygone era.
+48955,A tattered flag from a bygone era.
+48956,A tattered flag from a bygone era.
+48957,A tattered flag from a bygone era.
+48958,A tattered flag from a bygone era.
+48959,You probably don't want to be in there.
+48960,You probably don't want to be in there.
+48961,They probably didn't want to be in there.
+48962,Try not to get stuck in there.
+48963,They probably didn't have an enjoyable time in there.
+48964,Either those candles last a while or someone's been here recently...
+48965,Bed might not be quite the right word...
+48966,I'd rather stand.
+48967,It's not been used in a very long time.
+48968,I don't like the look of what this was used for.
+48969,I wonder if it fits...
+48970,They tried to get ahead of the situation.
+49085,A very untidy workplace.
+49086,Good for sitting on.
+49087,Not so good for sitting on.
+49088,For storing things.
+49089,For storing things.
+49090,An ominous statue.
+49091,Very imposing.
+49092,Very imposing.
+49093,Very imposing.
+49094,Their prognosis isn't great.
+49095,En-suite facilities in every cell!
+49096,Now probably isn't the time to rest.
+49097,Now probably isn't the time to rest.
+49098,It's closed.
+49099,There's a hole where one of the bricks should be.
+49100,They lead to the asylum.
+49101,They lead out of here.
+49102,A conveniently placed pack.
+49103,A conveniently placed pack.
+49104,For putting things in.
+49105,Looks slippery.
+49106,Looks slippery.
+49107,Looks slippery.
+49108,Looks slippery.
+49109,Looks slippery.
+49110,Looks slippery.
+49111,I wonder what's inside...
+49112,I wonder what's inside...
+49113,I wonder what's inside...
+49114,I wonder what's inside...
+49115,I wonder what's inside...
+49116,I wonder what's inside...
+49117,I wonder what's inside...
+49118,It's closed.
+49119,It's open.
+49120,It's closed.
+49121,It's open.
+49122,The lock has been decorated with sapphires.
+49123,The lock has been decorated with sapphires.
+49124,The lock has been decorated with emeralds.
+49125,The lock has been decorated with emeralds.
+49126,The lock has been decorated with rubies.
+49127,The lock has been decorated with rubies.
+49128,The lock has been decorated with diamonds.
+49129,The lock has been decorated with diamonds.
+49130,The lock has been decorated with dragonstones.
+49131,The lock has been decorated with dragonstones.
+49132,The lock has been decorated with onyxes.
+49133,The lock has been decorated with onyxes.
+49134,It's closed.
+49135,The lock has been decorated with sapphires.
+49136,The lock has been decorated with sapphires.
+49137,It's closed.
+49138,It's closed.
+49139,It's closed.
+49140,It's closed.
+49141,A crate full of rations.
+49142,A crate full of rations.
+49143,An empty crate.
+49144,Jhallan isn't having a good day.
+49145,A candle stand with four candles on it.
+49146,A candle stand with three candles on it.
+49147,A candle stand with two candles on it.
+49148,A candle stand with one candle on it.
+49149,A candle stand with no candles on it.
+49150,An altar to an ancient god.
+49151,For storing things.
+49152,I wonder what's inside...
+49153,For storing things.
+49160,Now probably isn't the time to rest.
+49161,A mountain of knowledge.
+49162,A mountain of knowledge.
+49163,A mountain of knowledge.
+49164,A very untidy workplace.
+49165,A very untidy workplace.
+49166,For storing things.
+49167,Now probably isn't the time to rest.
+49168,Now probably isn't the time to rest.
+49169,They look old. Older than me anyway.
+49170,Either those candles last a while or someone's been here recently...
+49174,Looks like they've been dead a while now...
+49175,Now probably isn't the time to rest.
+49178,A well slept in bed.
+49179,Full of neural electric energy.
+49182,Looks to contain earth energy.
+49183,Looks to contain air energy.
+49184,Looks to contain water energy.
+49185,Looks to contain fire energy.
+49186,Looks to contain mind energy.
+49187,Looks broken.
+49188,Looks empty.
+49189,A concentration of earth energy.
+49190,A concentration of cosmic energy.
+49191,A concentration of death energy.
+49192,A concentration of nature energy.
+49193,A concentration of law energy.
+49194,A concentration of fire energy.
+49195,A concentration of earth energy.
+49196,A concentration of cosmic energy.
+49197,A concentration of death energy.
+49198,A concentration of nature energy.
+49199,A concentration of law energy.
+49200,A concentration of fire energy.
+49201,A wooden crate with some pink ooze all over it.
+49202,A wooden crate with some pink ooze all over it.
+49203,A wooden crate with some pink ooze all over it.
+49204,The way out of this place.
+49205,A scary tunnel.
+49206,A blocked tunnel.
+49207,A scary tunnel.
+49208,A scary tunnel.
+49209,A well placed... something.
+49210,A well placed... something.
+49211,A well placed... something.
+49212,A wooden rowboat.
+49213,A wooden rowboat.
+49214,A wooden rowboat.
+49215,A wooden rowboat.
+49216,A wooden rowboat.
+49217,A wooden rowboat.
+49218,What a mess!
+49219,What a mess!
+49220,What a mess!
+49221,For sleeping in.
+49222,For sleeping in.
+49238,Very broken indeed.
+49239,Very broken indeed.
+49240,Very broken indeed.
+49241,Very broken indeed.
+49242,Leads somewhere...
+49243,Leads somewhere...
+49244,Not so good at floating now.
+49245,Not so good at floating now.
+49246,Not so good at floating now.
+49331,A wooden crate with some pink ooze all over it.
+49332,A wooden crate with pink ooze all over it.
+49342,Bon appetit!
+49343,A broken pillar being used as a table.
+49344,Very broken indeed.
+49354,"Brain matter, forming coral-like structures."
+49355,"Brain matter, forming coral-like structures."
+49356,"Brain matter, forming coral-like structures."
+49357,Looks old and damaged.
+49358,Looks old and damaged.
+49359,A strange nerve structure. Quite fascinating.
+49360,Some strange nerve structures. Quite fascinating.
+49361,A strange nerve structure. Quite fascinating.
+49362,A strange nerve structure. Quite fascinating.
+49363,Some strange nerve structures. Quite fascinating.
+49364,Some strange nerve structures. Quite fascinating.
+49365,Some strange nerve structures. Quite fascinating.
+49366,Looks almost like a tree!
+49367,Looks almost like a tree!
+49368,Looks almost like a tree!
+49376,Should I go down there?
+49377,Should I go down there?
+49378,Should I go down there?
+49379,Should I go down there?
+49380,Should I go down there?
+49381,Should I go down there?
+49382,Should I go down there?
+49383,Should I go down there?
+49384,Should I go down there?
+49385,Should I go down there?
+49386,Should I go down there?
+49388,I don't want to breathe whatever comes out of here.
+49389,Filled with breathable air.
+49391,Pulsing with energy.
+49392,Pulsing with energy.
+49393,Pulsing with energy.
+49394,Sends signals to the growths in the room.
+49395,A vessel of... blood?
+49396,A vessel of... blood?
+49397,A vessel of... blood?
+49398,A vessel of... blood?
+49399,A vessel of... blood?
+49400,A vessel of... blood?
+49401,A vessel of... blood?
+49402,A vessel of... blood?
+49403,A vessel of... blood?
+49404,A vessel of... blood?
+49406,Fully restored.
+49407,Radiating dangerous energy.
+49408,A way out.
+49409,A way out.
+49410,For going through.
+49411,For going through.
+49412,For going through.
+49413,I wonder where it leads...
+49414,I wonder where it leads...
+49415,I wonder where it leads...
+49416,I wonder where it leads...
+49417,Leads into darkness.
+49418,For going through.
+49419,There's no way through there.
+49420,I wonder what's inside...
+49421,I wonder what's inside...
+49422,I wonder what's inside...
+49423,The remains of a grand ship.
+49424,Keep away from fire.
+49425,A wooden crate with pink ooze all over it.
+49426,No brains on this one.
+49427,They clearly didn't come prepared.
+49428,Dead.
+49429,Very dead.
+49430,Oh dear.
+49431,Oh dear.
+49432,Very dead.
+49433,I wonder what's inside...
+49434,I wonder what's inside...
+49435,I wonder what's inside...
+49436,It once emitted light.
+49437,Providing some light to the surrounding area.
+49438,A wooden crate with pink ooze all over it.
+49439,A lump of flesh.
+49440,Sends information elsewhere.
+49441,Sends information elsewhere.
+49442,Sends information elsewhere.
+49443,Sends information elsewhere.
+49444,This terminal will no longer send any signals.
+49445,It lost its nerve.
+49446,It lost its nerve.
+49447,It lost its nerve.
+49448,It lost its nerve.
+49449,It's got a lot of nerve giving off that much energy!
+49450,It's drawing power from this place.
+49451,It's been drained of power.
+49452,It probably wasn't used for anything nice.
+49453,It probably wasn't used for anything nice.
+49455,An empty pedestal.
+49456,An rotten fern.
+49457,An rotten fern.
+49458,An rotten fern.
+49459,An rotten fern.
+49460,For blocking the way.
+49461,For making war plans.
+49462,It's been broken.
+49463,It's not been lit for a long time.
+49471,For storing things.
+49472,For storing things.
+49473,For debug.

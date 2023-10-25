@@ -3732,11 +3732,17 @@
 6016,Don't prick yourself with this.
 6018,"They look sweet and juicy, but only a fool would eat them."
 6020,A pile of leaves.
+6021,null
 6022,A pile of Oak tree leaves.
+6023,null
 6024,A pile of Willow tree leaves.
+6025,null
 6026,A pile of Yew tree leaves.
+6027,null
 6028,A pile of Maple tree leaves.
+6029,null
 6030,A pile of Magic tree leaves.
+6031,null
 6032,"Good for plants, helps them grow."
 6034,Super-good for the smallest or largest of plants.
 6036,Use this on plants to cure disease.
@@ -7429,6 +7435,7 @@
 11521,Two doses of fishy Zamorak brew.
 11523,One dose of fishy Zamorak brew.
 11525,Doesn't look very useful.
+11628,"A bagged chicken ready to serve you, magnet in claw."
 11640,Educate yourself.
 11656,A book that explains the art of crafting items from glass.
 11663,A mage helm from the order of the Void Knights.
@@ -11818,8 +11825,10 @@
 24603,"2 doses of super restore potion, blighted so it can be used only in the Wilderness."
 24605,"1 dose of super restore potion, blighted so it can be used only in the Wilderness."
 24607,"Enough power for any Ice spell, blighted so it can be used only in the Wilderness."
-24609,"Enough power for a Bind, blighted so it can be used only in the Wilderness."
-24611,"Enough power for a Snare, blighted so it can be used only in the Wilderness."
+24609,null
+24610,null
+24611,null
+24612,null
 24613,"Enough power for an Entangle, blighted so it can be used only in the Wilderness."
 24615,"Enough power for a Teleblock or a Teleport to Target, blighted so it can be used only in the Wilderness."
 24617,Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds.
@@ -13067,7 +13076,7 @@
 26701,"Saika the puppet master's hood, but its broken."
 26702,"Saika the puppet master's veil, but its broken."
 26703,"Saika the puppet master's shroud, but its broken."
-26704,"Enough power for any Wave spell, blighted so it can be used only in the Wilderness."
+26704,null
 26705,"Enough power for any Surge spell, blighted so it can be used only in the Wilderness."
 26706,A magical scroll used to imbue a variety of items.
 26707,Use on some dragon claws to make them look fancier!
@@ -13318,6 +13327,7 @@
 27054,A platebody representing your group of five.
 27086,Supplies a selection of runes for spellcasting.
 27087,null
+27089,null
 27098,Use on an elder maul to make it look fancier!
 27100,A maul crafted from the component parts of Tekton and various decorative materials.
 27110,A pair of nice gloves with wristwraps to enhance their qualities.
@@ -13928,7 +13938,7 @@
 28171,You'll certainly be alright wearing these.
 28173,You'll certainly be alright wearing this.
 28175,You'll certainly be alright wearing these.
-28177,A bigger axe handle.
+28177,A large handle for turning an axe into a felling axe.
 28179,They're magicly expeditious.
 28181,I wonder how these can be used to attract a leprechaun?
 28183,A nutritional mulch made of different natural ingredients.
@@ -13936,17 +13946,19 @@
 28190,Carefully processed pollen that might make bees friendly.
 28192,"Strange pollen freshly obtained from a flowering bush, useful for cross-pollination."
 28193,I need to put this in a pottery oven.
-28196,A woodcutter's axe.
-28199,A woodcutter's axe.
-28202,A woodcutter's axe.
-28205,A woodcutter's axe.
-28208,A woodcutter's axe.
-28211,A woodcutter's axe.
-28214,A woodcutter's axe.
-28217,A woodcutter's axe.
-28220,A woodcutter's axe.
-28223,A woodcutter's axe.
-28226,"A beautifully crafted axe, shaped by ancient smiths."
+28196,A woodcutter's felling axe.
+28199,A woodcutter's felling axe.
+28202,A woodcutter's felling axe.
+28205,A sinister looking felling axe.
+28208,A powerful felling axe.
+28211,A powerful felling axe.
+28214,A powerful felling axe.
+28217,A very powerful felling axe.
+28220,A very powerful felling axe.
+28221,null
+28223,A very powerful felling axe.
+28224,null
+28226,"A beautifully crafted felling axe, shaped by ancient smiths."
 28229,Looks like it's gotten through a lot of wood.
 28230,Looks like it's gotten through a lot of wood.
 28231,Looks like it's gotten through a lot of wood.
@@ -14191,5 +14203,53 @@
 28559,A sword from a starter pack.
 28561,A magic rock! This one casts the Vengeance spell.
 28564,A magic rock! This one smells funny and lets you teleport.
-28567,A magic rock! This one gives you a random blighted weapon instead.
+28567,A magic rock! This one gives you a random corrupted weapon instead.
 28570,A magic rock! This one gives you random thralls.
+28573,Opens a chest in Golrie's caves (used in the Path of Glouphrie quest).
+28574,This opens the door into Golrie's strongroom (used in the Path of Glouphrie quest).
+28575,A seed to be sung into a magical crystal chime.
+28577,It makes a sound.
+28579,Notes written by Yewnock.
+28583,A magical warped weapon.
+28585,A magical warped weapon.
+28587,Give it a rub.
+28588,Give it a rub.
+28589,Give it a rub.
+28590,Give it a rub.
+28591,"An amalgamation of abyssal tissue, fluids and pure essence."
+28593,"An abyssal extract amplifying the creation of air, water, earth, fire, mind and body runes."
+28595,"An abyssal extract amplifying the creation of chaos, cosmic and combination runes."
+28597,"An abyssal extract amplifying the creation of nature, law, astral and death runes."
+28599,"An abyssal extract amplifying the creation of blood, soul and wrath runes."
+28601,This is made of the finest spidersilk.
+28603,Provider of mental cobwebs.
+28605,Provider of mental cobwebs.
+28607,Provider of mental cobwebs.
+28609,Provider of mental cobwebs.
+28611,Provider of mental cobwebs.
+28613,A pouch to keep your cape clean.
+28616,You'll look magni-pheasant wearing this!
+28618,You'll look magni-pheasant wearing these!
+28620,You'll look magni-pheasant wearing this!
+28622,You'll look magni-pheasant wearing these!
+28624,These would look great made into some clothing...
+28626,A wooden whistle that could attract a fox to follow you.
+28628,Used to provide additional planks at the sawmill.
+28630,These help you choose your nest rewards.
+28644,This fuel is used to create Smoker canisters that can pacify wild bees.
+28646,"If used correctly, smoker canisters can pacify wild bees."
+28648,A nutritional mulch made of different natural ingredients.
+28649,A nutritional mulch made of different natural ingredients.
+28650,A nutritional mulch made of different natural ingredients.
+28651,A small charm used to make Petal Circlet.
+28653,These can be used to attract a Dryad.
+28655,A gift from a Dryad.
+28657,This spoon has been padded with a tiny cushion to protect any eggs picked up with it.
+28659,"A tiny cushion, just about big enough for an egg."
+28661,A pheasant egg found in the forest.
+28663,This could attract a pheasant to follow you.
+28665,Used to safely disarm fox poacher traps.
+28667,A step-by-step guide to crafting a set of trap disarmers.
+28669,A brightly coloured game bird.
+28670,Foxy.
+28671,A very fancy cloak made from black silk and gossamer.

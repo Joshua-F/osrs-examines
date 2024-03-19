@@ -6212,19 +6212,14 @@
 6767,A mystic from a race created during the darker days of Kourend.
 6768,"Aww, cute."
 6769,An elegant tailor.
-6770,Knows a lot about rock.
 6771,"Takes care of the sandstone grinder, that thing must kick up a sandstorm when used."
-6772,Knows a lot about rock.
 6773,"Cheerful, helpful and optimistic, I'll bet."
 6774,"Cheerful, helpful and optimistic, I'll bet."
 6775,An expert on wine and viticulture.
 6776,One of Gielinor's many citizens.
 6777,A guardian of the arena.
 6779,A guardian of the arena.
-6780,Knows a lot about rock.
-6781,Knows a lot about rock.
 6784,I can see eels swimming in the lava.
-6785,Knows a lot about rock.
 6792,
 6793,Fat vermin from the underworld.
 6794,A bow wielding ninja monkey... what is he up to?
@@ -6347,10 +6342,7 @@
 6919,From a race created during the darker days of Kourend.
 6920,An elderly farmer.
 6921,Perhaps this gardener might look after your crops for you.
-6922,He mines the saltpetre.
-6923,She manages the stores.
-6924,It tills the soil.
-6925,The handle needs fixing.
+6922,He digs the saltpetre.
 6926,The boss.
 6927,Carries the food to the soldiers.
 6928,Carries the food to the soldiers.
@@ -6381,8 +6373,7 @@
 6954,Likes to keep the place looking good.
 6955,A holy man.
 6956,A holy man.
-6957,He manages the farmers tilling soil.
-6958,She looks rather busy.
+6957,Clearly a farmer.
 6959,Tilling the soil... by hand.
 6960,Tilling the soil... by hand.
 6961,Tilling the soil... by hand.
@@ -6504,11 +6495,6 @@
 7080,She looks after people's stuff.
 7081,He looks after people's stuff.
 7082,He looks after people's stuff.
-7083,Coordinates the manufacture of military equipment.
-7084,Coordinates the manufacture of military equipment.
-7085,Coordinates the manufacture of military equipment.
-7086,Coordinates the manufacture of military equipment.
-7087,Coordinates the manufacture of military equipment.
 7088,A merchant.
 7089,A retired charcoal burner.
 7090,A half-pint barman.
@@ -6614,16 +6600,19 @@
 7214,Apparently these monkeys can shed their tails to escape danger.
 7215,This monkey's tail has begun to grow back.
 7216,This monkey's tail has almost completely regrown.
-7217,She runs the railroad.
-7218,She runs the railroad.
-7219,She works on the railroad.
-7220,She works on the railroad.
-7221,She works on the railroad.
-7222,She works on the railroad.
-7223,He works on the railroad.
-7224,He works on the railroad.
-7225,He works on the railroad.
-7226,He works on the railroad.
+7219,I wonder if it sits.
+7220,For animation testing purposes.
+7221,You're never more than six feet away from one.
+7222,You're never more than six feet away from one.
+7223,Overgrown vermin.
+7224,
+7225,Overgrown vermin.
+7226,An expert in natural history.
+7227,She runs the railroad.
+7228,She works on the railroad.
+7229,She works on the railroad.
+7230,He works on the railroad.
+7231,He works on the railroad.
 7232,Tracking down clues all over the world.
 7233,An impling who is incredibly lucky.
 7234,He ent such a bad guy.
@@ -6846,7 +6835,7 @@
 7474,He's ready for anything.
 7475,A sad-looking child.
 7476,He makes it look so easy...
-7477,A knight from a far off kingdom.
+7477,A knight from a far-off kingdom.
 7478,He must like his wine.
 7479,Claims to be a butcher.
 7480,He's gone insane.
@@ -6961,8 +6950,9 @@
 7612,Library Staff
 7613,Library Staff
 7614,Library Staff
-7615,She works on the railroad.
-7616,She works on the railroad.
+7615,An expert in natural history.
+7616,I wonder if it sits.
+7619,She works on the railroad.
 7620,Looks like a big ugly dog.
 7621,"He looks real nasty, smells bad too."
 7622,"He looks real nasty, smells bad too."
@@ -7892,7 +7882,7 @@
 8709,A terrible creature manipulating the powers of the dark altar.
 8710,Seems more like a faeded beast than a shaeded beast..
 8711,"Manufacturer of fine leathers, in a dungeon..?"
-8712,A knight from a far off kingdom.
+8712,A knight from a far-off kingdom.
 8713,I'm going to need a really big newspaper...
 8714,Dedicated to protecting its mother.
 8715,Dedicated to protecting its mother.
@@ -10356,7 +10346,6 @@
 12102,The seller of tea in this fine oasis.
 12103,A knight of Saradomin.
 12104,A mage of Zamorak.
-12105,A wise explorer.
 12106,Only the true lord & king of the lands can lift his burden.
 12107,Can never possibly go hungry.
 12108,Can never possibly go hungry.
@@ -10795,6 +10784,170 @@
 12587,"It's really winging the whole dragon thing, isn't it?"
 12588,Don't forget to hydra-te.
 12589,A mighty protector.
+12590,A creature of nightmares.
+12591,An unfathomably huge sea creature.
 12592,A mysterious hooded figure coursing with power.
 12593,A disciple of the Sage sent to represent Leagues.
 12594,Those are some powerful claws.
+12597,A humble goose. Do geese like ice?
+12598,Quite the opposite of Santa.
+12599,"Son of Santa, mildly bored."
+12600,"A festive friend, looks like they need a drink."
+12601,Seems very judgemental.
+12602,Looks like a bouncer to some sort of club. Gives lots of warm hugs though.
+12603,He sells beers at The Nutcracker pub.
+12604,That's a lot of pale beers!
+12605,A humble goose.
+12606,An expert in natural history.
+12607,It's dripping with molten lava.
+12608,It's dripping with molten lava.
+12610,A wise explorer.
+12611,A wise explorer.
+12612,"He's seen better, happier days."
+12613,"He's seen better, happier days."
+12614,The infamous enemy of Varrock.
+12615,The infamous enemy of Varrock.
+12616,The infamous enemy of Varrock.
+12617,"Very ugly, but then he is a gargoyle."
+12618,An evil human cleric.
+12619,An evil human cleric.
+12620,Roald's advisor - he seems to be a follower of Saradomin.
+12621,Varrock's resident monarch.
+12622,One of the king's knights.
+12623,Peaceful man!
+12624,Queen Ellamaria of Varrock.
+12625,Queen Ellamaria of Varrock.
+12626,Reldo the librarian.
+12627,The head of the palace guard.
+12628,Perhaps this gardener might look after your crops for you.
+12629,A well dressed nobleman.
+12630,"With the prices he charges, no wonder he can afford to look so sharp."
+12631,"With the prices he charges, no wonder he can afford to look so sharp."
+12632,"Looks very stylish, but how can he sail in that gear?"
+12633,"Looks very stylish, but how can he sail in that gear?"
+12634,That suit looks a little briny around the edges.
+12635,That suit looks a little briny around the edges.
+12636,First storm he is in that hat will blow away.
+12637,First storm he is in that hat will blow away.
+12638,She'll never be able to climb rigging in that.
+12639,She'll never be able to climb rigging in that.
+12640,High heels on a ship? What is she thinking?
+12641,High heels on a ship? What is she thinking?
+12642,The effect is sort of spoiled by all those tattoos.
+12643,The effect is sort of spoiled by all those tattoos.
+12644,She looks excited.
+12645,She looks excited.
+12646,He looks confused.
+12647,He looks confused.
+12648,He's in charge of keeping order around here.
+12649,He's in charge of keeping order around here.
+12650,Heir to the throne of Varlamore.
+12651,Heir to the throne of Varlamore.
+12652,Leader of the Church of Ralos.
+12653,She looks important.
+12654,He looks important.
+12655,A knight from a far-off kingdom.
+12656,A knight from a far-off kingdom.
+12657,A knight from a far-off kingdom.
+12658,A knight from a far-off kingdom.
+12659,A knight from a far-off kingdom.
+12660,A knight from a far-off kingdom.
+12661,He looks a bit shifty.
+12662,He looks a bit shifty.
+12663,Often up to no good.
+12664,Often up to no good.
+12665,Often up to no good.
+12666,Often up to no good.
+12667,Often up to no good.
+12668,He tries to keep order around here. His bizarre uniform isn't helping.
+12669,He tries to keep order around here. His bizarre uniform isn't helping.
+12670,He tries to keep order around here. His bizarre uniform isn't helping.
+12671,She tries to keep order around here. Her bizarre uniform isn't helping.
+12672,She tries to keep order around here. Her bizarre uniform isn't helping.
+12673,She tries to keep order around here. Her bizarre uniform isn't helping.
+12674,He tries to keep order around here. His bizarre uniform isn't helping.
+12675,He tries to keep order around here. His bizarre uniform isn't helping.
+12676,He tries to keep order around here. His bizarre uniform isn't helping.
+12677,He tries to keep order around here. His bizarre uniform isn't helping.
+12678,He tries to keep order around here. His bizarre uniform isn't helping.
+12679,He tries to keep order around here. His bizarre uniform isn't helping.
+12680,He tries to keep order around here. His bizarre uniform isn't helping.
+12681,He tries to keep order around here. His bizarre uniform isn't helping.
+12682,He tries to keep order around here. His bizarre uniform isn't helping.
+12683,He tries to keep order around here. His bizarre uniform isn't helping.
+12684,He tries to keep order around here. His bizarre uniform isn't helping.
+12685,He tries to keep order around here. His bizarre uniform isn't helping.
+12686,He tries to keep order around here. His bizarre uniform isn't helping.
+12687,He tries to keep order around here. His bizarre uniform isn't helping.
+12688,He tries to keep order around here. His bizarre uniform isn't helping.
+12689,She tries to keep order around here. Her bizarre uniform isn't helping.
+12690,She tries to keep order around here. Her bizarre uniform isn't helping.
+12691,She tries to keep order around here. Her bizarre uniform isn't helping.
+12692,She tries to keep order around here. Her bizarre uniform isn't helping.
+12693,She tries to keep order around here. Her bizarre uniform isn't helping.
+12694,She tries to keep order around here. Her bizarre uniform isn't helping.
+12695,She tries to keep order around here. Her bizarre uniform isn't helping.
+12696,She tries to keep order around here. Her bizarre uniform isn't helping.
+12697,She tries to keep order around here. Her bizarre uniform isn't helping.
+12698,Varrock's resident monarch.
+12699,Roald's advisor - he seems to be a follower of Saradomin.
+12700,He looks happy.
+12701,Knows a lot about rock.
+12702,He works on the railroad.
+12703,She works on the railroad.
+12704,He works on the railroad.
+12705,He works on the railroad.
+12706,She works on the railroad.
+12707,She works on the railroad.
+12708,A dwarf of Lovakengj.
+12709,A dwarf of Lovakengj.
+12710,A dwarf of Lovakengj.
+12711,A dwarf of Lovakengj.
+12712,A dwarf of Lovakengj.
+12713,He tries to keep order around here. His bizarre uniform isn't helping.
+12714,He tries to keep order around here. His bizarre uniform isn't helping.
+12715,He tries to keep order around here. His bizarre uniform isn't helping.
+12716,She tries to keep order around here. Her bizarre uniform isn't helping.
+12717,She tries to keep order around here. Her bizarre uniform isn't helping.
+12718,She tries to keep order around here. Her bizarre uniform isn't helping.
+12719,He tries to keep order around here. His bizarre uniform isn't helping.
+12720,It hasn't quite got round to dying.
+12721,This is a rotten one.
+12722,This one sure looks grave.
+12723,This is a rotten one.
+12724,It hasn't quite got round to dying.
+12725,It hasn't quite got round to dying.
+12726,This is a rotten one.
+12727,This one sure looks grave.
+12728,This is a rotten one.
+12729,It hasn't quite got round to dying.
+12730,It hasn't quite got round to dying.
+12731,This is a rotten one.
+12732,This one sure looks grave.
+12733,This is a rotten one.
+12734,It hasn't quite got round to dying.
+12735,It hasn't quite got round to dying.
+12736,This is a rotten one.
+12737,This one sure looks grave.
+12738,This is a rotten one.
+12739,It hasn't quite got round to dying.
+12740,It hasn't quite got round to dying.
+12741,This is a rotten one.
+12742,This one sure looks grave.
+12743,This is a rotten one.
+12744,It hasn't quite got round to dying.
+12745,It hasn't quite got round to dying.
+12746,This is a rotten one.
+12747,This one sure looks grave.
+12748,This is a rotten one.
+12749,It hasn't quite got round to dying.
+12755,It hasn't quite got round to dying.
+12756,This is a rotten one.
+12757,This one sure looks grave.
+12758,This is a rotten one.
+12759,It hasn't quite got round to dying.
+12760,It hasn't quite got round to dying.
+12761,This is a rotten one.
+12762,This one sure looks grave.
+12763,This is a rotten one.
+12764,It hasn't quite got round to dying.

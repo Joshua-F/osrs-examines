@@ -8833,9 +8833,10 @@
 14196,An old-looking chest.
 14197,An old-looking chest.
 14198,There seem to be some levers here...
-14203,An unsculpted stone block.
-14204,An unsculpted stone block.
-14205,An unsculpted stone block.
+14203,It smells horrible in there.
+14204,It smells horrible in there.
+14205,I don't want to eat that...
+14206,I don't want to eat that...
 14209,Some herb seeds have been sown in this patch.
 14210,I can use ranged attacks over this wall.
 14211,That should keep the monsters at bay.
@@ -9319,7 +9320,7 @@
 14880,I wonder what's down there?
 14881,An unlit lantern.
 14883,Lit to remember the souls of the departed.
-14884,A Tree trunk.
+14884,An elegant tree.
 14885,An elegant tree.
 14886,An open bank chest.
 14887,Used for fashioning clay items.
@@ -15878,8 +15879,6 @@
 27118,I wonder what these are?
 27121,I can see fish swimming in the water.
 27122,
-27123,It looks grey and dead.
-27124,It's been reanimated.
 27199,Wooden stairs.
 27200,Wooden stairs.
 27201,Wooden stairs.
@@ -16075,7 +16074,7 @@
 27551,A good source of books!
 27552,A barrel of fresh fish.
 27553,An empty barrel.
-27554,It's an insulated chest full of ice.
+27554,For storing things.
 27555,It looks like the crane is in need of repair.
 27556,It's used for collecting fish from below the docks.
 27557,Damp castings left by sandworms.
@@ -16682,7 +16681,7 @@
 28553,Hopefully there's nothing confidential on these.
 28559,Lovakengj's finest armour.
 28560,Lovakengj's finest armour.
-28561,The armourer stores items here.
+28561,Contains a lot of drawers.
 28562,A terrifyingly hot furnace.
 28563,An immensely solid anvil.
 28564,Someone's mounted an anvil for display purposes.
@@ -25290,7 +25289,7 @@
 46992,"Danger, one way only...once you enter there's no going back!"
 46993,Little candles flickering.
 46994,Little candles flickering.
-46995,"From the crevice you can hear a feint whisper. It sounds like ""Vet'Ion""."
+46995,"From the crevice you can hear a faint whisper. It sounds like ""Vet'Ion""."
 46996,"It reads ""Calvar'Ion's resting place""."
 47000,A way out.
 47068,"This is jam, right?"
@@ -25496,6 +25495,7 @@
 47474,These smell nice.
 47479,What a mess!
 47480,What a mess!
+47481,The bees buzz happily.
 47482,A tangled mess of roots.
 47483,A large mess of tangled roots.
 47484,A sapling struggling for nutrients.
@@ -26497,10 +26497,10 @@
 49452,It probably wasn't used for anything nice.
 49453,It probably wasn't used for anything nice.
 49455,An empty pedestal.
-49456,An rotten fern.
-49457,An rotten fern.
-49458,An rotten fern.
-49459,An rotten fern.
+49456,A rotten fern.
+49457,A rotten fern.
+49458,A rotten fern.
+49459,A rotten fern.
 49460,For blocking the way.
 49461,For making war plans.
 49462,It's been broken.
@@ -26655,8 +26655,382 @@
 49930,A cosy campfire that emits sweet smelling smoke.
 49931,A cosy campfire that emits sweet smelling smoke.
 49932,A cosy campfire that emits sweet smelling smoke.
-49933,Buzzings sounds can be heard from it
+49933,Buzzing sounds can be heard from it
 49934,Colourful!
 49935,That's luck right there!
 49936,This nest looks like it belongs to a pheasant.
 49937,This pheasant nest has eggs in it.
+49938,The bees buzz happily.
+49939,The bees buzz happily.
+49940,The bees buzz happily.
+49941,The bees buzz happily.
+49942,The bees buzz happily.
+49943,A limestone pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49944,A limestone pedestal with an iron trophy from the Trailblazer Reloaded League.
+49945,A limestone pedestal with a steel trophy from the Trailblazer Reloaded League.
+49946,A limestone pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49947,A limestone pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49948,A limestone pedestal with a rune trophy from the Trailblazer Reloaded League.
+49949,A limestone pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49950,A marble pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49951,A marble pedestal with an iron trophy from the Trailblazer Reloaded League.
+49952,A marble pedestal with a steel trophy from the Trailblazer Reloaded League.
+49953,A marble pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49954,A marble pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49955,A marble pedestal with a rune trophy from the Trailblazer Reloaded League.
+49956,A marble pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49957,A limestone pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49958,A limestone pedestal with an iron trophy from the Trailblazer Reloaded League.
+49959,A limestone pedestal with a steel trophy from the Trailblazer Reloaded League.
+49960,A limestone pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49961,A limestone pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49962,A limestone pedestal with a rune trophy from the Trailblazer Reloaded League.
+49963,A limestone pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49964,A marble pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49965,A marble pedestal with an iron trophy from the Trailblazer Reloaded League.
+49966,A marble pedestal with a steel trophy from the Trailblazer Reloaded League.
+49967,A marble pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49968,A marble pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49969,A marble pedestal with a rune trophy from the Trailblazer Reloaded League.
+49970,A marble pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49971,A limestone pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49972,A limestone pedestal with an iron trophy from the Trailblazer Reloaded League.
+49973,A limestone pedestal with a steel trophy from the Trailblazer Reloaded League.
+49974,A limestone pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49975,A limestone pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49976,A limestone pedestal with a rune trophy from the Trailblazer Reloaded League.
+49977,A limestone pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49978,A marble pedestal with a bronze trophy from the Trailblazer Reloaded League.
+49979,A marble pedestal with an iron trophy from the Trailblazer Reloaded League.
+49980,A marble pedestal with a steel trophy from the Trailblazer Reloaded League.
+49981,A marble pedestal with a mithril trophy from the Trailblazer Reloaded League.
+49982,A marble pedestal with an adamant trophy from the Trailblazer Reloaded League.
+49983,A marble pedestal with a rune trophy from the Trailblazer Reloaded League.
+49984,A marble pedestal with a dragon trophy from the Trailblazer Reloaded League.
+49985,A stand displaying a banner from Leagues IV - Trailblazer Reloaded.
+49986,An ornate stand displaying a banner from Leagues IV - Trailblazer Reloaded.
+49987,An oak outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T1)
+49988,An oak outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T2)
+49989,An oak outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T3)
+49990,A mahogany outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T1)
+49991,A mahogany outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T2)
+49992,A mahogany outfit stand displaying a set of Trailblazer Reloaded Relic Hunter (T3)
+49993,An eternal flame of rejuvination.
+49994,A strange waystone.
+49995,A notice board detailing some information.
+49996,Hopefully this takes me somewhere useful.
+49997,Hopefully this takes me somewhere useful.
+49998,Hopefully this takes me somewhere useful.
+50000,The steps lead back out to the surface.
+50003,He hasn't eaten in a long time.
+50004,He looks very relaxed.
+50007,These roots are bursting through the ground.
+50008,Watch your step!
+50009,Twisting roots can trip the bravest of warriors.
+50019,Must have been laid by a huge bird.
+50029,A banner in celebration of the 11th year of OSRS.
+50030,A banner in celebration of the 11th year of OSRS.
+50034,It's thick with snow.
+50035,This tree has been cut down.
+50036,Why on earth is there a shark there?
+50042,Tastes like cool mint!
+50043,Tastes like cool mint!
+50044,Tastes like cool mint!
+50046,A snowman.
+50047,Cast your votes here.
+50048,The door is closed.
+50049,The door is open.
+50050,The door is closed.
+50051,Looks secure.
+50052,Looks secure.
+50053,Looks secure.
+50056,A wooden gate.
+50057,A wooden gate.
+50059,Full of leftover spooky items from Halloween.
+50060,Smells pretty bad!
+50061,The bank teller will serve you from here.
+50063,Handy for boarding boats.
+50064,Handy for boarding boats.
+50065,Handy for boarding boats.
+50066,Handy for boarding boats.
+50072,Allows access to level above.
+50073,I can climb down this.
+50074,Living in the big city isn't easy.
+50078,Collect old birthday rewards from here!
+50079,Collect old birthday rewards from here!
+50080,A comfortable seat.
+50081,This White Tree bears four fruits.
+50082,"Danger, Wilderness up ahead. Beware of stray magma."
+50083,"Danger, Wilderness up ahead. Beware of stray magma."
+50084,Some large rocks.
+50085,Some large rocks.
+50086,Some large rocks.
+50087,Some large rocks.
+50088,This tree has been cut down.
+50089,This tree has been cut down.
+50090,Found in wild areas.
+50091,Found in wild areas.
+50092,A commonly found bush.
+50093,A commonly found bush.
+50094,A leafy plant.
+50095,A leafy plant.
+50096,A dead bush.
+50097,A dead bush.
+50104,Shield your eyes!
+50105,Shield your eyes!
+50106,Shield your eyes!
+50107,Shield your eyes!
+50108,Shield your eyes!
+50109,Shield your eyes!
+50110,Shield your eyes!
+50111,Shield your eyes!
+50112,I don't think he'll be getting back up.
+50113,I don't think she'll be getting back up.
+50114,I don't think he'll be getting back up.
+50115,I don't think she'll be getting back up.
+50116,Varrock Census - Year 160.
+50117,"Previously, this was on Reldo's desk."
+50118,"Previously, these were on Reldo's desk."
+50122,Someone's made a mess of this one.
+50123,Someone's made a mess of this one.
+50124,It's been knocked off the wall.
+50125,It's been knocked off the wall.
+50126,The statue should be on there.
+50127,The statue should be on there.
+50131,Someone broke the glass. It was indeed an emergency.
+50132,It's been knocked over.
+50133,A chair that has been smashed.
+50134,A chair that has been smashed.
+50135,A chair that has been smashed.
+50136,What a mess!
+50137,What a mess!
+50138,It's been broken.
+50139,A very untidy workplace.
+50140,A closed trapdoor.
+50141,A closed trapdoor.
+50142,An open trapdoor.
+50143,The way out?
+50145,It seems to be hanging around.
+50146,It seems to be hanging around.
+50147,A rusty gate.
+50148,A rusty gate.
+50149,A rusty gate.
+50150,A rusty gate.
+50151,A solid steel door.
+50152,A solid steel door.
+50153,A solid steel door.
+50154,Somewhere to admire the view from.
+50155,Somewhere to admire the view from.
+50156,Somewhere to admire the view from.
+50157,Somewhere to admire the view from.
+50158,Somewhere to admire the view from.
+50159,Somewhere to admire the view from.
+50160,Somewhere to admire the view from.
+50161,Somewhere to admire the view from.
+50162,Somewhere to admire the view from.
+50169,A rusty gate.
+50173,A rusty gate.
+50201,It's totally blocked.
+50202,Some stone stairs leading back outside.
+50203,For pulling.
+50204,For pulling.
+50205,For pulling.
+50206,It's been pulled.
+50207,Looks suspicious.
+50208,Looks suspicious.
+50209,Looks suspicious.
+50210,Looks suspicious.
+50211,A large set of stone doors.
+50230,A mystically everlasting torch.
+50253,Some stone stairs.
+50254,Some stone stairs.
+50255,Efficiently looted of all contents.
+50256,Pointlessly vandalised after looting.
+50257,Pointlessly vandalised after looting.
+50260,A faint draught can be felt here.
+50261,A faint draught can be felt here.
+50266,Raised for display of long lost items.
+50267,"Abstract in nature or hieroglyphs, it's hard to tell."
+50268,"Abstract in nature or hieroglyphs, it's hard to tell."
+50269,"Abstract in nature or hieroglyphs, it's hard to tell."
+50270,"Abstract in nature or hieroglyphs, it's hard to tell."
+50271,A megalithic midsection.
+50272,A petrified prow.
+50273,A stony stern.
+50282,Labelled to be shipped to Ali Morrisane Commercial Enterprises.
+50289,It likely leads somewhere equally grim.
+50290,It likely leads somewhere equally grim.
+50291,It leads somewhere slightly more airy.
+50294,It wobbles very suspiciously.
+50295,It wobbles very suspiciously.
+50296,It wobbles very suspiciously.
+50297,It wobbles very suspiciously.
+50298,It's currently impassable.
+50299,It's currently impassable.
+50300,It's currently impassable.
+50301,It's currently impassable.
+50312,For putting bodies in.
+50313,For putting bodies in.
+50314,For putting bodies in.
+50315,For putting bodies in.
+50316,A gilded chair for important rumps.
+50317,Needs some DIY.
+50318,Prepared to an original recipe.
+50319,Once had wine in it.
+50320,Food for the soul.
+50321,Once had wheat in it.
+50322,For putting canopic jars on.
+50323,For putting canopic jars on.
+50324,For putting canopic jars on.
+50325,For putting canopic jars on.
+50326,Filled with canopic jars.
+50327,"A swanky, marble-topped table."
+50328,In poor shape.
+50329,"Poorly made, but passable."
+50330,A place for a statue.
+50331,"Well made, but improvable."
+50332,An excellently made statue.
+50333,The statue of an ancient desert god.
+50334,The statue of an ancient desert god.
+50335,The statue of an ancient desert god.
+50336,The statue of an ancient desert god.
+50337,The statue of an ancient desert god.
+50338,The statue of an ancient desert god.
+50339,The broken statue of an ancient desert god.
+50340,The broken statue of an ancient desert god.
+50341,The broken statue of an ancient desert god.
+50342,The broken statue of an ancient desert god.
+50343,The broken statue of an ancient desert god.
+50344,The broken statue of an ancient desert god.
+50345,The sun god in statue form.
+50346,Flaming through the application of magic.
+50347,This will require magical means to ignite it.
+50348,A looting opportunity.
+50349,A looting opportunity.
+50350,A looting opportunity.
+50351,A looting opportunity.
+50352,A looting opportunity.
+50353,A looting opportunity.
+50354,An unlit camp fire.
+50355,A stack of wooden barrels.
+50356,The workmanship is shockingly bad.
+50376,An old storage crate.
+50377,Someone has stacked these crates quite neatly.
+50378,A pair of stacked storage crates.
+50379,A dusty old storage crate.
+50392,A lot of smelly dung.
+50393,A lot of smelly dung.
+50394,A lot of smelly dung.
+50395,A lot of smelly dung.
+50396,A lot of smelly dung.
+50405,An old chair.
+50406,A table is lurking here.
+50407,I'd really hate to drink anything that had been in here.
+50408,A wooden crate.
+50409,Two large wooden crates stack on top of each other.
+50410,It would be darker here without these.
+50411,"A bunk bed, half-used."
+50412,"A bunk bed, well made."
+50413,A messy bunk bed.
+50414,An old chair.
+50415,A table.
+50416,I'd really hate to drink anything that had been in here.
+50417,I'd really hate to drink anything that had been in here.
+50418,A wooden crate.
+50419,Two large wooden crates stack on top of each other.
+50420,Some mucky sacks.
+50421,An ornamental torch.
+50422,An ornamental torch.
+50423,A large tapestry.
+50424,A large tapestry.
+50425,An imposing suit of armour.
+50426,A collection of skulls. How lovely.
+50495,"Apparently, comfort wasn't a design requirement."
+50498,"It has a strange, magical aspect to it."
+50499,A rack for storing weapons.
+50500,A table covered in weapons.
+50501,A rack for storing weapons.
+50502,A table covered in weapons.
+50503,"Some stairs, going up."
+50504,"Some stairs, going up."
+50505,"Some stairs, going down."
+50506,A good source of books!
+50507,A good source of books!
+50508,"Some stairs, going up."
+50509,Some wooden stairs.
+50510,A very solid door.
+50511,A very solid door.
+50512,A very solid door.
+50513,A secure-looking door.
+50514,A secure-looking door.
+50515,A secure-looking door.
+50516,A large tapestry.
+50517,"A massive, reinforced metal door."
+50518,"A massive, reinforced metal door."
+50519,"A massive, reinforced metal door."
+50520,"A massive, reinforced metal door."
+50521,"A human detection spell. It's good for detecting humans, oddly enough."
+50522,This looks a little tricky to pass.
+50523,This doesn't look very hygienic to be in a kitchen.
+50524,Did I really just crawl through that?
+50525,"A nasty, smelly sewer pipe."
+50526,Zemouregal needs a better plumber.
+50527,A solid steel door.
+50528,A solid steel door.
+50529,A solid steel door.
+50530,I wonder what's inside.
+50531,Perhaps I should search it.
+50532,A map of Gielinor and various other papers.
+50533,Could any of this stuff be useful?
+50534,Lots of things here. Someone should tidy up.
+50535,I found some decoder strips here.
+50536,Looks a bit tatty.
+50537,Looks a bit tatty.
+50538,A large pedestal.
+50539,A large pedestal.
+50540,A large pedestal.
+50541,Well that's what's producing all the electricity down here.
+50542,A long metal pipe.
+50543,A long metal pipe.
+50544,The staircase is carved into the rock.
+50562,A large set of shelves.
+50563,Ideal for cooking on.
+50564,Too dirty to sit on.
+50565,Reassuringly table-like.
+50566,A long metal pipe.
+50579,"A puddle, not to be confused with a poodle."
+50583,It looks like something is down there.
+50584,This cave seems to be blocked.
+50585,The easy way out...
+50586,A massive pile of rubble.
+50587,A massive pile of rubble.
+50588,A massive pile of rubble.
+50589,A massive pile of rubble.
+50590,A massive pile of rubble.
+50591,A massive pile of rubble.
+50592,A massive pile of rubble.
+50593,A massive pile of rubble.
+50594,A massive pile of rubble.
+50595,A massive pile of rubble.
+50596,A massive pile of rubble.
+50597,A massive pile of rubble.
+50598,A massive pile of rubble.
+50599,A massive pile of rubble.
+50600,A massive pile of rubble.
+50601,A massive pile of rubble.
+50602,A massive pile of rubble.
+50603,A massive pile of rubble.
+50604,A massive pile of rubble.
+50605,A massive pile of rubble.
+50642,A very old and dirty bed.
+50643,A small table.
+50644,An old chair.
+50645,Some mucky sacks.
+50646,I'd really hate to drink anything that had been in here.
+50647,I'd really hate to drink anything that had been in here.
+50648,A wooden crate.
+50649,Two small wooden crates stacked on top of each other.
+50650,Two large wooden crates stack on top of each other.
+50652,Jump here.
+50653,The door is open.
+50654,The door is closed.

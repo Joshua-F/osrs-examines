@@ -7234,7 +7234,7 @@
 11157,A lunar-styled lamp. I wonder what's inside?
 11158,Perfect for storing heavy things.
 11159,A box of Hunter goodies.
-11164,Complete Shield of Arrav.
+11164,null
 11165,Former property of the Phoenix Gang.
 11167,Former property of the Phoenix Gang.
 11169,A collection of written news on paper!
@@ -8858,6 +8858,7 @@
 13561,Supplies for the Shayzien soldiers.
 13562,Supplies for the Shayzien soldiers.
 13563,Shayzien supplies could be packed in here.
+13564,Shayzien supplies could be packed in here.
 13565,Supplies for the Shayzien soldiers.
 13566,Supplies for the Shayzien soldiers.
 13567,Supplies for the Shayzien soldiers.
@@ -8987,6 +8988,40 @@
 16892,A nice sturdy pike.
 16893,A nice sturdy pike.
 17152,It's dead. You should get rid of it.
+17868,null
+18459,Army issue all-purpose medical pack.
+18467,Used in the farming industry of Hosidius.
+18555,Supplies for the Shayzien soldiers.
+18556,Supplies for the Shayzien soldiers.
+18557,Supplies for the Shayzien soldiers.
+18558,Supplies for the Shayzien soldiers.
+18559,Supplies for the Shayzien soldiers.
+18560,Supplies for the Shayzien soldiers.
+18561,Supplies for the Shayzien soldiers.
+18562,Supplies for the Shayzien soldiers.
+18563,Supplies for the Shayzien soldiers.
+18564,Supplies for the Shayzien soldiers.
+18565,Supplies for the Shayzien soldiers.
+18566,Supplies for the Shayzien soldiers.
+18567,Supplies for the Shayzien soldiers.
+18568,Supplies for the Shayzien soldiers.
+18569,Supplies for the Shayzien soldiers.
+18570,Supplies for the Shayzien soldiers.
+18571,Supplies for the Shayzien soldiers.
+18572,Supplies for the Shayzien soldiers.
+18573,Supplies for the Shayzien soldiers.
+18574,Supplies for the Shayzien soldiers.
+18575,Supplies for the Shayzien soldiers.
+18576,Supplies for the Shayzien soldiers.
+18577,Supplies for the Shayzien soldiers.
+18578,Supplies for the Shayzien soldiers.
+18579,Supplies for the Shayzien soldiers.
+18580,Shayzien supplies could be packed in here.
+18581,Supplies for the Shayzien soldiers.
+18582,Supplies for the Shayzien soldiers.
+18583,Supplies for the Shayzien soldiers.
+18584,Supplies for the Shayzien soldiers.
+18585,Supplies for the Shayzien soldiers.
 19473,Contains gems - but which ones?
 19476,The cape worn by experienced adventurers.
 19478,A weapon forged from the wreckage of an airship.
@@ -10357,7 +10392,7 @@
 21754,Smash gargoyles from a distance.
 21756,"The Envoy to Varlamore, by Deryk Paulson."
 21758,The original Royal Accord of Twill.
-21759,I can use this to gain Hosidius Favour.
+21759,It's a certificate.
 21760,"The memoirs of a former ruler, written by his young heir."
 21762,A page torn from 'Kharedst's Memoirs'.
 21764,A page torn from 'Kharedst's Memoirs'.
@@ -10366,7 +10401,7 @@
 21770,A page torn from 'Kharedst's Memoirs'.
 21772,An old page that had been hidden within 'Kharedst's Memoirs'.
 21774,A letter from Councillor Hughes.
-21775,I can use this to gain Piscarilius Favour.
+21775,It's a certificate.
 21776,The cape worn by only the most experienced players.
 21778,The hood worn by only the most experienced players.
 21780,The cape worn by only the most experienced players.
@@ -10678,9 +10713,9 @@
 22358,A chocolate egg decorated in the colours of Guthix.
 22361,A chocolate egg decorated in the colours of Zamorak.
 22364,For seeing things that are there.
-22365,I can use this to gain Shayzien Favour.
+22365,It's a certificate.
 22366,It's a cyan crystal.
-22367,I can use this to gain Kourend favour.
+22367,It's a certificate.
 22368,"It's a slightly magical stick. All natural, of course."
 22370,"It's a slightly more magical stick. All natural, of course."
 22372,Ready to infuse a Battlestaff with the power of Nature.
@@ -10875,7 +10910,7 @@
 22754,A pot of crushed wyrm bones.
 22756,A pot of crushed drake bones.
 22758,A pot of crushed hydra bones.
-22760,I can use this to gain Lovakengj Favour.
+22760,It's a certificate.
 22761,Very good for hitting things!
 22762,An old generator crank found within The Forsaken Tower.
 22763,An 8-gallon jug designed to hold coolant.
@@ -10891,7 +10926,7 @@
 22773,An unidentified fluid. The vial has the number 5 labeled on it.
 22774,Some old notes.
 22775,A copy of an ancient letter.
-22777,I can use this to gain Arceuus favour.
+22777,It's a certificate.
 22778,Site of the darkest rites in Kourend's history.
 22779,null
 22780,I wonder how Wyrms have bones...
@@ -11010,7 +11045,7 @@
 23077,Yuck! I could get it stuffed!
 23079,I could mount this on my wall!
 23081,Mounted head of the Alchemical Hydra
-23082,I love rubbing things!
+23082,Good for rubbing.
 23083,Unlocks Konar's chest found atop Mount Karuulm.
 23091,Some ornate armoured gloves.
 23093,Some ornate armoured boots.
@@ -13940,10 +13975,14 @@
 28175,You'll certainly be alright wearing these.
 28177,A large handle for turning an axe into a felling axe.
 28179,They're magicly expeditious.
+28180,null
 28181,I wonder how these can be used to attract a leprechaun?
+28182,null
 28183,A nutritional mulch made of different natural ingredients.
 28184,A handy helper for spreading pollen.
+28185,null
 28190,Carefully processed pollen that might make bees friendly.
+28191,null
 28192,"Strange pollen freshly obtained from a flowering bush, useful for cross-pollination."
 28193,I need to put this in a pottery oven.
 28196,A woodcutter's felling axe.
@@ -14237,19 +14276,27 @@
 28628,Used to provide additional planks at the sawmill.
 28630,These help you choose your nest rewards.
 28644,This fuel is used to create Smoker canisters that can pacify wild bees.
+28645,null
 28646,"If used correctly, smoker canisters can pacify wild bees."
+28647,null
 28648,A nutritional mulch made of different natural ingredients.
 28649,A nutritional mulch made of different natural ingredients.
 28650,A nutritional mulch made of different natural ingredients.
 28651,A small charm used to make Petal Circlet.
+28652,null
 28653,These can be used to attract a Dryad.
+28654,null
 28655,A gift from a Dryad.
 28657,This spoon has been padded with a tiny cushion to protect any eggs picked up with it.
+28658,null
 28659,"A tiny cushion, just about big enough for an egg."
+28660,null
 28661,A pheasant egg found in the forest.
 28663,This could attract a pheasant to follow you.
 28665,Used to safely disarm fox poacher traps.
+28666,null
 28667,A step-by-step guide to crafting a set of trap disarmers.
+28668,null
 28669,A brightly coloured game bird.
 28670,Foxy.
 28671,A very fancy cloak made from black silk and gossamer.
@@ -14300,3 +14347,26 @@
 28777,"A set containing Trailblazer Reloaded boots (t1), Trailblazer Reloaded trousers (t1), Trailblazer Reloaded top (t1) and Trailblazer Reloaded hood (t1)."
 28780,"A set containing Trailblazer Reloaded boots (t2), Trailblazer Reloaded trousers (t2), Trailblazer Reloaded top (t2) and Trailblazer Reloaded hood (t2)."
 28783,"A set containing Trailblazer Reloaded boots (t3), Trailblazer Reloaded trousers (t3), Trailblazer Reloaded top (t3) and Trailblazer Reloaded hood (t3)."
+28786,The coolest jumper ever!
+28788,"Festive, functional, and fashionable!"
+28790,A teleport to Kourend Castle.
+28792,A spiky mace hardened with Scurrius' spine.
+28794,"A shortbow made out of yew and Scurrius' spine, but still effective."
+28796,It's a slightly magical stick intertwined with Scurrius' spine.
+28798,"This can be attached to a Battlestaff, Rune Mace or Yew Shortbow."
+28800,Wonder what happens if I rub it...
+28801,I wonder if it sits.
+28803,A key found while tracking zombies (Used in the Defender of Varrock quest).
+28804,An empty bottle.
+28805,A bottle of red mist.
+28806,A deposit of strange glowing ore that has been imbued with chaos magic.
+28807,The legendary Shield of Arrav.
+28808,This lists each of the founding elders of the Council of Avarrocka.
+28809,A wise explorer.
+28810,A rusty yet powerful axe.
+28813,An old rusty axe. It needs repairing before it can be used.
+28816,An old chipped stone tablet.
+28817,An old chipped granite tablet.
+28818,An old chipped slate tablet.
+28819,An old chipped shale tablet.
+28820,I wonder what happens if I rub it...

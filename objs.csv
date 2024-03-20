@@ -258,7 +258,7 @@
 426,Top half of a priest suit.
 428,Bottom half of a priest suit.
 430,Medical looking.
-431,A very strong spirit brewed in Karamja.
+431,A very strong spirit brewed on Karamja.
 432,A key to One-Eyed Hector's chest (Used in the Pirate's Treasure quest).
 433,Pirates don't have the best handwriting...
 434,Some hard dry clay.
@@ -1047,7 +1047,7 @@
 1733,Used with a thread to make clothes.
 1734,Used with a needle to make clothes.
 1735,For shearing sheep.
-1737,I think this came from a sheep.
+1737,Nice and fluffy.
 1739,I should take this to the tannery.
 1741,It's a piece of leather.
 1743,It's a piece of hard leather.
@@ -1058,7 +1058,7 @@
 1753,The scaly rough hide from a Green Dragon.
 1755,Good for detailed crafting.
 1757,A mostly clean apron.
-1759,Spun from sheeps' wool.
+1759,Spun from wool.
 1761,Clay soft enough to mould.
 1763,A little bottle of red dye.
 1765,A little bottle of yellow dye.
@@ -2004,7 +2004,7 @@
 3245,Not very fashion conscious.
 3247,Rogueish.
 3249,He tries to keep order.
-3251,A member of Ardougne's militia.
+3251,A knight in fancy armour.
 3253,Watches stuff...but who watches him?
 3255,A holy warrior.
 3257,Looks like a gnome to me.
@@ -11861,9 +11861,7 @@
 24605,"1 dose of super restore potion, blighted so it can be used only in the Wilderness."
 24607,"Enough power for any Ice spell, blighted so it can be used only in the Wilderness."
 24609,null
-24610,null
 24611,null
-24612,null
 24613,"Enough power for an Entangle, blighted so it can be used only in the Wilderness."
 24615,"Enough power for a Teleblock or a Teleport to Target, blighted so it can be used only in the Wilderness."
 24617,Blighted so it can fight only in the Wilderness and Bounty Hunter on Bounty Hunter worlds.
@@ -13362,7 +13360,6 @@
 27054,A platebody representing your group of five.
 27086,Supplies a selection of runes for spellcasting.
 27087,null
-27089,null
 27098,Use on an elder maul to make it look fancier!
 27100,A maul crafted from the component parts of Tekton and various decorative materials.
 27110,A pair of nice gloves with wristwraps to enhance their qualities.
@@ -14370,3 +14367,293 @@
 28818,An old chipped slate tablet.
 28819,An old chipped shale tablet.
 28820,I wonder what happens if I rub it...
+28821,Pockets full of gold.
+28822,A pouch full of coins taken from the pockets of an elf.
+28823,A slayer monster.
+28824,A teleport to Civitas illa Fortis.
+28826,A broken Quiver awarded to those who have proved their worth in the Colosseum.
+28828,A broken Quiver awarded to those who have proved their worth in the Colosseum. Blessed by Ralos.
+28830,The cape worn by only the most experienced players.
+28831,A little too small to stuff full of tar.
+28834,I thought this would be slimier.
+28837,"A dark, thick, foul-smelling, tar-like substance."
+28839,This should make me harder to spot in wooded areas.
+28842,These should make me harder to spot in wooded areas.
+28845,This should make me harder to spot in jungle areas.
+28848,These should make me harder to spot in jungle areas.
+28851,This should make me harder to spot in desert areas.
+28854,These should make me harder to spot in desert areas.
+28857,This should make me harder to spot in polar areas.
+28860,These should make me harder to spot in polar areas.
+28863,Even more volatile than its vegetarian counterpart.
+28864,Even more volatile than its vegetarian counterpart.
+28865,A scrappy fighter of the savannah
+28866,Even more volatile than its vegetarian counterpart.
+28867,Even more volatile than its vegetarian counterpart.
+28868,Even more volatile than its vegetarian counterpart.
+28869,A weapon made of horn and bone.
+28872,Bolts made from the antlers of a sunlight antelope.
+28878,Bolts made from the antlers of a moonlight antelope.
+28884,Antler of a sunlight antelope.
+28887,Antler of a moonlight antelope.
+28890,There's a sunlight moth in here.
+28893,There's a moonlight moth in here.
+28896,A strong spirit with a bold flavour.
+28899,Ew it's a pile of bones.
+28902,The cape worn by only the most experienced players.
+28904,The hood worn by only the most experienced players.
+28906,The cape worn by only the most experienced players.
+28907,I need to answer this correctly.
+28908,A clue!
+28909,A clue suggested by Hess!
+28910,A clue!
+28911,A clue suggestion by Kieren.
+28912,A clue!
+28913,A clue!
+28914,A clue suggested by Bigfoot!
+28915,A clue suggested by thetoddster!
+28916,I need to decipher this.
+28917,I need to solve this!
+28918,A clue!
+28919,A rebounding throwing weapon of devastating proportions.
+28922,A rebounding throwing weapon of devastating proportions.
+28924,Vaporised material from the sun.
+28929,A fire rune empowered by the sun.
+28931,It's still warm to the touch.
+28933,A helmet forged from sunfire.
+28936,A cuirass forged from sunfire.
+28939,Chausses forged from sunfire.
+28942,A crystal of rebounding potential.
+28945,"Thick, stony boots. There's a giant crystal in the middle of them."
+28947,A quiver awarded to those who have proved their worth in the Colosseum.
+28949,A quiver awarded to those who have proved their worth in the Colosseum.
+28951,A quiver awarded to those who have proved their worth in the Colosseum. Can be blessed at a Shrine of Ralos.
+28953,A quiver awarded to those who have proved their worth in the Colosseum. Can be blessed at a Shrine of Ralos.
+28955,A quiver awarded to those who have proved their worth in the Colosseum. It's been blessed by Ralos.
+28957,A quiver awarded to those who have proved their worth in the Colosseum. It's been blessed by Ralos.
+28958,I guess I should be flattered.
+28960,"Still somewhat imposing, I suppose."
+28962,Is this bird tailing me?
+28964,It seems to be inert...
+28965,It seems to be inert...
+28966,It rumbles near water...
+28967,It thrums when pressed against the walls...
+28968,Everything you might need to build a camp.
+28969,The tail from a moss lizard.
+28970,Flaked off but still shiny.
+28971,A giant obsidian monolith looming ominously at the center of the chamber.
+28972,An invitation to the Kingdom of Varlamore.
+28973,The crest of the Varlamorian Royal Family.
+28974,A letter about something called Twilight's Promise.
+28975,"Nice and tasty, for a quetzal at least."
+28976,Not as valuable as it looks.
+28977,A knight in fancy armour.
+28978,A smooth leaf.
+28979,A tacky leaf.
+28980,Leaves tied with a jerboa tail... It could work.
+28981,A chunk of fluff from Kiko's bed.
+28982,A close match to the fur sample.
+28983,I need to deliver this to the Hunter Guild.
+28984,A pot of crushed baby wyrm bones.
+28986,A love letter. It's awful.
+28987,An adorable plushy.
+28988,A magical staff of ancient origin...
+28991,Quite big for a dart.
+28997,A brutal pair.
+29000,A powerful thrown weapon forged from an eclipse.
+29004,The chestplate of the Eclipse Moon.
+29007,The tassets of the Eclipse Moon.
+29010,The helm of the Eclipse Moon.
+29013,The chestplate of the Blue Moon.
+29016,The tassets of the Blue Moon.
+29019,The helm of the Blue Moon.
+29022,The chestplate of the Blood Moon.
+29025,The tassets of the Blood Moon.
+29028,The helm of the Blood Moon.
+29031,The chestplate of the Eclipse Moon.
+29033,The tassets of the Eclipse Moon.
+29035,The helm of the Eclipse Moon.
+29037,The chestplate of the Blue Moon.
+29039,The tassets of the Blue Moon.
+29041,The helm of the Blue Moon.
+29043,The chestplate of the Blood Moon.
+29045,The tassets of the Blood Moon.
+29047,The helm of the Blood Moon.
+29049,The chestplate of the Eclipse Moon.
+29052,The tassets of the Eclipse Moon.
+29055,The helm of the Eclipse Moon.
+29058,The chestplate of the Blue Moon.
+29061,The tassets of the Blue Moon.
+29064,The helm of the Blue Moon.
+29067,The chestplate of the Blood Moon.
+29070,The tassets of the Blood Moon.
+29073,The helm of the Blood Moon.
+29076,Might taste better cooked.
+29077,"Mmm, this looks tasty."
+29078,Squirms and glitters.
+29079,"A gooey, sparkling, grub-based paste."
+29080,4 doses of a moonlight potion.
+29081,3 doses of a moonlight potion.
+29082,2 doses of a moonlight potion.
+29083,1 dose of a moonlight potion.
+29084,Are these explosive?
+29087,Brimming with unstable magic. It stings when it touches skin.
+29088,A deposit of calcified rock with bits of bone. It looks quite smashable.
+29090,A fossilised moth infused with dwarven magic.
+29098,Don't eat this.
+29101,Ouch!
+29104,Better cook this carefully.
+29107,I should probably cook this first.
+29110,I should probably cook this first.
+29113,I should probably cook this first.
+29116,I should probably cook this first.
+29119,I should probably cook this first.
+29122,I should probably cook this first.
+29125,I should probably cook this first.
+29128,"Mmm, this looks tasty."
+29131,"Mmm, this looks tasty."
+29134,I should eat this quickly.
+29137,"Mmm, this looks tasty."
+29140,"Mmm, this looks tasty."
+29143,"Mmm, this looks tasty."
+29146,"Mmm, this looks tasty."
+29149,"Mmm, this looks tasty."
+29152,"Mmm, this looks tasty."
+29155,"Oh dear, it's totally burnt!"
+29157,"Oh dear, it's totally burnt!"
+29159,"Oh dear, it's totally burnt!"
+29161,"Oh dear, it's totally burnt!"
+29163,This would make warm clothing.
+29166,The long tail of an embertailed jerboa.
+29168,I don't think I can stick it back on.
+29171,I don't think I can stick it back on.
+29174,I can make something out of this.
+29177,I can make something out of this.
+29180,There's a sapphire glacialis butterfly in here.
+29183,There's a snowy knight butterfly in here.
+29186,There's a ruby harvest butterfly in here.
+29189,There's a black warlock butterfly in here.
+29192,There's a sunlight moth in here.
+29195,There's a moonlight moth in here.
+29198,There's a sapphire glacialis butterfly in here.
+29201,There's a snowy knight butterfly in here.
+29204,There's a ruby harvest butterfly in here.
+29207,There's a black warlock butterfly in here.
+29210,There's a sunlight moth in here.
+29213,There's a moonlight moth in here.
+29216,Fresh from the stream.
+29217,Crispy.
+29218,This would make nice clothing.
+29221,A tuft of chinchompa fur.
+29222,Tailfeathers of a wagtail.
+29223,I'm not even sure which of them this came from.
+29224,The wingtip of a sapphire glacialis butterfly.
+29225,The oversized claw of a swamp lizard.
+29226,Do you think it heard me coming?
+29227,The wingtip of a snowy knight butterfly.
+29228,Does this make it a fully fledged fire tail?
+29229,I wouldn't want to get caught on that.
+29230,The wingtip of a black warlock butterfly.
+29231,The oversized claw of an orange salamander.
+29232,CHOMP.
+29233,"Oh, this is fantastic!"
+29234,The oversized claw of a red salamander.
+29235,A tuft of chinchompa fur... but red.
+29236,A shard of sunlit antelope hoof.
+29237,The wingtip of a sunlight moth.
+29238,The oversized claw of a tecu salamander.
+29239,Does this fur smell odd to you?
+29240,A stray wingtip from a moonlight moth.
+29241,A shard of darkened antelope hoof.
+29242,I wonder what might be caught in this.
+29244,I wonder what might be caught in this.
+29246,I wonder what might be caught in this.
+29248,I wonder what might be caught in this.
+29250,I wonder what might be caught in this.
+29251,A simple blueprint for a quetzal whistle.
+29253,An enhanced blueprint for a quetzal whistle.
+29256,A perfected blueprint for a quetzal whistle.
+29259,An enhanced blueprint for a quetzal whistle. It's been torn.
+29261,A perfected blueprint for a quetzal whistle. It's been torn.
+29263,The hat of the Hunters.
+29265,The top of the Hunters.
+29267,The legs of the Hunters.
+29269,The boots of the Hunters.
+29271,A simple quetzal whistle crafted from willow logs.
+29273,An enhanced quetzal whistle crafted from yew logs.
+29275,A perfected quetzal whistle crafted from redwood logs.
+29277,A glass of frothy ale.
+29280,Made from the hide of a few different creatures.
+29283,Made from the hide of a few different creatures.
+29286,Made from the hide of a few different creatures.
+29289,Made from the hide of a few different creatures.
+29292,I need this to make mixed hide armour.
+29295,A small pouch for carrying raw meat.
+29297,A large pouch for carrying raw meat.
+29299,A small pouch for carrying animal furs.
+29301,A medium-sized pouch for carrying animal furs.
+29303,A large pouch for carrying animal furs.
+29305,Throw it... Or don't.
+29307,A sack of quetzal feed.
+29309,Holds assorted hunting equipment.
+29311,I can make some spears with these.
+29317,This looks ready to fall apart.
+29319,It appears to be copied from a book.
+29321,Should I be reading this?
+29323,I can use this to open the Hunter Guild chest.
+29325,Spare keys to wealthy households in Civitas illa Fortis.
+29332,Some valuable bits and bobs from wealthy houses.
+29338,A statuette carved from the finest blessed bone.
+29340,A statuette carved from the finest blessed bone.
+29342,A statuette carved from the finest blessed bone.
+29344,Bones blessed at an exposed altar.
+29346,Bones blessed at an exposed altar.
+29348,Bones blessed at an exposed altar.
+29350,Bones blessed at an exposed altar.
+29352,Bones blessed at an exposed altar.
+29354,Bones blessed at an exposed altar.
+29356,Bones blessed at an exposed altar.
+29358,Bones blessed at an exposed altar.
+29360,Bones blessed at an exposed altar.
+29362,Bones blessed at an exposed altar.
+29364,Bones blessed at an exposed altar.
+29366,Bones blessed at an exposed altar.
+29368,Bones blessed at an exposed altar.
+29370,Bones blessed at an exposed altar.
+29372,Bones blessed at an exposed altar.
+29374,Bones blessed at an exposed altar.
+29376,Bones blessed at an exposed altar.
+29378,These bones have been left out a little too long.
+29381,Blessed bones that have been broken down into smaller pieces.
+29382,A jug of sunfire wine. Not for drinking.
+29384,A jug of sunfire wine that's been blessed by Ralos. Not for drinking.
+29386,A jug of wine that's been blessed by Ralos.
+29388,A small token.
+29389,A small token.
+29390,A small token.
+29391,A small token.
+29392,A small token.
+29393,A small token.
+29394,A small token.
+29395,A small token.
+29396,A small token.
+29397,A small token.
+29398,A small token.
+29399,A small token.
+29400,A small token.
+29401,A small token.
+29402,A small token.
+29403,A small token.
+29404,A small token.
+29405,A small token.
+29406,A small token.
+29407,A small token.
+29408,"Wow, this is a really nice key."
+29409,Just the thing you need for a day in the sun.
+29412,A dwarven delight from Cam Torum.
+29415,The finest Aldarin Red available.
+29418,A popular spirit all across Varlamore.
+29421,A highly desirable liquor.
+29424,"A set containing a Sunfire Fanatic Helm, Sunfire Fanatic Platebody and Sunfire Fanatic Platelegs."
+29427,Some notes written by an unknown herbalist.
+29428,Some notes written by an unknown chef.

@@ -388,11 +388,8 @@
 398,He tries to keep order around here.
 399,He tries to keep order around here.
 400,He tries to keep order around here.
-401,He looks dangerous!
-402,He looks dangerous!
 403,He looks dangerous!
 404,She looks dangerous!
-405,He looks dangerous!
 406,A spiky crawling critter.
 407,A spiky crawling critter.
 408,A spiky crawling critter.
@@ -1337,7 +1334,7 @@
 1419,A raccoon.
 1420,A raccoon.
 1421,A raccoon.
-1422,An ancient looking gnome.
+1422,An ancient-looking gnome.
 1424,A rough looking gnome.
 1425,A rough looking gnome.
 1428,"Poor guy, he looks frightened."
@@ -2296,8 +2293,6 @@
 2454,Animated mithril armour.
 2455,Animated adamant armour.
 2456,Animated rune armour.
-2457,"A powerful warrior, guarding the warriors guild."
-2458,Guild Master.
 2459,The guild engineer.
 2460,Used to be a black knight.
 2461,"Blademistress, skillful female warrior."
@@ -2312,7 +2307,6 @@
 2470,Potion shopkeeper.
 2471,Armour shopkeeper.
 2472,Bank staff.
-2473,He looks like a strong warrior.
 2474,Big... Cow-like... But cows don't have serpent tails!
 2475,Big... Cow-like... But cows don't have serpent tails!
 2476,Big... Cow-like... But cows don't have serpent tails!
@@ -2477,7 +2471,7 @@
 2636,The Jagex cat.
 2637,"An awe inspiring combination of a lady, a lion and an eagle."
 2638,A graceful feline.
-2639,A battle hardened hero.
+2639,A battle-hardened hero.
 2640,Robert's beautiful panther.
 2641,An ancient evil.
 2642,"One of the biggest, meanest dragons around."
@@ -3011,7 +3005,7 @@
 3202,Smells strangely of cabbage.
 3203,Is he invisible or just a set of floating clothing?
 3204,Looks strange and mysterious.
-3205,Appears slightly drunk.
+3205,"The leader of the Dagon'hai, also known as the Dark Squall."
 3207,Seems very well off.
 3208,So where are the butcher and the candlestick maker?
 3209,Has a very exotic aroma about him.
@@ -3235,10 +3229,8 @@
 3440,Mysterious swamp lights...
 3441,Mysterious swamp lights...
 3442,A colourful character.
-3443,He walks with a slight limp.
-3444,He walks with a slight limp.
-3445,A guard who has devoted their life to Armadyl.
-3446,A guard who has devoted their life to Armadyl.
+3445,A warrior who has devoted their life to Armadyl.
+3446,A warrior who has devoted their life to Armadyl.
 3447,A witch.
 3448,Intimidating!
 3449,Looks hungry!
@@ -5099,6 +5091,8 @@
 5431,A frog.
 5432,A frog.
 5433,A well dressed nobleman.
+5434,A shimmering creature of blue light.
+5435,A shimmering creature of blue light.
 5436,The brother of Miles and Giles.
 5437,The brother of Niles and Giles.
 5438,The brother of Niles and Miles.
@@ -5434,7 +5428,6 @@
 5780,"I will call him, Mini Mole."
 5781,Mooooooooooooole.
 5782,"Moley, moley, moley!"
-5783,A shimmering creature of blue light.
 5784,That one is carrying someone!
 5785,An ancient giant serpent.
 5786,He looks like he's seen the inside of a few tombs.
@@ -7346,7 +7339,7 @@
 8054,Distinctly heroic.
 8055,"Formerly Robert the Strong, now a cat."
 8056,What in the world is that?
-8057,A battle hardened hero.
+8057,A battle-hardened hero.
 8058,Let sleeping dragons lie.
 8059,Let sleeping dragons lie.
 8060,This won't be fun.
@@ -7411,12 +7404,12 @@
 8121,She looks dangerous.
 8122,A forgotten hero.
 8123,An ancient warrior.
-8124,A battle hardened hero.
+8124,A battle-hardened hero.
 8125,An ancient evil.
 8126,She looks dangerous.
 8127,A forgotten hero.
 8128,An ancient warrior.
-8129,A battle hardened hero.
+8129,A battle-hardened hero.
 8130,Robert's beautiful panther.
 8131,A Fremennik sailor.
 8132,A roving banker.
@@ -11548,20 +11541,58 @@
 13426,Back to his usual self.
 13427,A fiery looking lizard.
 13428,A fiery looking lizard.
-13429,He wants everyone to feel comfortable showing their own colours. Just like a rainbow!
-13430,He wants everyone to feel comfortable showing their own colours. Just like a rainbow!
-13431,A young man on a long journey.
-13432,A young man on a long journey.
-13433,A young man on a long journey.
-13434,"A young man, looking sharp."
-13435,A young man going for his dream.
-13436,A young man in need of direction.
-13437,A young man ready to take on the world.
-13438,A young white knight ready to take on the world.
+13429,That one is carrying someone!
+13430,The guildmaster of the Warriors' Guild.
+13431,The guildmaster of the Warriors' Guild.
+13432,The guildmaster of the Warriors' Guild.
+13433,He looks dangerous!
+13434,He looks dangerous!
+13435,A brave adventurer.
+13436,A brave adventurer.
+13437,A powerful warrior from the Warriors' Guild.
+13438,He looks dangerous!
+13439,He looks dangerous!
+13440,He looks dangerous!
+13441,He looks dangerous!
+13442,A young white knight ready to take on the world.
 13443,Looking regal!
 13444,What a nice dress!
 13445,What a handsome man!
 13446,What a nice dress!
+13447,He looks like a strong warrior.
+13448,An ancient-looking gnome.
+13449,An ancient-looking gnome.
+13450,An ancient-looking gnome.
+13451,An ancient-looking gnome.
+13452,It's the only thing left!
+13453,Could do with gaining a few pounds.
+13454,Could do with gaining a few pounds.
+13455,Could do with gaining a few pounds.
+13456,Could do with gaining a few pounds.
+13457,Could do with gaining a few pounds.
+13458,Could do with gaining a few pounds.
+13459,Could do with gaining a few pounds.
+13460,Could do with gaining a few pounds.
+13461,Could do with gaining a few pounds.
+13462,Could do with gaining a few pounds.
+13463,A Black Knight with lots of combat experience.
+13464,A Black Knight with lots of combat experience.
+13465,An elite dark warrior with lots of combat experience.
+13466,An elite dark warrior with lots of combat experience.
+13467,An elite dark ranger with lots of combat experience.
+13468,An elite dark ranger with lots of combat experience.
+13469,An elite dark mage with lots of combat experience.
+13470,An elite dark mage with lots of combat experience.
+13471,One of Lucien's finest undead mages.
+13476,It's got a bone to pick with you.
+13477,It's got a bone to pick with you.
+13478,It's got a bone to pick with you.
+13479,It's got a bone to pick with you.
+13480,A Black Knight with lots of combat experience.
+13481,A Black Knight with lots of combat experience.
+13482,"The leader of the Dagon'hai, also known as the Dark Squall."
+13483,An elite dark warrior with incredible agility.
+13484,An elite dark warrior with incredible strength.
 13485,It's looking straight at you.
 13486,It's looking straight at you.
 13487,It's looking straight at you.
@@ -11582,3 +11613,121 @@
 13502,A very large foe.
 13503,A very large foe.
 13504,A very large foe.
+13505,A powerful earth missile.
+13506,A powerful water missile.
+13507,A powerful fire missile.
+13508,A powerful wind missile.
+13509,A warrior who has devoted their life to Armadyl.
+13510,"An impressive, statuesque druidess. She must be of high status."
+13511,An experienced and high-ranking druid.
+13512,An experienced and high-ranking druid.
+13513,An experienced and high-ranking druid.
+13514,"An assassin, failing to be disguised as a druid."
+13515,"An assassin, failing to be disguised as a druid."
+13516,He's carefully folding clothes.
+13517,A broav with a bad temper.
+13518,A Mort Myre mushroom-muncher.
+13519,"A mysterious, sharply-dressed man."
+13520,"A mysterious, sharply-dressed man."
+13521,The armour adds to his stealthiness.
+13524,It looks like he wasn't quite stealthy enough.
+13525,A Mahjarrat of incomprehensible power.
+13526,A Mahjarrat of incomprehensible power.
+13527,A Mahjarrat of incomprehensible power.
+13528,Elementally balanced.
+13529,Elementally balanced.
+13530,Elementally balanced.
+13531,"A well-trained Khazard warrior, on orders to guard this area."
+13532,"A well-trained Khazard warrior, on orders to guard this area."
+13533,"A well-trained Khazard warrior, on orders to guard this area."
+13534,"A well-trained Khazard warrior, on orders to guard this area."
+13535,An axe-wielding mercenary who works for the highest bidder.
+13536,An axe-wielding mercenary who works for the highest bidder.
+13537,A spellcasting mercenary who works for the highest bidder.
+13538,A warrior who has devoted their life to Armadyl.
+13539,A warrior who has devoted their life to Armadyl.
+13540,The wise leader of the Guardians of Armadyl.
+13541,The wise leader of the Guardians of Armadyl.
+13542,The wise leader of the Guardians of Armadyl.
+13543,A priest of Saradomin and member of the Temple Knights.
+13544,A priest of Saradomin and member of the Temple Knights.
+13545,He seems to be trying to watch everyone at once.
+13546,Right where he belongs.
+13547,Right where he belongs.
+13548,"The leader of the Dagon'hai, also known as the Dark Squall."
+13549,"The leader of the Dagon'hai, also known as the Dark Squall."
+13550,"The leader of the Dagon'hai, also known as the Dark Squall."
+13551,"The leader of the Dagon'hai, also known as the Dark Squall."
+13552,A lover of nature.
+13553,"A lover of nature, down on his luck."
+13554,A lover of nature.
+13555,"He's subtle, but he still looks a bit suspicious."
+13556,A powerful warrior from the Warriors' Guild.
+13557,The guildmaster of the Warriors' Guild.
+13558,He looks like a strong warrior.
+13559,A brave adventurer.
+13560,He looks dangerous!
+13561,He looks dangerous!
+13562,He looks dangerous!
+13563,An ancient-looking gnome.
+13564,An ancient-looking gnome.
+13565,A mage of incredible power.
+13566,A Black Knight with lots of combat experience.
+13567,"He knows a thousand arcane secrets, every one of which would drive you mad."
+13568,"He knows a thousand arcane secrets, every one of which would drive you mad."
+13569,"He knows a thousand arcane secrets, every one of which would drive you mad."
+13570,He's here to guard the wizard.
+13571,He's here to guard the wizard.
+13572,A goblin with big bulging eyes.
+13574,A goblin with big bulging eyes.
+13575,The spirit of a long-dead druid of Guthix.
+13576,The spirit of a long-dead druid of Guthix.
+13577,A warrior who has devoted their life to Armadyl.
+13578,A warrior who has devoted their life to Armadyl.
+13579,A warrior who has devoted their life to Armadyl.
+13580,A warrior who has devoted their life to Armadyl.
+13581,The wise leader of the Guardians of Armadyl.
+13582,The wise leader of the Guardians of Armadyl.
+13583,You won't like him when he's angry.
+13584,You won't like him when he's angry.
+13585,You won't like him when he's angry.
+13586,What's this for?
+13587,What's this for?
+13588,What's this for?
+13589,What's this for?
+13590,What's this for?
+13591,What's this for?
+13592,What's this for?
+13593,An ancient human.
+13594,A battle-hardened hero.
+13595,A battle-hardened hero.
+13596,An ancient warrior.
+13597,A forgotten hero.
+13598,She looks dangerous.
+13599,Lucien must be incredibly powerful if he can bind such demons to his will.
+13600,Lucien must be incredibly powerful if he can bind such demons to his will.
+13601,Lucien must be incredibly powerful if he can bind such demons to his will.
+13602,Lucien must be incredibly powerful if he can bind such demons to his will.
+13603,Lucien must be incredibly powerful if he can bind such demons to his will.
+13604,Lucien must be incredibly powerful if he can bind such demons to his will.
+13605,Lucien must be incredibly powerful if he can bind such demons to his will.
+13606,Lucien must be incredibly powerful if he can bind such demons to his will.
+13607,He walks with a slight limp.
+13608,He walks with a slight limp.
+13609,He walks with a slight limp.
+13611,For debug.
+13612,For debug.
+13613,"A powerful warrior, guarding the Warriors' Guild."
+13614,The small but tough doorman of the Warriors' Guild.
+13615,The guildmaster of the Warriors' Guild.
+13616,He looks like a strong warrior.
+13617,He looks like a strong warrior.
+13618,He looks dangerous!
+13619,She looks dangerous!
+13620,He looks dangerous!
+13621,He looks dangerous!
+13622,He looks dangerous!
+13623,She looks dangerous!
+13624,A popular dwarven delicacy.
+13645,He walks with a slight limp.
+13655,Appears slightly drunk.

@@ -48,7 +48,7 @@
 48,A wooden gate.
 49,A wooden gate.
 50,A wooden gate.
-51,Hmmm... I wonder if it's loose enough to get through.
+51,Hmm... I wonder if it's loose enough to get through.
 52,It's locked.
 53,It's locked.
 54,It's a flight of stairs.
@@ -6786,7 +6786,7 @@
 10809,A bin full of paper.
 10810,Sandy's notice board is covered in notes.
 10811,Sandy's notice board is covered in notes.
-10813,Betty's counter. There is a vial standing on it.
+10813,There is a vial on it.
 10814,It's very sandy.
 10815,Sandy's Sand Corp.
 10817,Can be used to repair certain untradeable gear.
@@ -27894,10 +27894,400 @@
 53259,You can crawl through here without difficulty.
 53260,A handy bank chest.
 53263,A mystical barrier.
-53264,I wonder what's inside.
-53266,I wonder what's inside.
-53268,Some of Kit's personal belongings.
-53270,Some of kit's favourite books.
-53272,I guess you could call this 'Kit's kit'.
-53274,To Kit.
-53275,To Kit.
+53265,A map stuck up on the wall.
+53266,A map with tactical information.
+53267,A detailed plan of attack.
+53268,"A sturdy-looking, round table."
+53269,Something has fallen into this trap.
+53273,A suitable place for a pit trap.
+53274,A pit trap that has been set.
+53275,A pit trap that has been set and baited.
+53276,It's on its last legs.
+53277,It's on its last legs.
+53278,A trapdoor hidden by a table.
+53279,It leads to an underground tunnel.
+53280,A table that was hiding a trapdoor.
+53281,A cell gate.
+53282,A cell gate.
+53283,A wanted poster.
+53284,A wanted poster asking for information on the individual known as the Dark Squall.
+53285,Betty's counter.
+53286,There is a snapdragon seed on it.
+53287,There is an enriched snapdragon seed on it.
+53288,A snow-covered ledge.
+53289,The ledge of a roof.
+53290,A specially prepared patch.
+53291,Some herbs are growing here.
+53292,Some fully grown herbs.
+53293,Looks like he's been dead a while now.
+53294,I'm sure he died of natural causes...
+53296,A statue of an ancient hero.
+53297,"In honour of the hero, Hazelmere, who died facing the Mahjarrat known as Lucien."
+53298,"In honour of the hero, Turael, who died facing the Mahjarrat known as Lucien."
+53299,"In honour of the hero, Duradel, who died facing the Mahjarrat known as Lucien."
+53300,"In honour of the hero, Sloane, who died facing the Mahjarrat known as Lucien."
+53301,"In honour of the hero, Ghommal, who died facing the Mahjarrat known as Lucien."
+53302,"In honour of the hero, Cyrisus, who died facing the Mahjarrat known as Lucien."
+53303,There's a rope attached here.
+53304,Rock on.
+53305,It goes a long way down.
+53306,Some closed drawers.
+53307,Some open drawers.
+53308,A limestone floor growth.
+53309,A tooth-shaped rock formation protruding from the floor.
+53310,"A simple, but decorative, rug."
+53311,"A simple, but decorative, rug."
+53312,"A simple, but decorative, rug."
+53313,A large double door.
+53314,A large double door.
+53315,A large double door.
+53316,A large double door.
+53317,A large double door.
+53318,A large double door.
+53319,I can climb up this.
+53320,I can climb down this.
+53321,The door is open.
+53322,The door is closed.
+53343,Some mystical rock...
+53346,The devastation of Lucien.
+53347,I can climb this.
+53348,I can climb down this.
+53349,A decorated tile.
+53350,Where could it lead?
+53358,Allows access to the level above.
+53359,A homemade desk.
+53360,A homemade desk.
+53361,It might be worth a look inside.
+53362,It might be worth searching through.
+53363,A place to put your keys.
+53364,A place to put your keys.
+53365,It looks to be quite tough.
+53366,It looks to be quite tough.
+53367,A crude table.
+53368,A crude table.
+53369,A crude table.
+53370,I can climb up this.
+53371,I can climb down this.
+53372,It might be worth a look inside.
+53373,It might be worth searching through.
+53374,It might be worth searching through.
+53441,The metal bars look strong.
+53442,The metal bars look strong.
+53443,The metal bars look strong.
+53444,The metal bars look strong.
+53445,The metal bars look strong.
+53446,The metal bars look strong.
+53476,A rockslide.
+53477,A rockslide.
+53478,It looks to be quite tough.
+53479,It looks to be quite tough.
+53484,A wooden crate.
+53485,A wooden crate.
+53486,A wooden crate.
+53487,I'd really hate to drink anything that had been in here.
+53488,I'd really hate to drink anything that had been in here.
+53489,"Only for pleasant purposes, I'm sure."
+53490,"Only for pleasant purposes, I'm sure."
+53501,A crude table.
+53502,A crude table.
+53503,A crude table.
+53504,A crude table.
+53505,A crude table.
+53506,An assortment of maps.
+53511,Useful for passing over otherwise inaccessible areas.
+53512,Useful for passing over otherwise inaccessible areas.
+53513,I could scale this wall with a bit of effort.
+53514,It looks a bit steep!
+53525,Used to impede the movement of attacking forces.
+53526,Used to impede the movement of attacking forces.
+53527,Used to impede the movement of attacking forces.
+53528,Used to impede the movement of attacking forces.
+53529,Used to impede the movement of attacking forces.
+53530,Used to impede the movement of attacking forces.
+53531,Used to impede the movement of attacking forces.
+53582,A wooden crate.
+53583,A wooden crate.
+53584,Filled with all sorts of old stuff.
+53585,A wooden barrel.
+53586,A rotten barrel.
+53607,I might be able to climb up it.
+53608,I can climb down here.
+53609,"An empty recess in the wall, next to an etching of a fire symbol."
+53610,"An empty recess in the wall, next to an etching of an earth symbol."
+53611,"An empty recess in the wall, next to an etching of an air symbol."
+53612,"An empty recess in the wall, next to an etching of a fire symbol."
+53613,"An empty recess in the wall, next to an etching of an earth symbol."
+53614,"An empty recess in the wall, next to an etching of an air symbol."
+53615,"A square block is recessed into the wall, next to an etching of a fire symbol."
+53616,"A square block is recessed into the wall, next to an etching of an earth symbol."
+53617,"A square block is recessed into the wall, next to an etching of an air symbol."
+53618,A square block is recessed into a hole above a water symbol. There's a second empty recess above a fire symbol.
+53619,A square block is recessed into a hole above a fire symbol. There's a second empty recess above a water symbol.
+53620,Two empty recesses sit above fire and water symbols.
+53621,Two square blocks are recessed into holes above fire and water symbols.
+53622,A sinister opening.
+53623,I can climb up here.
+53624,I can climb up here.
+53625,An earth symbol is etched into this strange mechanism.
+53626,A square block has been placed into this strange mechanism.
+53627,A water symbol is etched into this strange mechanism.
+53628,A square block has been placed into this strange mechanism.
+53629,An air symbol is etched into this strange mechanism.
+53630,A square block has been placed into this strange mechanism.
+53631,There's a crawl space through this hole.
+53632,There's a crawl space through this hole.
+53633,There's a crawl space through this hole.
+53637,The way out of here.
+53638,It's totally blocked.
+53639,A statue once stood here.
+53640,This statue appears to depict agility.
+53641,This statue appears to depict agility.
+53642,This statue appears to depict balance.
+53643,This statue appears to depict balance.
+53644,This statue appears to depict energy.
+53645,This statue appears to depict energy.
+53646,This statue appears to depict restoration.
+53647,This statue appears to depict restoration.
+53648,This statue appears to depict attacking.
+53649,This statue appears to depict attacking.
+53650,This statue appears to depict strength.
+53651,This statue appears to depict strength.
+53652,This statue appears to depict defence.
+53653,This statue appears to depict defence.
+53654,This statue appears to depict combat.
+53655,This statue appears to depict combat.
+53656,This statue appears to depict ranging.
+53657,This statue appears to depict ranging.
+53658,This statue appears to depict prayer.
+53659,This statue appears to depict prayer.
+53660,This statue appears to depict hunting.
+53661,This statue appears to depict hunting.
+53662,This statue appears to depict fishing.
+53663,This statue appears to depict fishing.
+53664,This statue appears to depict magic.
+53665,This statue appears to depict magic.
+53666,A large table made of stone.
+53667,A large table made of stone.
+53668,A large table made of stone.
+53669,A large table made of stone.
+53670,A large table made of stone.
+53671,A large table made of stone.
+53672,A large table made of stone.
+53673,A large table made of stone.
+53674,A large table made of stone.
+53675,A large table made of stone.
+53676,It's a bit steep!
+53677,There are elemental symbols engraved upon the cube's faces.
+53678,There are elemental symbols engraved upon the cube's faces.
+53679,There are elemental symbols engraved upon the cube's faces.
+53680,There are elemental symbols engraved upon the cube's faces.
+53681,There are elemental symbols engraved upon the cube's faces.
+53682,There are elemental symbols engraved upon the cube's faces.
+53683,There are elemental symbols engraved upon the cube's faces.
+53684,There are elemental symbols engraved upon the cube's faces.
+53685,There are elemental symbols engraved upon the cube's faces.
+53686,There are elemental symbols engraved upon the cube's faces.
+53687,There are elemental symbols engraved upon the cube's faces.
+53688,There are elemental symbols engraved upon the cube's faces.
+53689,There are elemental symbols engraved upon the cube's faces.
+53690,There are elemental symbols engraved upon the cube's faces.
+53691,There are elemental symbols engraved upon the cube's faces.
+53692,There are elemental symbols engraved upon the cube's faces.
+53693,There are elemental symbols engraved upon the cube's faces.
+53694,A very big door with a depiction of Guthix on it.
+53695,A very big door with a depiction of Guthix on it.
+53696,A very big door with a depiction of Guthix on it.
+53697,A very big door with a depiction of Guthix on it.
+53698,Part of a stone circle.
+53699,Part of a stone circle.
+53700,Part of a stone circle.
+53701,Part of a stone circle.
+53702,Part of a stone circle.
+53703,Part of a stone circle.
+53704,Part of a stone circle.
+53705,Part of a stone circle.
+53706,Part of a stone circle.
+53707,Part of a stone circle.
+53708,Part of a stone circle.
+53709,Part of a stone circle.
+53710,Part of a stone circle.
+53711,Part of a stone circle.
+53712,Part of a stone circle.
+53713,Part of a stone circle.
+53714,Part of a stone circle.
+53715,Part of a stone circle.
+53716,Part of a stone circle.
+53717,Part of a stone circle.
+53718,Part of a stone circle.
+53719,Part of a stone circle.
+53720,Part of a stone circle.
+53721,Part of a stone circle.
+53723,A dried-up vine.
+53724,A flowering vine.
+53725,An empty brazier.
+53726,An empty brazier.
+53727,Some rocks that have fallen down.
+53728,A broken brazier.
+53729,A broken brazier.
+53730,A broken brazier.
+53731,Some rocks that have fallen down.
+53732,A broken brazier.
+53733,A broken brazier.
+53734,A broken brazier.
+53735,Burning through ancient magic.
+53736,Burning through ancient magic.
+53737,A place to store a fire.
+53767,A wall of rock.
+53768,A wall of rock.
+53794,A dried-up vine.
+53795,A dried-up vine.
+53796,A dried-up vine.
+53797,A dried-up vine.
+53798,A dried-up vine.
+53799,A dried-up vine.
+53800,A dried-up vine.
+53801,A dried-up vine.
+53802,A dried-up vine.
+53809,"They possibly didn't understand the command, 'Stop at the edge of the chasm'."
+53810,"They possibly didn't understand the command, 'Stop at the edge of the chasm'."
+53811,"They possibly didn't understand the command, 'Stop at the edge of the chasm'."
+53812,"They possibly didn't understand the command, 'Stop at the edge of the chasm'."
+53813,Looks like the corpse of a follower of Guthix.
+53814,Looks like the corpse of a follower of Guthix.
+53815,Looks like the corpse of a follower of Guthix.
+53816,Looks like the corpse of a follower of Guthix.
+53819,It's burning with an ethereal white light.
+53820,It's burning with an ethereal blue light.
+53821,A powerful energy surrounds it.
+53822,A powerful energy surrounds it.
+53823,A powerful energy surrounds it.
+53824,A powerful energy surrounds it.
+53825,It's disappearing!
+53826,This plinth once held the great Stone of Jas.
+53830,An exit out of the crawl space.
+53831,An exit out of the crawl space.
+53832,An exit out of the crawl space.
+53883,A section of broken wall.
+53884,A section of broken wall.
+53885,A depiction of a statuesque human bearing a weighty tome upon his shoulders.
+53886,A depiction of a statuesque human bearing a weighty tome upon his shoulders.
+53892,I can climb this.
+53893,The door is closed.
+53894,The door is open.
+53895,This staircase is carved into the rock.
+53896,This staircase is carved into the rock.
+53897,An old door.
+53898,The door is open.
+53899,The metal bars look strong.
+53900,The metal bars look strong.
+53901,An old door.
+53902,An old door.
+53903,An old door.
+53904,An old door.
+53905,An old door.
+53906,An old door.
+53907,An old door.
+53908,It's slightly illuminated.
+53909,It's slightly illuminated.
+53910,It's slightly illuminated.
+53911,It's not illuminated.
+53912,It's not illuminated.
+53913,It's not illuminated.
+53914,A very sturdy bookcase filled with reams of indecipherable writings.
+53915,A very sturdy bookcase filled with reams of indecipherable writings.
+53916,A very sturdy bookcase filled with reams of indecipherable writings.
+53917,A very sturdy bookcase filled with reams of indecipherable writings.
+53918,A very sturdy bookcase filled with reams of indecipherable writings.
+53919,A very sturdy bookcase filled with reams of indecipherable writings.
+53920,A very sturdy bookcase filled with reams of indecipherable writings.
+53921,The metal bars look strong.
+53922,The metal bars look strong.
+53923,The metal bars look strong.
+53924,This staircase leads up.
+53925,There's something different about the floor here.
+53926,There's something different about the floor here.
+53927,This staircase leads down.
+53928,The statue depicts a muscular human carrying a huge tome.
+53929,The statue depicts a muscular human carrying a huge tome.
+53930,The statue depicts a muscular human carrying a huge tome.
+53931,The statue depicts a muscular human carrying a huge tome.
+53932,The statue depicts a muscular human carrying a huge tome.
+53933,The statue depicts a muscular human carrying a huge tome.
+53935,A selection of weights all piled together.
+53936,A set of drawers.
+53937,A device for measuring vertical pressure.
+53938,"It looks like it's just full of paperwork regarding tedious, everyday details."
+53939,"It looks to be a normal bookcase, filled with the usual old, dusty tomes."
+53940,There are a few scattered papers on the desk.
+53941,"There are many papers on the desk, most of which look quite detailed."
+53942,It's a small cave dug into the side of the wall.
+53943,A huge pile of treasure! It looks too good to be true!
+53944,"It's some sort of strange contraption, but it's not clear what it's supposed to do."
+53945,Decorative tiling of poor craftsmanship.
+53946,A staircase that rose out of the floor.
+53947,A staircase that rose out of the floor.
+53948,Going down?
+53949,This bed appears to be very tough and uncomfortable.
+53950,I thought only dragons slept on their valuables.
+53951,I thought only dragons slept on their valuables.
+53952,A bed that doubles as a chest is worth investigating.
+53953,"Yep, that was worth investigating."
+53954,There used to be a pile of coal here.
+53955,A very small pile of coal.
+53956,A small pile of coal.
+53957,A big pile of coal.
+53958,A very big pile of coal.
+53960,There used to be a pile of fire runes here.
+53961,A very small pile of fire runes.
+53962,A small pile of fire runes.
+53963,A big pile of fire runes.
+53964,A very big pile of fire runes.
+53966,There used to be a pile of death runes here.
+53967,A very small pile of death runes.
+53968,A small pile of death runes.
+53969,A big pile of death runes.
+53970,A very big pile of death runes.
+53972,There used to be a pile of magic logs here.
+53973,A very small pile of magic logs.
+53974,A small pile of magic logs.
+53975,A big pile of magic logs.
+53976,A very big pile of magic logs.
+53978,Some sort of dial displaying the number 3.
+53979,Some sort of dial displaying the number 2.
+53980,Some sort of dial displaying the number 1.
+53981,Some sort of dial displaying the number 0.
+53994,I'd really hate to drink anything that had been in here.
+53995,I'd really hate to drink anything that had been in here.
+53996,A wooden crate.
+53997,A wooden crate.
+53998,A table.
+53999,Too dirty to sit on.
+54000,Crammed with books on every topic.
+54001,Crammed with books on every topic.
+54002,Crammed with books on every topic.
+54004,A desk with papers of little interest.
+54005,Books on every subject imaginable.
+54006,Books on every subject imaginable.
+54007,Books on every subject imaginable.
+54011,Crammed with books on every topic.
+54012,A broken furnace.
+54013,A chest of drawers.
+54028,A well slept-in bed.
+54029,A well slept-in bed.
+54030,A well slept-in bed.
+54031,A well slept-in bed.
+54033,It's not illuminated.
+54034,It's slightly illuminated.
+54049,Ideal for cooking on.
+54050,A larder.
+54051,A barrel full of an unknown liquid. I hope it's orange juice.
+54053,The door is closed.
+54054,Quite loose indeed.
+54055,For climbing.
+54059,It's a door.
+54062,For debug.
+54063,For debug.
+54083,A large table made of stone.
+54085,A very big door with a depiction of Guthix on it.
+54086,A very big door with a depiction of Guthix on it.
+54087,A very big door with a depiction of Guthix on it.

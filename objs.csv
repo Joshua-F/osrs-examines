@@ -5171,9 +5171,9 @@
 8084,Large chapel statue
 8085,Suit of armour
 8086,Small portrait
-8087,Minor slayer monster head
-8088,Medium slayer monster head
-8089,Major slayer monster head
+8087,Teak mounted head display
+8088,Mahogany mounted head display
+8089,Gilded mounted head display
 8090,Mounted sword
 8091,Small landscape
 8093,Large portrait
@@ -7435,6 +7435,10 @@
 11521,Two doses of fishy Zamorak brew.
 11523,One dose of fishy Zamorak brew.
 11525,Doesn't look very useful.
+11578,Mounted Harpoonfish
+11599,Oak mounted fish display
+11601,Mahogany mounted fish display
+11603,Teak mounted fish display
 11628,"A bagged chicken ready to serve you, magnet in claw."
 11640,Educate yourself.
 11656,A book that explains the art of crafting items from glass.
@@ -15401,3 +15405,27 @@
 30638,An enchanted amulet.
 30640,It seems to lack any elemental substance.
 30644,I wonder what might be caught in this.
+30646,Impishly impressive.
+30648,Impishly iconic.
+30650,Teak display
+30651,Mahogany display
+30652,Mahogany display
+30653,Gilded display
+30654,Gilded display
+30655,Crawling hand
+30656,Crawling hand
+30657,Cockatrice head
+30658,Cockatrice head
+30659,Basilisk head
+30660,Basilisk head
+30661,Kurask head
+30662,Abyssal demon head
+30663,Oak display
+30664,Teak display
+30665,Teak display
+30666,Mahogany display
+30667,Mahogany display
+30668,Mounted Bass
+30669,Mounted Bass
+30670,Mounted Swordfish
+30671,Mounted Harpoonfish

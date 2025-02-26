@@ -1300,9 +1300,9 @@
 2153,A column of elemental power.
 2154,A wrought iron gate.
 2155,A wrought iron gate.
-2156,A magical portal of teleportation.
-2157,A magical portal of teleportation.
-2158,A magical portal of teleportation.
+2156,"A magical portal of teleportation, leading to the Wizards' Tower."
+2157,"A magical portal of teleportation, leading to the Dark Wizards' Tower."
+2158,"A magical portal of teleportation, leading to the Sorcerer's Tower."
 2171,I doubt that was built to last...
 2176,How do you make a skeleton laugh?
 2177,Smells like fish.
@@ -8308,16 +8308,6 @@
 13440,A table used to block incoming arrows.
 13465,The iconic sigil of Kourend.
 13476,I can see fish swimming in the water.
-13481,A trophy of a mighty slayer!
-13482,A trophy of a mighty slayer!
-13483,A trophy of a mighty slayer!
-13484,A trophy of a mighty slayer!
-13485,A trophy of a mighty slayer!
-13486,A trophy of a mighty dragon-slayer!
-13487,A trophy of a mighty kalphite slayer!
-13488,A trophy of a master fisher.
-13489,A trophy of a master fisher.
-13490,A trophy of a master fisher.
 13491,The work of a master smith.
 13492,The work of a master smith.
 13493,Only the finest smiths can work runite.
@@ -16154,7 +16144,6 @@
 27776,For storing personal belongings.
 27777,Handy for boarding boats.
 27778,Handy for boarding boats.
-27779,A trophy of a mighty hydra slayer!
 27780,See your scores here.
 27781,Handy for boarding boats.
 27782,Handy for boarding boats.
@@ -18732,7 +18721,6 @@
 31973,A small Ivory table.
 31974,Something's burning here.
 31975,"Yellow blossom, lovely."
-31977,A trophy of a mighty dragon slayer!
 31978,A large display of Vorkath in his icy home.
 31979,A mounted cape worn by the most experienced players.
 31980,A mounted cape worn by the most experienced players.
@@ -20228,7 +20216,7 @@
 34530,Leads to the upper levels of the volcano.
 34531,Leads to a lower level of the volcano.
 34544,Conveniently just the right height to climb over!
-34548,"Igneous rock is formed when magma cools and solidifies, it may do this above or below the Earth's surface."
+34548,Igneous rock is formed when magma cools and solidifies. It may do this underground or above the surface.
 34553,There's a strange smell coming from behind these doors.
 34554,There's a strange smell coming from behind these doors.
 34562,Can't imagine what this tastes like...
@@ -22733,7 +22721,6 @@
 40957,Sturdy rocks with a long rope attached.
 40958,It's a rope.
 40959,You can scale the cliff with this.
-40963,A trophy of a master fisher.
 40964,Useful for fixing things.
 40965,Useful for tying things together.
 40966,Useful for carrying water.
@@ -26688,8 +26675,8 @@
 50008,Watch your step!
 50009,Twisting roots can trip the bravest of warriors.
 50019,Must have been laid by a huge bird.
-50029,A banner in celebration of the 11th year of OSRS.
-50030,A banner in celebration of the 11th year of OSRS.
+50029,A banner in celebration of the 12th year of OSRS.
+50030,A banner in celebration of the 12th year of OSRS.
 50034,It's thick with snow.
 50035,This tree has been cut down.
 50036,Why on earth is there a shark there?
@@ -29414,3 +29401,7 @@
 56077,A fearsome yet stylish souvenir from Leagues V: Raging Echoes.
 56078,A fearsome yet stylish souvenir from Leagues V: Raging Echoes.
 56079,The curtain is open.
+56080,There's a theme going on.
+56081,Not for popping.
+56082,Biscuits and Party Pete's famous deviled eggs.
+56083,Biscuits and Party Pete's famous deviled eggs.

@@ -2746,7 +2746,6 @@
 4448,It doesn't look very stable...
 4449,A solid stone staircase.
 4450,A solid stone staircase.
-4458,There are some bandages on this table.
 4459,There are some toolboxes on this table.
 4460,There's some rock I can use with the catapult here.
 4461,There are some barricades here.
@@ -7617,6 +7616,7 @@
 12302,Little candles flickering.
 12307,Some interesting wall decoration.
 12309,It's open.
+12310,The ancient writings of a crazed mage.
 12311,Someone should be sitting here.
 12312,Suitable for one.
 12313,Suitable for one.
@@ -8308,6 +8308,10 @@
 13465,The iconic sigil of Kourend.
 13476,I can see fish swimming in the water.
 13481,Someone should be sitting here.
+13482,Scrawled jottings of a diminished mind.
+13483,Ancient notes on transdimensional travel.
+13484,Judgement of the Vanguard.
+13485,Confessions of a troubled soul.
 13491,The work of a master smith.
 13492,The work of a master smith.
 13493,Only the finest smiths can work runite.
@@ -17618,7 +17622,6 @@
 30026,Judgement of the Vanguard.
 30027,There seems to be something locked in the heart of the crystal.
 30028,Someone must have really wanted to protect whatever they kept in here.
-30031,Confessions of a troubled soul.
 30032,I really shouldn't stand in that.
 30033,They're moving...
 30034,They grew quick!
@@ -18185,7 +18188,7 @@
 31034,It's attached.
 31035,"Giant, but it still floats."
 31036,Not such a giant boulder anymore.
-31037,"It's getting smaller, maybe there are goodies in the middle, like a piÃ±ata."
+31037,"It's getting smaller, maybe there are goodies in the middle, like a piñata."
 31038,Rich with minerals.
 31039,Hot and whirly.
 31040,Allows one to inspect the gas levels in the chamber below...
@@ -29472,3 +29475,13 @@
 56159,A way in to the house.
 56160,A way in to the house.
 56161,A way in to the house.
+56219,An old crate for storage.
+56220,A pile of boxes for storage.
+56221,Useful for transportation of delicate items.
+56222,There are some bandages on this table.
+56223,There are some bandages on this table.
+56224,There are some castlewars brews here.
+56225,There are some castlewars brews here.
+56226,There are some buckets on this table.
+56227,There are some rune pouches here.
+56228,There are some rune pouches here.

@@ -15366,7 +15366,6 @@
 26051,Stairs leading up.
 26053,A good source of books!
 26073,A statue of a Knight of Camelot.
-26074,A table.
 26075,A chair.
 26076,A chair.
 26077,A chair.
@@ -17998,14 +17997,14 @@
 30766,I could probably fit through it.
 30767,I could probably fit through it.
 30774,It's in the way.
-30775,A plant on the ocean floor.
-30776,A plant on the ocean floor.
-30777,A plant on the ocean floor.
-30778,A plant on the ocean floor.
-30779,A plant on the ocean floor.
-30780,A plant on the ocean floor.
-30781,A plant on the ocean floor.
-30782,A plant on the ocean floor.
+30775,A plant found underwater.
+30776,A plant found underwater.
+30777,A plant found underwater.
+30778,A plant found underwater.
+30779,A plant found underwater.
+30780,A plant found underwater.
+30781,A plant found underwater.
+30782,A plant found underwater.
 30783,A strong ocean current.
 30796,A bank chest seems to have washed up on shore.
 30797,Looks awfully like a pile of seaweed.
@@ -26928,7 +26927,6 @@
 50736,Handy for boarding boats.
 50737,Handy for boarding boats.
 50741,Contains a lot of well-earned loot.
-50742,Not for walking on.
 50746,Hot!
 50747,Keeps track of progress in the Colosseum.
 50748,For all your banking needs.
@@ -28145,6 +28143,7 @@
 54085,A very big door with a depiction of Guthix on it.
 54086,A very big door with a depiction of Guthix on it.
 54087,A very big door with a depiction of Guthix on it.
+54113,I think I could fit in there.
 54114,A rug adorned with the icon of Deadman.
 54115,A rug adorned with the icon of Deadman.
 54116,A rug adorned with the icon of Deadman.
@@ -32847,3 +32846,332 @@
 62531,"Looks like the trap failed, I should reset this."
 62532,Leads to another arena.
 62533,Pete's wooden crate.
+62535,Little candles flickering.
+62536,Little candles flickering.
+62537,Little candles flickering.
+62538,A table.
+62539,A table.
+62540,A puddle of strange goo.
+62541,A holy warrior. A dead one.
+62542,It's totally blocked.
+62543,I think I could fit in there.
+62552,A book about life and death.
+62553,A book about life and death.
+62554,Books on every subject imaginable.
+62555,A good source of books!
+62556,Filled to the brim with knowledge.
+62557,Shelves filled with interesting books.
+62558,These books have been strewn all over the place.
+62559,How to be evil and influence people.
+62560,A treasure trove of knowledge.
+62561,Plenty of books here!
+62562,They store knowledge...
+62563,A small collection of old books.
+62564,The ancient writings of a crazed mage.
+62565,Full of knowledge.
+62566,These books have been strewn all over the place.
+62567,These books have been strewn all over the place.
+62568,These books have been strewn all over the place.
+62569,Is this someone's diary?
+62570,An old history book.
+62571,A book of forgotten spells.
+62572,A book on special pie recipes.
+62573,Full of knowledge.
+62574,Hopefully there's nothing confidential on these.
+62575,A collection of written notes on paper!
+62578,Looks dangerous.
+62579,Looks dangerous.
+62580,Looks dangerous.
+62596,RIP.
+62597,F.
+62598,Poor guy.
+62599,Never agreed on what was the best colour.
+62600,Died with a smile on its face.
+62601,Should have upgraded to mithril first.
+62602,A much nicer death than the other Zamorak mages...
+62603,Their journey ended here.
+62604,And then they took a sword to the heart.
+62605,That's one scorched Goblin.
+62607,Learnt the hard way not to put jelly on toast.
+62608,Learnt the hard way not to put jelly on toast.
+62610,Use with caution...
+62615,I'm sure they died of natural causes... Unless...
+62616,RIP.
+62617,"Sad, isn't it?"
+62618,Clean bones.
+62620,Bad vibes.
+62621,Must be ancient...
+62622,Hopefully they were close.
+62623,I only count 205!
+62624,Must have been a party.
+62631,Stands tall.
+62632,Stands tall
+62633,Stands tall.
+62634,Stands tall
+62679,A dead bush.
+62680,A dead bush.
+62681,"A dried up bush, void of life."
+62684,Where might it go?
+62685,Where might it go?
+62686,Don't fall!
+62687,Don't fall!
+62688,Don't fall!
+62689,Don't fall!
+62690,Don't fall!
+62693,A censer that has the colours of Bandos.
+62694,A censer that has the colours of Bandos.
+62695,A censer that has the colours of Armadyl.
+62696,A censer that has the colours of Armadyl.
+62697,A censer that has the colours of Zaros.
+62698,A censer that has the colours of Zaros.
+62699,A censer that has the colours of Saradomin.
+62700,A censer that has the colours of Saradomin.
+62701,It seems to stare back...
+62702,Rocks infused with magical energy.
+62703,Reality fragmenting...
+62704,Reality fragmenting...
+62705,Reality fragmenting...
+62706,"It's broken and hanging from a vine, but power still seems to radiate from it."
+62707,"It's broken and hanging from a vine, but power still seems to radiate from it."
+62708,"It's broken and hanging from a vine, but power still seems to radiate from it."
+62709,"It's broken and hanging from a vine, but power still seems to radiate from it."
+62710,A massive pile of rubble.
+62711,A massive pile of rubble.
+62712,A massive pile of rubble.
+62713,Hot!
+62737,Stands tall.
+62738,Stands tall.
+62745,That's one way to get in...
+62747,Toasty.
+62748,Toasty.
+62749,Toasty.
+62750,Toasty.
+62751,Toasty.
+62752,Toasty.
+62753,Toasty.
+62754,Toasty.
+62755,Toasty.
+62756,Toasty.
+62757,Toasty.
+62758,Burn burn burn!
+62759,Left the oven on.
+62760,Absolutely fried.
+62761,Burnt to a crisp.
+62762,A little too overdone.
+62765,A way out.
+62766,A way out.
+62767,Maybe I can find some allies here.
+62768,Leads into the Archive.
+62769,That's one big root!
+62770,That's one big root!
+62771,That's one big root!
+62772,That's one big root!
+62773,Documents the legends of adventurers that defend the Archive.
+62774,Documents the legends of adventurers that defend the Archive.
+62775,Documents the legends of adventurers that defend the Archive.
+62776,A fractured table of archival records.
+62777,A place to store farming tools.
+62778,A place to store things.
+62779,A place to store gardening tools.
+62780,A place to store things.
+62781,No longer a place to store things.
+62782,Big and heavy.
+62783,Big and heavy.
+62784,Big and heavy.
+62785,Big and heavy.
+62786,Big and heavy.
+62787,A wooden wheelbarrow.
+62788,I wonder what's inside...
+62789,A wooden crate.
+62790,A wooden crate.
+62791,For storing things.
+62792,For storing things.
+62793,For working at.
+62794,A barrel full of runes.
+62795,A wooden barrel for storage.
+62796,A barrel full of runes.
+62798,Good for sitting on.
+62799,Used for sharpening blades.
+62800,And now the watch is ended.
+62801,Filled with weapons.
+62802,Filled with weapons.
+62803,Filled with weapons.
+62804,They look sharp!
+62805,They look sharp!
+62806,They look sharp!
+62807,They look sharp!
+62808,They look sharp!
+62809,The last line of defence.
+62810,The last line of defence.
+62811,The last line of defence.
+62812,The last line of defence.
+62813,The last line of defence.
+62814,Absolute carnage.
+62815,Absolute carnage.
+62816,Absolute carnage.
+62817,A cannonball landed here.
+62818,What a mess.
+62819,This place needs a clean...
+62820,Someone's been digging here...
+62821,Someone's been digging here...
+62822,Someone's been digging here...
+62823,A wooden ladder.
+62824,A crate for storing things.
+62825,Some crates for storing things.
+62826,This place needs a clean...
+62827,This place needs a clean...
+62828,It's been reduced to small pieces. It's quite dusty and not easy to move.
+62829,A medium sized pile of rubble.
+62830,A massive pile of rubble.
+62831,A small pile of rubble.
+62832,This place needs a clean...
+62833,This place needs a clean...
+62834,A small pile of rubble.
+62835,This place needs a clean...
+62836,A small pile of rubble.
+62837,Hot!
+62838,Hot!
+62839,Hot!
+62840,Hot!
+62841,Hot!
+62842,Hot!
+62843,Hot!
+62844,Hot!
+62845,Hot!
+62846,Hot!
+62847,Hot!
+62848,Hot!
+62849,Hot!
+62850,Hot!
+62851,Hot!
+62852,Hot!
+62853,A mystically everlasting torch.
+62854,What does that say?
+62862,Eternally burning...
+62863,Protective!
+62864,Protective!
+62865,Protective!
+62866,Ready for use.
+62867,Ready for use.
+62868,Ready for use.
+62869,Stands tall.
+62870,Never agreed on what was the best colour.
+62871,Died with a smile on its face.
+62872,All they wanted was a spade.
+62873,Their journey ended here.
+62874,Should have upgraded to mithril first.
+62875,A much nicer death than the other Zamorak mages...
+62876,Their journey ended here.
+62877,And then they took a sword to the heart.
+62878,Their journey ended here.
+62879,Their journey ended here.
+62880,"Brutal, savage, recked."
+62881,Their journey ended here.
+62882,Their journey ended here.
+62883,Their journey ended here.
+62884,Filled with weapons.
+62885,Filled with weapons.
+62886,Filled with weapons.
+62887,Filled with weapons.
+62888,Filled with weapons.
+62889,Filled with weapons.
+62890,Filled with weapons.
+62891,Filled with weapons.
+62892,Filled with weapons.
+62893,Ready for training.
+62894,Burning through strange magic.
+62949,There is no going back.
+62951,There is no going back.
+62952,There is no going back.
+62953,There is no going back.
+62962,Stands tall.
+62963,Holds things.
+62964,Looks like it's supposed to house a lighthouse lens.
+62965,Must have been designed to hold something big. They're tugging towards something...
+62966,Just a shard of crystal. Why is it here?
+62967,It's very lifelike. Did it just move?
+62968,"The gems bear runic symbols. Looks like... Law, chaos and death?"
+62969,Still alight after all this time. Are those Fremennik symbols?
+62970,A mystically everlasting torch.
+62971,A mystically everlasting torch.
+62982,Otherworldly...
+62983,Otherworldly...
+62984,Otherworldly...
+62985,Otherworldly...
+62986,Otherworldly...
+62987,Otherworldly...
+62988,Otherworldly...
+62991,Make a wish!
+62992,Make a wish!
+62993,Make a wish!
+62994,Make a wish!
+62995,Make a wish!
+63009,I think I could fit in there.
+63010,I think I could fit in there.
+63077,It's a good thing the Alliance have brought planks with them...
+63083,A detailed map of the Archive littered with information on the suspected entry points of the invading forces.
+63087,Use with caution...
+63088,Goes somewhere.
+63089,Goes somewhere.
+63090,Goes somewhere.
+63091,Goes somewhere.
+63092,Goes somewhere.
+63093,Goes somewhere.
+63094,Goes somewhere.
+63095,Goes somewhere.
+63096,Goes somewhere.
+63097,Goes somewhere.
+63098,Goes somewhere.
+63099,Goes somewhere.
+63100,Goes somewhere.
+63101,Goes somewhere.
+63102,Goes somewhere.
+63103,Goes somewhere.
+63104,Goes somewhere.
+63105,Goes somewhere.
+63106,Goes somewhere.
+63107,Goes somewhere.
+63108,Goes somewhere.
+63109,Leads down below...
+63110,Leads down below...
+63111,Leads down below...
+63126,Learnt the hard way not to put jelly on toast.
+63127,Learnt the hard way not to put jelly on toast.
+63128,Learnt the hard way not to put jelly on toast.
+63129,Learnt the hard way not to put jelly on toast.
+63130,Learnt the hard way not to put jelly on toast.
+63132,Stands tall.
+63134,Use with caution...
+63197,Stands tall.
+63198,Stands tall.
+63199,Stands tall.
+63200,Stands tall.
+63201,Stands tall.
+63202,Stands tall.
+63262,Looks like goblins always find a way.
+63266,The roots seem to be trying to keep the crystals contained.
+63267,The roots seem to be trying to keep the crystals contained.
+63268,The roots seem to be trying to keep the crystals contained.
+63269,The roots seem to be trying to keep the crystals contained.
+63270,The roots seem to be trying to keep the crystals contained.
+63271,The roots seem to be trying to keep the crystals contained.
+63274,I can store my items here.
+63275,I can store my items here.
+63276,A place to plant yourself.
+63277,Strewn with plans and strategems to help secure the Archive.
+63278,A storage crate.
+63280,A strange looking door set into the wall. It's locked.
+63281,An unlocked door to the records room.
+63282,The way out.
+63286,A space for a future Living Record.
+63288,"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Scrivener""."
+63290,"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Salvager""."
+63292,"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Prospector""."
+63294,"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Reliquist""."
+63296,"Once used to honour the archivists, now awarded to those who defend their work. The engraving reads ""Antisqüien""."
+63297,Endless...
+63298,Found within the void.
+63300,Items found within the Archive will be stored here. Currently there's nothing here.
+63301,A container for items found within the Archive.
+63302,For holding items.
+63303,These could make a fine mess of my legs.

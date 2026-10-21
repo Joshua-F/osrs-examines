@@ -7,7 +7,7 @@
 6,A very smelly ghost.
 7,A very smelly ghost.
 8,An evil death demon.
-9,Reminds me of playing pooh sticks.
+9,Very characterful!
 10,An evil death spawn.
 11,An evil death demon.
 12,It's another jolly tree gnome.
@@ -274,9 +274,9 @@
 283,A sea bird.
 284,A sea bird.
 285,A sea bird.
-286,A sea bird.
-287,A sea bird.
-288,A sea bird.
+286,"A very large, very dangerous-looking birdy."
+287,A veteran of the high seas.
+288,A mappy chappy.
 289,It's totally savage.
 290,A short angry guy.
 291,A dwarf gone bad.
@@ -504,7 +504,7 @@
 521,Yar! Shiver me timbers!
 522,Avast ye scurvy land lubbers!
 523,This one's had too much to drink!
-524,A fine example of piracy's equal opportunities program.
+524,Avast ye scurvy land lubbers!
 525,"Low on brains, high on aggression."
 526,Rogueish.
 527,An evil human cleric.
@@ -1369,7 +1369,6 @@
 1467,It's a monkey.
 1468,It's a monkey.
 1469,It's a monkey.
-1470,A large dim looking humanoid.
 1471,This must be Rantz's daughter.
 1472,This must be Rantz's son.
 1473,"A green skinned croaker, loves the swamp."
@@ -1450,8 +1449,8 @@
 1551,He's asleep.
 1552,Keeping an eye out for suspicious activity.
 1553,No one likes crabs...
-1554,A sea bird.
-1555,A sea bird.
+1554,A mappy chappy.
+1555,The Shipyard Manager.
 1556,Caution: HOT!
 1557,Hydro-power!
 1558,"His hands are covered in mud. At least, I hope that's mud."
@@ -2794,7 +2793,7 @@
 2986,An evil priest.
 2987,This ghost looks quite rebellious.
 2988,A ghost disciple.
-2989,A trader from across the eastern sea.
+2989,A trader from across the Eastern Ocean.
 2992,It's an undead cow.
 2993,"Yep, definitely a chicken... an undead chicken."
 2994,An extremely vicious lobster.
@@ -3421,11 +3420,7 @@
 3641,A man busily panning.
 3642,A woman busily panning.
 3643,A pirate.
-3644,An old sea dog.
-3645,A young sailor.
-3646,A young sailor.
 3647,The owner of the banana plantation.
-3648,Inspects peoples' packages.
 3649,Nice piece of crafting that...
 3651,An old gardener.
 3652,One of Gielinor's many citizens.
@@ -3674,10 +3669,10 @@
 3901,Foxy.
 3902,"Hoppity, hoppity."
 3903,"Hoppity, hoppity."
-3904,A sea bird.
-3905,A sea bird.
-3906,A sea bird.
-3907,A sea bird.
+3904,Knows a thing or two about boats.
+3905,Knows a thing or two about boats.
+3906,Keeps everything running smoothly around here. Best not disturb him.
+3907,Happiest when he has a job to do.
 3908,Cute. But deadly.
 3909,Cute. But deadly.
 3910,Horned Horsey.
@@ -4026,8 +4021,8 @@
 4286,He looks a little shifty.
 4287,Guards the border.
 4288,Guards the border.
-4289,A sea bird.
-4290,A sea bird.
+4289,Happiest when he has a job to do.
+4290,A seafaring soul mastering quality control.
 4291,Founder and Director of the Piscatoris Fishing Colony.
 4292,Engineer for the Piscatoris Fishing Colony.
 4293,Secretary and Storemaster for the Piscatoris Fishing Colony.
@@ -4193,7 +4188,6 @@
 4459,He tries to grow the crops in this area.
 4460,A bed ridden man.
 4461,A citizen of Burgh de Rott.
-4462,An empty villager.
 4463,A citizen of Burgh de Rott.
 4464,A citizen of Burgh de Rott.
 4465,A citizen of Burgh de Rott.
@@ -4430,8 +4424,8 @@
 4726,Not much to look at.
 4727,Not fond of witches.
 4733,Dwarvish.
-4734,A sea bird.
-4735,A sea bird.
+4734,"Senior management in charge of pest control, morale, and critical biscuit-allocation logistics."
+4735,"Senior management in charge of pest control, morale, and critical biscuit-allocation logistics."
 4736,An elderly White Knight.
 4737,Indentured servant of a Knight.
 4738,"Phenomenal cosmic powers, itty-bitty living space."
@@ -6106,9 +6100,9 @@
 6655,*cough*
 6656,How... is it walking?
 6657,The lowest maintenance pet you will ever have.
-6658,A fishbowl with a Tiny Bluefish in it.
-6659,A fishbowl with a Tiny Greenfish in it.
-6660,A fishbowl with a Tiny Spinefish in it.
+6658,A fishbowl with a tiny bluefish in it.
+6659,A fishbowl with a tiny greenfish in it.
+6660,A fishbowl with a tiny spinefish in it.
 6661,An amazing piece of crafting.
 6662,A fully grown feline.
 6663,A fully grown feline.
@@ -6399,7 +6393,7 @@
 6992,One of Gielinor's many citizens.
 6993,Yar! Shiver me timbers!
 6994,Avast ye scurvy land lubbers!
-6995,A fine example of piracy's equal opportunities program.
+6995,Avast ye scurvy land lubbers!
 6996,He jumps out and attacks people.
 6997,A practicer of dark arts.
 6998,A pirate.
@@ -7607,7 +7601,6 @@
 8366,Dripping with blood.
 8367,The power of blood.
 8368,She's not from around here originally.
-8369,There's something very disconcerting about her.
 8370,There's something very disconcerting about her.
 8371,There's something very disconcerting about her.
 8372,There's something very disconcerting about her.
@@ -7825,7 +7818,7 @@
 8623,"She looks dangerous, and slightly crazy!"
 8629,Perhaps this gardener might look after your crops for you.
 8630,An experienced treasure hunter.
-8631,A young sailor.
+8631,An experienced sailor.
 8633,"Oh great, it's a casket that's come to life."
 8634,And with its head he came galumphing back.
 8635,A reanimated warrior wearing the garb of ancient times.
@@ -8397,78 +8390,78 @@
 9309,"With the prices he charges, no wonder he can afford to look so sharp."
 9310,"With the prices he charges, no wonder he can afford to look so sharp."
 9311,"With the prices he charges, no wonder he can afford to look so sharp."
-9312,"Looks very stylish, but how can he sail in that gear?"
-9313,"Looks very stylish, but how can he sail in that gear?"
-9314,"Looks very stylish, but how can he sail in that gear?"
-9315,"Looks very stylish, but how can he sail in that gear?"
-9316,"Looks very stylish, but how can he sail in that gear?"
-9317,"Looks very stylish, but how can he sail in that gear?"
-9318,"Looks very stylish, but how can he sail in that gear?"
-9319,"Looks very stylish, but how can he sail in that gear?"
-9320,"Looks very stylish, but how can he sail in that gear?"
-9321,"Looks very stylish, but how can he sail in that gear?"
-9322,"Looks very stylish, but how can he sail in that gear?"
-9323,"Looks very stylish, but how can he sail in that gear?"
-9324,That suit looks a little briny around the edges.
-9325,That suit looks a little briny around the edges.
-9326,That suit looks a little briny around the edges.
-9327,That suit looks a little briny around the edges.
-9328,That suit looks a little briny around the edges.
-9329,That suit looks a little briny around the edges.
-9330,That suit looks a little briny around the edges.
-9331,That suit looks a little briny around the edges.
-9332,That suit looks a little briny around the edges.
-9333,That suit looks a little briny around the edges.
-9334,That suit looks a little briny around the edges.
-9335,That suit looks a little briny around the edges.
-9336,First storm he is in that hat will blow away.
-9337,First storm he is in that hat will blow away.
-9338,First storm he is in that hat will blow away.
-9339,First storm he is in that hat will blow away.
-9340,First storm he is in that hat will blow away.
-9341,First storm he is in that hat will blow away.
-9342,First storm he is in that hat will blow away.
-9343,First storm he is in that hat will blow away.
-9344,First storm he is in that hat will blow away.
-9345,First storm he is in that hat will blow away.
-9346,First storm he is in that hat will blow away.
-9347,First storm he is in that hat will blow away.
-9348,She'll never be able to climb rigging in that.
-9349,She'll never be able to climb rigging in that.
-9350,She'll never be able to climb rigging in that.
-9351,She'll never be able to climb rigging in that.
-9352,She'll never be able to climb rigging in that.
-9353,She'll never be able to climb rigging in that.
-9354,She'll never be able to climb rigging in that.
-9355,She'll never be able to climb rigging in that.
-9356,She'll never be able to climb rigging in that.
-9357,She'll never be able to climb rigging in that.
-9358,She'll never be able to climb rigging in that.
-9359,She'll never be able to climb rigging in that.
-9360,High heels on a ship? What is she thinking?
-9361,High heels on a ship? What is she thinking?
-9362,High heels on a ship? What is she thinking?
-9363,High heels on a ship? What is she thinking?
-9364,High heels on a ship? What is she thinking?
-9365,High heels on a ship? What is she thinking?
-9366,High heels on a ship? What is she thinking?
-9367,High heels on a ship? What is she thinking?
-9368,High heels on a ship? What is she thinking?
-9369,High heels on a ship? What is she thinking?
-9370,High heels on a ship? What is she thinking?
-9371,High heels on a ship? What is she thinking?
-9372,The effect is sort of spoiled by all those tattoos.
-9373,The effect is sort of spoiled by all those tattoos.
-9374,The effect is sort of spoiled by all those tattoos.
-9375,The effect is sort of spoiled by all those tattoos.
-9376,The effect is sort of spoiled by all those tattoos.
-9377,The effect is sort of spoiled by all those tattoos.
-9378,The effect is sort of spoiled by all those tattoos.
-9379,The effect is sort of spoiled by all those tattoos.
-9380,The effect is sort of spoiled by all those tattoos.
-9381,The effect is sort of spoiled by all those tattoos.
-9382,The effect is sort of spoiled by all those tattoos.
-9383,The effect is sort of spoiled by all those tattoos.
+9312,It's going to be hard to climb rigging dressed like that.
+9313,It's going to be hard to climb rigging dressed like that.
+9314,It's going to be hard to climb rigging dressed like that.
+9315,It's going to be hard to climb rigging dressed like that.
+9316,It's going to be hard to climb rigging dressed like that.
+9317,It's going to be hard to climb rigging dressed like that.
+9318,It's going to be hard to climb rigging dressed like that.
+9319,It's going to be hard to climb rigging dressed like that.
+9320,It's going to be hard to climb rigging dressed like that.
+9321,It's going to be hard to climb rigging dressed like that.
+9322,It's going to be hard to climb rigging dressed like that.
+9323,It's going to be hard to climb rigging dressed like that.
+9324,It's going to be hard to climb rigging dressed like that.
+9325,It's going to be hard to climb rigging dressed like that.
+9326,It's going to be hard to climb rigging dressed like that.
+9327,It's going to be hard to climb rigging dressed like that.
+9328,It's going to be hard to climb rigging dressed like that.
+9329,It's going to be hard to climb rigging dressed like that.
+9330,It's going to be hard to climb rigging dressed like that.
+9331,It's going to be hard to climb rigging dressed like that.
+9332,It's going to be hard to climb rigging dressed like that.
+9333,It's going to be hard to climb rigging dressed like that.
+9334,It's going to be hard to climb rigging dressed like that.
+9335,It's going to be hard to climb rigging dressed like that.
+9336,It's going to be hard to climb rigging dressed like that.
+9337,It's going to be hard to climb rigging dressed like that.
+9338,It's going to be hard to climb rigging dressed like that.
+9339,It's going to be hard to climb rigging dressed like that.
+9340,It's going to be hard to climb rigging dressed like that.
+9341,It's going to be hard to climb rigging dressed like that.
+9342,It's going to be hard to climb rigging dressed like that.
+9343,It's going to be hard to climb rigging dressed like that.
+9344,It's going to be hard to climb rigging dressed like that.
+9345,It's going to be hard to climb rigging dressed like that.
+9346,It's going to be hard to climb rigging dressed like that.
+9347,It's going to be hard to climb rigging dressed like that.
+9348,It's going to be hard to climb rigging dressed like that.
+9349,It's going to be hard to climb rigging dressed like that.
+9350,It's going to be hard to climb rigging dressed like that.
+9351,It's going to be hard to climb rigging dressed like that.
+9352,It's going to be hard to climb rigging dressed like that.
+9353,It's going to be hard to climb rigging dressed like that.
+9354,It's going to be hard to climb rigging dressed like that.
+9355,It's going to be hard to climb rigging dressed like that.
+9356,It's going to be hard to climb rigging dressed like that.
+9357,It's going to be hard to climb rigging dressed like that.
+9358,It's going to be hard to climb rigging dressed like that.
+9359,It's going to be hard to climb rigging dressed like that.
+9360,It's going to be hard to climb rigging dressed like that.
+9361,It's going to be hard to climb rigging dressed like that.
+9362,It's going to be hard to climb rigging dressed like that.
+9363,It's going to be hard to climb rigging dressed like that.
+9364,It's going to be hard to climb rigging dressed like that.
+9365,It's going to be hard to climb rigging dressed like that.
+9366,It's going to be hard to climb rigging dressed like that.
+9367,It's going to be hard to climb rigging dressed like that.
+9368,It's going to be hard to climb rigging dressed like that.
+9369,It's going to be hard to climb rigging dressed like that.
+9370,It's going to be hard to climb rigging dressed like that.
+9371,It's going to be hard to climb rigging dressed like that.
+9372,It's going to be hard to climb rigging dressed like that.
+9373,It's going to be hard to climb rigging dressed like that.
+9374,It's going to be hard to climb rigging dressed like that.
+9375,It's going to be hard to climb rigging dressed like that.
+9376,It's going to be hard to climb rigging dressed like that.
+9377,It's going to be hard to climb rigging dressed like that.
+9378,It's going to be hard to climb rigging dressed like that.
+9379,It's going to be hard to climb rigging dressed like that.
+9380,It's going to be hard to climb rigging dressed like that.
+9381,It's going to be hard to climb rigging dressed like that.
+9382,It's going to be hard to climb rigging dressed like that.
+9383,It's going to be hard to climb rigging dressed like that.
 9398,Quite the little nightmare.
 9399,Quite the little nightmare.
 9400,Lord of the Zamorakian oathbreakers.
@@ -8632,7 +8625,7 @@
 9576,A vampyre of incredible power.
 9577,A vampyre of incredible power.
 9578,The hungry looking head of House Jovkai.
-9579,The ruler of Morytania and the lord of Vampyrium.
+9579,The ruler of Morytania and the Lord of Vampyrium.
 9580,A dangerous looking werewolf.
 9581,A dangerous looking werewolf.
 9582,A dangerous looking werewolf.
@@ -8721,8 +8714,8 @@
 9680,A slave from Meiyerditch. They look dirty and tired!
 9681,A slave from Meiyerditch. They look dirty and tired!
 9682,A slave from Meiyerditch. They look dirty and tired!
-9683,A juvinate vampyre. They're keeping an eye on the slaves.
-9684,A juvinate vampyre. They're keeping an eye on the slaves.
+9683,A juvinate vampyre. They're keeping an eye on the mine.
+9684,A juvinate vampyre. They're keeping an eye on the mine.
 9685,What does he know about the queen?
 9686,His snarl is just so condescending.
 9687,I know he's certain we'll fail.
@@ -8783,7 +8776,6 @@
 9742,"An evil, bloodsucking vampyre."
 9743,A werewolf visiting Darkmeyer.
 9744,A werewolf visiting Darkmeyer.
-9745,A werewolf working for the vampyres.
 9746,Conducts the Darkmeyer slave auctions.
 9749,A pet bloodveld. Cute.
 9750,Looking to make the perfect purchase.
@@ -9272,7 +9264,6 @@
 10843,One of Verzik's pets.
 10844,This strain of nylocas does not die easily.
 10845,Dripping with blood.
-10847,There's something very disconcerting about her.
 10848,There's something very disconcerting about her.
 10849,There's something very disconcerting about her.
 10850,There's something very disconcerting about her.
@@ -10814,18 +10805,18 @@
 12629,A well dressed nobleman.
 12630,"With the prices he charges, no wonder he can afford to look so sharp."
 12631,"With the prices he charges, no wonder he can afford to look so sharp."
-12632,"Looks very stylish, but how can he sail in that gear?"
-12633,"Looks very stylish, but how can he sail in that gear?"
-12634,That suit looks a little briny around the edges.
-12635,That suit looks a little briny around the edges.
-12636,First storm he is in that hat will blow away.
-12637,First storm he is in that hat will blow away.
-12638,She'll never be able to climb rigging in that.
-12639,She'll never be able to climb rigging in that.
-12640,High heels on a ship? What is she thinking?
-12641,High heels on a ship? What is she thinking?
-12642,The effect is sort of spoiled by all those tattoos.
-12643,The effect is sort of spoiled by all those tattoos.
+12632,It's going to be hard to climb rigging dressed like that.
+12633,It's going to be hard to climb rigging dressed like that.
+12634,It's going to be hard to climb rigging dressed like that.
+12635,It's going to be hard to climb rigging dressed like that.
+12636,It's going to be hard to climb rigging dressed like that.
+12637,It's going to be hard to climb rigging dressed like that.
+12638,It's going to be hard to climb rigging dressed like that.
+12639,It's going to be hard to climb rigging dressed like that.
+12640,It's going to be hard to climb rigging dressed like that.
+12641,It's going to be hard to climb rigging dressed like that.
+12642,It's going to be hard to climb rigging dressed like that.
+12643,It's going to be hard to climb rigging dressed like that.
 12644,She looks excited.
 12645,She looks excited.
 12646,He looks confused.
@@ -10960,30 +10951,30 @@
 12780,"With the prices he charges, no wonder he can afford to look so sharp."
 12781,"With the prices he charges, no wonder he can afford to look so sharp."
 12782,"With the prices he charges, no wonder he can afford to look so sharp."
-12783,"Looks very stylish, but how can he sail in that gear?"
-12784,"Looks very stylish, but how can he sail in that gear?"
-12785,"Looks very stylish, but how can he sail in that gear?"
-12786,"Looks very stylish, but how can he sail in that gear?"
-12787,That suit looks a little briny around the edges.
-12788,That suit looks a little briny around the edges.
-12789,That suit looks a little briny around the edges.
-12790,That suit looks a little briny around the edges.
-12791,First storm he is in that hat will blow away.
-12792,First storm he is in that hat will blow away.
-12793,First storm he is in that hat will blow away.
-12794,First storm he is in that hat will blow away.
-12795,She'll never be able to climb rigging in that.
-12796,She'll never be able to climb rigging in that.
-12797,She'll never be able to climb rigging in that.
-12798,She'll never be able to climb rigging in that.
-12799,High heels on a ship? What is she thinking?
-12800,High heels on a ship? What is she thinking?
-12801,High heels on a ship? What is she thinking?
-12802,High heels on a ship? What is she thinking?
-12803,The effect is sort of spoiled by all those tattoos.
-12804,The effect is sort of spoiled by all those tattoos.
-12805,The effect is sort of spoiled by all those tattoos.
-12806,The effect is sort of spoiled by all those tattoos.
+12783,It's going to be hard to climb rigging dressed like that.
+12784,It's going to be hard to climb rigging dressed like that.
+12785,It's going to be hard to climb rigging dressed like that.
+12786,It's going to be hard to climb rigging dressed like that.
+12787,It's going to be hard to climb rigging dressed like that.
+12788,It's going to be hard to climb rigging dressed like that.
+12789,It's going to be hard to climb rigging dressed like that.
+12790,It's going to be hard to climb rigging dressed like that.
+12791,It's going to be hard to climb rigging dressed like that.
+12792,It's going to be hard to climb rigging dressed like that.
+12793,It's going to be hard to climb rigging dressed like that.
+12794,It's going to be hard to climb rigging dressed like that.
+12795,It's going to be hard to climb rigging dressed like that.
+12796,It's going to be hard to climb rigging dressed like that.
+12797,It's going to be hard to climb rigging dressed like that.
+12798,It's going to be hard to climb rigging dressed like that.
+12799,It's going to be hard to climb rigging dressed like that.
+12800,It's going to be hard to climb rigging dressed like that.
+12801,It's going to be hard to climb rigging dressed like that.
+12802,It's going to be hard to climb rigging dressed like that.
+12803,It's going to be hard to climb rigging dressed like that.
+12804,It's going to be hard to climb rigging dressed like that.
+12805,It's going to be hard to climb rigging dressed like that.
+12806,It's going to be hard to climb rigging dressed like that.
 12807,A mighty gladiator.
 12808,A mighty gladiator.
 12809,Keeps an eye on all the worthy contenders.
@@ -11476,10 +11467,10 @@
 13299,A highly educated individual.
 13300,A highly educated individual.
 13301,A highly educated individual.
-13302,Looks to be flaunting alot of wealth.
-13303,Looks to be flaunting alot of wealth.
-13304,Looks to be flaunting alot of wealth.
-13305,Looks to be flaunting alot of wealth.
+13302,Looks to be flaunting a lot of wealth.
+13303,Looks to be flaunting a lot of wealth.
+13304,Looks to be flaunting a lot of wealth.
+13305,Looks to be flaunting a lot of wealth.
 13306,Seems like a shady individual.
 13307,Seems like a shady individual.
 13308,Seems like a shady individual.
@@ -11731,7 +11722,7 @@
 13645,He walks with a slight limp.
 13655,Appears slightly drunk.
 13656,How does he suck blood now?
-13657,A three-headed gigantic hound. Guardian of the River of Souls.
+13657,A three-headed gigantic hound. Guardialn of the River of Souls.
 13658,Not the bees!
 13659,Woah.
 13660,A furry with a score to settle.
@@ -12175,7 +12166,7 @@
 14139,Looks kind of shifty...
 14140,"A sneaky, spiny, subterranean sea-dwelling scamp."
 14141,"If I didn't know better, I'd swear there's something in there..."
-14144,A mysterious hooded figure coursing with power.
+14144,What use is being mysterious and powerful if this is where you end up?
 14145,They can help you travel to hard to reach places...
 14146,A fierce dragon with black scales!
 14147,Wields the primal force of ice. Kingly and formidable.
@@ -12187,7 +12178,7 @@
 14153,Razor sharp.
 14154,This looks like a safe spot.
 14155,Yar! Shiver me timbers!
-14156,A fine example of piracy's equal opportunities program.
+14156,Avast ye scurvy land lubbers!
 14157,"A fiery throne, fit for only the strongest demons."
 14158,And with its head he came galumphing back.
 14159,And with its head he came galumphing back.
@@ -12692,3 +12683,1320 @@
 14783,A knight in fancy armour.
 14784,A knight in fancy armour.
 14785,Doom on a small scale.
+14786,This is a chest.
+14787,This is a chest.
+14788,Larva of pure evil.
+14789,Larva of pure evil.
+14790,He's harvesting the ripe corn.
+14791,He's harvesting the ripe corn.
+14792,Helps other guards keep the peace... kind of.
+14793,A large dim looking humanoid.
+14794,A large dim looking humanoid.
+14795,There's something very disconcerting about her.
+14796,There's something very disconcerting about her.
+14797,There's something very disconcerting about her.
+14798,There's something very disconcerting about her.
+14799,A mysterious hooded figure coursing with power.
+14800,"She's around at the right time, and the right place."
+14801,"She's around at the right time, and the right place."
+14802,"She's around at the right time, and the right place."
+14803,A mighty protector.
+14804,A mighty protector.
+14805,A mighty protector.
+14807,I've spotted a Rae!
+14808,This guy looks to know his way around the oceans.
+14809,The most toxic gecko I've ever seen.
+14810,This one's quite hairy.
+14811,This is a chest.
+14812,This is a chest.
+14813,This is a chest.
+14814,The ghost of an imp slain long ago.
+14815,It is indeed a very spooky chair.
+14816,The leader of the Barracudas.
+14817,The second-fastest sailor on the seas.
+14818,A scheming little snot.
+14819,He's due a promotion any day now.
+14820,A kind-hearted captain.
+14821,A member of Tetra's crew.
+14822,A member of Tetra's crew.
+14823,A curious engineer.
+14824,A skilled shipwright.
+14825,"She has an artist's eye, and a shipwright's skills."
+14826,He knows his way around a kitchen.
+14828,A tortugan elder who specialises in crafting.
+14829,A tortugan elder who specialises in crafting.
+14831,A tortugan elder who specialises in hunting.
+14832,A tortugan elder who specialises in hunting.
+14834,A tortugan elder who specialises in fishing.
+14835,A tortugan elder who specialises in fishing.
+14837,A tortugan elder who specialises in smithing.
+14838,A tortugan elder who specialises in smithing.
+14840,A tortugan juvenile who's learning the ways of herblore.
+14841,A tortugan juvenile who's learning the ways of herblore.
+14843,A tortugan elder who specialises in farming.
+14844,A tortugan elder who specialises in farming.
+14845,A tortugan elder who specialises in fletching.
+14846,A tortugan elder who specialises in woodcutting.
+14847,A tortugan who's great with money.
+14848,A tortugan juvenile who's learning the ways of fishing.
+14849,A tortugan juvenile who's learning the ways of hunting.
+14850,A tortugan juvenile who's learning the ways of crafting.
+14851,A tortugan juvenile who's learning the ways of crafting.
+14852,Why so crabby?
+14853,Smells fishy.
+14854,Smells fishy.
+14855,Smells fishy.
+14856,Smells fishy.
+14857,A vicious predatory bird-like monster.
+14858,A vicious predatory bird-like monster.
+14859,"A vicious predator, strong enough to hook and rip the shells off the largest tortugans."
+14860,A calamity to all tortugan-kind.
+14861,A tortugan elder who specialises in slayer.
+14863,A tortugan elder who specialises in slayer.
+14864,The ghost of a goblin slain long ago.
+14865,The ghost of a pyrefiend slain long ago.
+14866,He smells a bit fishy.
+14867,She be a pirate! Yarr!
+14868,An experienced captain with the Customs and Excise Office.
+14869,A merchant sailor.
+14870,"As the name suggests, he likes to parley."
+14871,A troublesome parrot.
+14872,"Talk to the brass hand, because the Harry ain't listening."
+14873,An adult tortugan.
+14874,Arrrgggg!
+14875,Arrrgggg!
+14876,Arrrgggg!
+14877,An unfortunate castaway.
+14878,A fearsome pirate captain.
+14879,A real numbskull.
+14880,Looks like he made a boo-boo.
+14881,On the look out for thieves.
+14882,On the look out for thieves.
+14883,On the look out for thieves.
+14885,Keeping an eye on the prisoners.
+14886,Keeping an eye on the prisoners.
+14887,He tries to keep order around here.
+14888,He tries to keep order around here.
+14889,She tries to keep order around here.
+14890,She tries to keep order around here.
+14891,A renowned master of trawling. Perhaps he can share his wisdom?
+14892,No stranger when it comes to the sea.
+14893,No stranger when it comes to the sea.
+14894,No stranger when it comes to the sea.
+14895,No stranger when it comes to the sea.
+14896,"Working hard, or hardly working?"
+14897,"Working hard, or hardly working?"
+14898,"Working hard, or hardly working?"
+14899,"Working hard, or hardly working?"
+14900,An adult tortugan.
+14901,An experienced cartographer.
+14902,She looks worried.
+14903,An angry-looking ship captain.
+14904,He seems to like walking around.
+14905,He can get you a drink.
+14906,She can sell you a thing or two.
+14907,Often gets wrapped up in her work.
+14908,In the business of keeping people warm.
+14909,Can cut deals and gems in equal measure.
+14910,Knows how to polish a deal.
+14911,He knows how to curry favour with the local sailors.
+14912,He's hooked on trading.
+14913,A rock-solid trader.
+14914,Rooting for your business.
+14915,Has a bit of a heavy personality.
+14916,A slithering serpent.
+14917,Some ore going into the furnace.
+14918,Some ore going into the furnace.
+14919,A sea bird.
+14920,One of Gielinor's many citizens.
+14921,One of Gielinor's many citizens.
+14922,"Ice to see you, to see you ice!"
+14923,Found somewhere between a rock and a hard place.
+14924,Found somewhere between a rock and a hard place.
+14925,Found somewhere between a rock and a hard place.
+14926,Looks like it's gotten through a lot of wood.
+14927,Looks like it's gotten through a lot of wood.
+14928,Looks like it's gotten through a lot of wood.
+14929,Looks like it's gotten through a lot of wood.
+14930,A connoisseur of all liquid based foods.
+14931,Quite the scrongly little chicken.
+14932,"Small, but somehow still looks down on me."
+14933,Yar! Shiver me timbers!
+14934,Avast ye scurvy land lubbers!
+14935,Yar! Shiver me timbers!
+14936,Avast ye scurvy land lubbers!
+14937,Yar! Shiver me timbers!
+14938,Smells of rotten fish.
+14939,No one likes crabs...
+14940,"Tiny, annoying, stinging thing."
+14942,She looks like she's quite familiar with the sea.
+14945,Her knowledge of the sea would be best described as very deep.
+14947,Her knowledge of the sea would be best described as very deep.
+14948,She looks rather unwell.
+14949,She looks rather unwell.
+14951,A friendly duck.
+14952,"Councillor of Catherby, though no one seems to be quite sure how or why she was elected."
+14953,A seasoned archaeologist in search of long lost empires.
+14954,A seasoned archaeologist in search of long lost empires.
+14955,A seasoned archaeologist in search of long lost empires.
+14956,"A very large, very dangerous-looking birdy."
+14959,Enjoys a good bit of salvaging.
+14960,Enjoys a good bit of salvaging.
+14961,Enjoys a good bit of salvaging.
+14964,Enjoys a good bit of salvaging.
+14965,Enjoys a good bit of salvaging.
+14966,Enjoys a good bit of salvaging.
+14968,The 'pirate' owner of the Pandemonium.
+14969,The 'pirate' owner of the Pandemonium.
+14971,A grizzled old sailor who enjoys a good ominous tale.
+14974,Knows a thing or two about boats.
+14975,Knows a thing or two about boats.
+14977,A veteran privateer.
+14978,An old sea dog.
+14979,An old sea dog.
+14980,A young sailor.
+14981,A young sailor.
+14982,A young sailor.
+14983,A young sailor.
+14984,Inspects peoples' packages.
+14985,Inspects peoples' packages.
+14990,That's a nasty injury.
+14991,She seems a little better now.
+14992,She seems a little better now.
+14993,A one-flippered tortugan explorer.
+14994,A one-flippered tortugan explorer.
+14998,A tortugan elder who specialises in hunting.
+14999,A tortugan elder who specialises in hunting.
+15000,A tortugan elder who specialises in hunting.
+15001,Sailing a boat.
+15002,A tortugan elder who specialises in herblore.
+15003,A tortugan elder responsible for the eggs on the Little Pearl.
+15004,A tortugan elder responsible for the eggs on the Little Pearl.
+15005,A tortugan elder responsible for the eggs on the Little Pearl.
+15006,A tortugan elder responsible for the eggs on the Little Pearl.
+15007,A tortugan elder responsible for the eggs on the Little Pearl.
+15008,A tortugan elder responsible for the eggs on the Little Pearl.
+15009,A vicious predatory bird-like monster.
+15010,A calamity to all tortugan-kind.
+15012,A one-flippered tortugan explorer.
+15013,"As the name suggests, they manage the reception desk."
+15015,A senior individual in the Red Reef Trading Company.
+15017,A book once described him as a philanthropic genius. The book was an autobiography.
+15020,A book once described him as a philanthropic genius. The book was an autobiography.
+15021,Yar! Shiver me timbers!
+15022,Avast ye scurvy land lubbers!
+15023,Yar! Shiver me timbers!
+15024,Avast ye scurvy land lubbers!
+15025,Don't ask her how she got the black eye.
+15026,Yar! Shiver me timbers!
+15027,Avast ye scurvy land lubbers!
+15028,Yar! Shiver me timbers!
+15029,Avast ye scurvy land lubbers!
+15030,Yar! Shiver me timbers!
+15031,Avast ye scurvy land lubbers!
+15032,Yar! Shiver me timbers!
+15033,Avast ye scurvy land lubbers!
+15034,An extremely vicious lobster.
+15035,He makes sure things keep working around here.
+15036,She looks serious.
+15037,A worker for the Red Reef Trading Company.
+15038,A worker for the Red Reef Trading Company.
+15039,A worker for the Red Reef Trading Company.
+15040,A worker for the Red Reef Trading Company.
+15041,A sailor for the Red Reef Trading Company.
+15042,A sailor for the Red Reef Trading Company.
+15043,A sailor for the Red Reef Trading Company.
+15044,A sailor for the Red Reef Trading Company.
+15046,A colourful bird.
+15047,A colourful bird.
+15048,An empty cage.
+15049,He's in control of the whole mining camp.
+15050,"When you look into this little fish's eyes, democracy suddenly makes total sense."
+15051,Found somewhere between a rock and a hard place.
+15052,Found somewhere between a rock and a hard place.
+15053,Found somewhere between a rock and a hard place.
+15054,Looks like it's gotten through a lot of wood.
+15055,Looks like it's gotten through a lot of wood.
+15056,Looks like it's gotten through a lot of wood.
+15057,Looks like it's gotten through a lot of wood.
+15058,A connoisseur of all liquid based foods.
+15059,Quite the scrongly little chicken.
+15060,"Small, but somehow still looks down on me."
+15062,A tortugan juvenile who's learning how to look after coral.
+15063,A tortugan juvenile who's learning how to look after coral.
+15064,A tortugan juvenile who's learning the ways of farming.
+15065,An adult tortugan doing some farming. They might be able to look after your crops for you.
+15066,I can see fish swimming in the water.
+15067,I can see fish swimming in the water.
+15068,I can see fish swimming in the water.
+15069,I can see fish swimming in the water.
+15070,I can see fish swimming in the water.
+15071,I can see fish swimming in the water.
+15072,I can see fish swimming in the water.
+15073,I can see fish swimming in the water.
+15074,I can see fish swimming in the water.
+15075,I can see fish swimming in the water.
+15076,I can see fish swimming in the water.
+15077,I can see fish swimming in the water.
+15078,I can see fish swimming in the water.
+15079,I can see fish swimming in the water.
+15080,I can see fish swimming in the water.
+15081,I can see fish swimming in the water.
+15082,I can see fish swimming in the water.
+15083,I can see fish swimming in the water.
+15084,I can see fish swimming in the water.
+15085,I can see fish swimming in the water.
+15086,I can see fish swimming in the water.
+15087,I can see fish swimming in the water.
+15089,No one likes crabs...
+15090,No one likes crabs...
+15091,No one likes crabs...
+15092,No one likes crabs...
+15093,No one likes crabs...
+15095,A drunken sailor and a member of the Barracudas.
+15096,A drunken sailor and a member of the Barracudas.
+15097,A drunken sailor and a member of the Barracudas.
+15099,An Barracuda ogre... captain? sailor?
+15100,An Barracuda ogre... captain? sailor?
+15101,An Barracuda ogre... captain? sailor?
+15103,A member of the Barracudas and assistant to Gurtob.
+15104,A member of the Barracudas and assistant to Gurtob.
+15106,An elven captain and a member of the Barracudas.
+15107,An elven captain and a member of the Barracudas.
+15108,An elven captain and a member of the Barracudas.
+15109,"Wow, this rat learned to sail!"
+15112,Better not get too close!
+15113,It's covered in crystal shards
+15114,A large boisterous bird. A delicacy for ogres.
+15115,A strange glow is emanating from under the surface.
+15116,On a voyage to the corner of the globe.
+15117,Great for flying a kite or a sailboat.
+15118,Great for flying a kite or a sailboat.
+15119,Great for flying a kite or a sailboat.
+15120,A pearl-making machine.
+15121,Snacking on something.
+15122,It's created a pearl!
+15124,A messenger with a bottle!
+15125,I wonder what's inside?
+15126,I wonder what's inside?
+15127,I wonder what's inside?
+15128,I wonder what's inside?
+15129,I wonder what's inside?
+15130,I wonder what's inside?
+15131,I wonder what's inside?
+15132,I wonder what's inside?
+15133,I wonder what's inside?
+15134,I wonder what's inside?
+15135,I wonder what's inside?
+15136,I wonder what's inside?
+15137,He could use some help!
+15138,"No longer adrift, but still damp."
+15139,He could use some help!
+15140,"No longer adrift, but still damp."
+15141,She could use some help!
+15142,"No longer adrift, but still damp."
+15143,She could use some help!
+15144,"No longer adrift, but still damp."
+15145,She could use some help!
+15146,"No longer adrift, but still damp."
+15147,He could use some help!
+15148,"No longer adrift, but still damp."
+15149,A buddy in need of help!
+15150,Your new best friend.
+15151,A mappy chappy.
+15152,A friendly floaty duck. Chase for current current data.
+15153,A friendly floaty duck. Collect for current current data.
+15154,"A true intellectual amongst her peers, which isn't saying much."
+15155,"A mermaid guide, willing to help you research the depths of the sea."
+15156,"A mermaid guide, willing to help you research the depths of the sea."
+15157,"A mermaid guide, willing to help you research the depths of the sea."
+15158,"A mermaid guide, willing to help you research the depths of the sea."
+15159,"A mermaid guide, willing to help you research the depths of the sea."
+15160,This looks tasty.
+15161,Why not eat it and see what happens?
+15162,He's had a fair bit to drink...
+15163,Spawn of Zulrah.
+15164,Likes drink... hates people.
+15165,"Yep, it's revived alright."
+15166,It's blue daga dee daga noth.
+15167,I can already feel my head hurting.
+15168,Keeping cool heads by hitting them with rocks.
+15169,"What chucks up, didn't stay down."
+15170,"Mad, and its tortally your fault."
+15171,Likes drink... hates people stepping on him.
+15172,Good job your boat is secured with nails and not nuts and bolts.
+15173,Here to help with washing the decks.
+15174,Exploding with excitement to be here.
+15175,The drink troll society is much more complicated than anticipated.
+15176,The drink troll society might feel simpler now.
+15177,A tiny captain brought here by his own dreams.
+15178,The ghost of a hobgoblin slain long ago.
+15179,The ghost of a cyclops slain long ago.
+15180,The ghost of a hellhound slain long ago.
+15181,The ghost of a demon slain long ago.
+15182,The ghost of an ork slain long ago.
+15183,The ghost of a dark beast slain long ago.
+15184,The ghost of a knight slain long ago.
+15185,The ghost of a dragon slain long ago.
+15191,An unwavering shark.
+15192,An unwavering shark.
+15193,This dummy is very susceptible to any sort of combat.
+15194,A predator of the sea.
+15195,It met a superior predator of the sea.
+15196,Incredibly strange looking. Still very dangerous.
+15197,Incredibly strange looking. No longer so dangerous.
+15198,A practitioner of tiger style.
+15199,A former practitioner of tiger style.
+15200,"Jaws with such strength, they can rip apart metal cages."
+15201,Someone didn't need a bigger boat.
+15202,Currently swimming in the ocean.
+15203,Currently floating in the ocean.
+15204,"A real killer of a whale (though arguably, not a whale at all)."
+15205,Won't be killing much now.
+15206,"With a small size comes a greater quantity, so watch out."
+15207,"With a small size comes a greater quantity, so watch out for more living ones."
+15208,An invertebrate with a bit of backbone.
+15209,"An invertebrate with a bit of backbone, though that didn't save it."
+15210,Good luck finding a krack in this armour!
+15211,Seems like you found the krack!
+15212,"Well, that's just terrifying."
+15213,"Well, that was just terrifying."
+15214,"Can't fly, despite its best efforts."
+15215,"Couldn't fly, and now never will."
+15216,Disappointingly free of pretty patterns.
+15217,Disappointingly free of pretty patterns. Also free of lifesigns.
+15218,"Has the potential to sting anyone, regardless of if they're called Ray."
+15219,Won't be doing much stinging now.
+15220,Might be feeling a little flat.
+15221,Might be feeling even more flat.
+15222,A large and powerful bird of prey circling the oceans.
+15223,A large and dead bird of prey floating around the oceans.
+15224,Albatross!
+15225,Get your albatross!
+15226,"A magnificent sea bird, effortlessly soaring in the sky."
+15227,"A magnificent and dead sea bird, effortlessly floating on the water."
+15228,Down for what?
+15229,Oh how the tables...
+15230,It thinks it can take down an entire boat. Maybe it can?
+15231,It couldn't.
+15232,It thinks it can take down an entire boat. Maybe it can?
+15233,It couldn't.
+15234,A bottlenose dolphin.
+15235,"Cute, but dead."
+15236,A small bottlenose dolphin calf.
+15237,The infamous enemy of Varrock.
+15238,Knows a thing or two about boats.
+15239,A young sailor.
+15240,
+15244,Don't call her Reggie.
+15245,Don't call her Reggie.
+15246,Don't call her Reggie.
+15253,Will sail for food.
+15254,Will sail for food.
+15256,Will sail for food.
+15257,Will sail for food.
+15258,Will sail for food.
+15259,Will sail for food.
+15260,Will sail for food.
+15262,An eager adventurer with a talent for problem-solving.
+15263,An eager adventurer with a talent for problem-solving.
+15265,An eager adventurer with a talent for problem-solving.
+15266,An eager adventurer with a talent for problem-solving.
+15267,An eager adventurer with a talent for problem-solving.
+15268,An eager adventurer with a talent for problem-solving.
+15269,An eager adventurer with a talent for problem-solving.
+15272,Any sudden noise puts the boom-boom into his heart.
+15273,Any sudden noise puts the boom-boom into his heart.
+15275,Any sudden noise puts the boom-boom into his heart.
+15276,Any sudden noise puts the boom-boom into his heart.
+15277,Any sudden noise puts the boom-boom into his heart.
+15278,Any sudden noise puts the boom-boom into his heart.
+15279,Any sudden noise puts the boom-boom into his heart.
+15282,Should have been called Roger.
+15283,Should have been called Roger.
+15285,Should have been called Roger.
+15286,Should have been called Roger.
+15287,Should have been called Roger.
+15288,Should have been called Roger.
+15289,Should have been called Roger.
+15292,An experienced sailor with a background in windsurfing.
+15293,An experienced sailor with a background in windsurfing.
+15295,An experienced sailor with a background in windsurfing.
+15296,An experienced sailor with a background in windsurfing.
+15297,An experienced sailor with a background in windsurfing.
+15298,An experienced sailor with a background in windsurfing.
+15299,An experienced sailor with a background in windsurfing.
+15302,A fan of ruff seas.
+15303,A fan of ruff seas.
+15305,A fan of ruff seas.
+15306,A fan of ruff seas.
+15307,A fan of ruff seas.
+15308,A fan of ruff seas.
+15309,A fan of ruff seas.
+15312,A weak force of nature trying to prove they are strong.
+15313,A weak force of nature trying to prove they are strong.
+15315,A weak force of nature trying to prove they are strong.
+15316,A weak force of nature trying to prove they are strong.
+15317,A weak force of nature trying to prove they are strong.
+15318,A weak force of nature trying to prove they are strong.
+15319,A weak force of nature trying to prove they are strong.
+15322,Could spot a snowy knight in a blizzard at 1000 paces.
+15323,Could spot a snowy knight in a blizzard at 1000 paces.
+15325,Could spot a snowy knight in a blizzard at 1000 paces.
+15326,Could spot a snowy knight in a blizzard at 1000 paces.
+15327,Could spot a snowy knight in a blizzard at 1000 paces.
+15328,Could spot a snowy knight in a blizzard at 1000 paces.
+15329,Could spot a snowy knight in a blizzard at 1000 paces.
+15331,Just happy to be here.
+15332,Just happy to be here.
+15334,Just happy to be here.
+15335,Just happy to be here.
+15336,Just happy to be here.
+15337,Just happy to be here.
+15338,Just happy to be here.
+15341,Dead men can trim sails.
+15342,Dead men can trim sails.
+15344,Dead men can trim sails.
+15345,Dead men can trim sails.
+15346,Dead men can trim sails.
+15347,Dead men can trim sails.
+15348,Dead men can trim sails.
+15349,The dry white toast of crewmates.
+15350,A locked crew slot.
+15351,Knows a thing or two about boats.
+15352,Knows a thing or two about boats.
+15353,Knows a thing or two about boats.
+15354,Knows a thing or two about boats.
+15355,Knows a thing or two about boats.
+15356,Knows a thing or two about boats.
+15357,Knows a thing or two about boats.
+15358,Knows a thing or two about boats.
+15359,Knows a thing or two about boats.
+15360,Knows a thing or two about boats.
+15361,Knows a thing or two about boats.
+15362,Knows a thing or two about boats.
+15363,Knows a thing or two about boats.
+15364,Knows a thing or two about boats.
+15365,Knows a thing or two about boats.
+15366,Knows a thing or two about boats.
+15367,Knows a thing or two about boats.
+15368,Knows a thing or two about boats.
+15369,Knows a thing or two about boats.
+15370,Knows a thing or two about boats.
+15371,Knows a thing or two about boats.
+15372,Knows a thing or two about boats.
+15373,Knows a thing or two about boats.
+15374,Knows a thing or two about boats.
+15375,Knows a thing or two about boats.
+15376,Knows a thing or two about boats.
+15377,Knows a thing or two about boats.
+15378,"Maybe after a hard day of work, they go home for a drink of port."
+15379,"Maybe after a hard day of work, they go home for a drink of port."
+15380,"Maybe after a hard day of work, they go home for a drink of port."
+15381,"Maybe after a hard day of work, they go home for a drink of port."
+15384,I can see eels swimming in the lava.
+15385,He looks angry.
+15386,He looks after the Colosseum minotaurs.
+15387,The least milkable cow I've ever seen.
+15388,The least milkable cow I've ever seen.
+15389,The least milkable cow I've ever seen.
+15391,He's the man with the power to name things.
+15392,He's the man with the power to name things.
+15393,A banknote exchange merchant who has taken on the role of king.
+15394,A dwarven worker.
+15395,Looks like it's plotting...
+15396,A dwarven worker.
+15397,A dwarven worker.
+15398,A dwarven worker.
+15399,A dwarven worker.
+15400,A dwarven worker.
+15401,A dwarven worker.
+15402,A dwarven worker.
+15403,A dwarven worker.
+15404,A dwarven worker.
+15405,A dwarven worker.
+15406,A dwarven worker.
+15407,Makes sure the workers are well looked after.
+15408,He seems to be in charge here.
+15410,He has an odd look in his eye.
+15411,He has an odd look in his eye.
+15412,A majestic bird of prey.
+15413,A large lizard.
+15414,A large lizard.
+15415,A colour-coordinated lizard.
+15416,A colour-coordinated lizard.
+15417,A colour-coordinated lizard.
+15418,A colour-coordinated lizard.
+15419,How cute!
+15420,How cute!
+15421,How cute!
+15422,How cute!
+15423,How cute!
+15424,How cute!
+15425,The only creature with a mouth big enough to fit a cannonball into.
+15426,The only creature with a mouth big enough to fit a cannonball into.
+15427,The only creature with a mouth big enough to fit a cannonball into.
+15428,Fruity and bat-shaped. A winning combination!
+15429,Plodding along.
+15430,"Wax on, wax off, grab a butterfly and eat it... Wait, what?"
+15431,"Wax on, wax off, grab a butterfly and eat it... Wait, what?"
+15432,"Wax on, wax off, grab a butterfly and eat it... Wait, what?"
+15433,Eurgh! A nasty bug.
+15434,Eurgh! A nasty bug.
+15435,Eurgh! A nasty bug.
+15436,I shall call him Anthony.
+15437,I shall call him Anthony.
+15438,That stinger has to hurt...
+15439,That stinger has to hurt...
+15440,A flying blood sucker.
+15441,Yuck! It's all slimy!
+15442,You wouldn't steal a ship.
+15443,What is he looking for?
+15444,"Does what he wants, 'cause a pirate lives free."
+15445,No fan of land lubbers.
+15446,It's going to be hard to climb rigging dressed like that.
+15447,It's going to be hard to climb rigging dressed like that.
+15448,It's going to be hard to climb rigging dressed like that.
+15449,It's going to be hard to climb rigging dressed like that.
+15450,A salt-seasoned sailor.
+15451,A captain with a grudge against the crown.
+15452,A sun-weathered pirate.
+15453,A sun-weathered pirate.
+15454,A sun-weathered pirate.
+15455,You wouldn't steal a ship.
+15456,Definitely would steal a ship.
+15457,A captain of the coldest seas.
+15458,"Warriors first, sailors second."
+15459,She's sailing through her workload.
+15460,Finds his work amusang.
+15461,Parroting all the other port masters.
+15462,Seems to have to fill out a lot more forms that the other port masters.
+15463,Personally inspects all cargo for weapons and armor.
+15464,He's working ardy is.
+15465,Brimming with passion for her job.
+15466,Often found securing ropes to prevent trip khazards.
+15467,"Corsair? No, she was just lying in the sand."
+15468,Makes sure his port is the least ruined part of Unkah.
+15469,"We have a pun on the name Piscarillius, but we don't want to tell you."
+15470,Fortis port would be easier to run.
+15471,Dokkar is his Fremennik name.
+15472,"Where the land ends, her job begins."
+15473,She's got a hosidius amount of work to do.
+15474,He's got that cairn-do attitude.
+15475,He's setting a high standard.
+15476,Ready to shell out some coin in exchange for services.
+15477,His peers consider him an al-daring port master.
+15478,"Half of the time, she thinks of herself as the starboard master, for balance."
+15479,She's managed to rob the job of all its challenges.
+15480,People say she's as solid as a red rock.
+15481,He's harmless enough... mostly.
+15482,"She does this, she does that..."
+15483,He's a tyrasure to work with.
+15484,His work is always finished on time.
+15485,He's so efficient.
+15486,She's not one to slack off.
+15487,She's crystal clear on what she's doing.
+15488,A reel professional.
+15489,He's over the moon about his job.
+15490,I wouldn't want to get near one of those!
+15493,Looks cursed.
+15494,Looks cursed.
+15495,Looks cursed.
+15496,He can look after my money.
+15497,It has a light on its forehead. What a pretty light... So shiny!
+15498,It's lost its light. Poor thing.
+15499,A very big piece of angry spaghetti.
+15500,Lava runs down its body.
+15501,I don't think you're ready for this jelly.
+15502,Such an alluring light...
+15503,It's lost its light. Poor thing.
+15504,A rather hot foe.
+15505,"With the prices he charges, no wonder he can afford to look so sharp."
+15506,It's going to be hard to climb rigging dressed like that.
+15507,It's going to be hard to climb rigging dressed like that.
+15508,It's going to be hard to climb rigging dressed like that.
+15509,It's going to be hard to climb rigging dressed like that.
+15510,It's going to be hard to climb rigging dressed like that.
+15511,It's going to be hard to climb rigging dressed like that.
+15512,"With the prices he charges, no wonder he can afford to look so sharp."
+15513,It's going to be hard to climb rigging dressed like that.
+15514,It's going to be hard to climb rigging dressed like that.
+15515,It's going to be hard to climb rigging dressed like that.
+15516,It's going to be hard to climb rigging dressed like that.
+15517,It's going to be hard to climb rigging dressed like that.
+15518,It's going to be hard to climb rigging dressed like that.
+15519,"With the prices he charges, no wonder he can afford to look so sharp."
+15520,It's going to be hard to climb rigging dressed like that.
+15521,It's going to be hard to climb rigging dressed like that.
+15522,It's going to be hard to climb rigging dressed like that.
+15523,It's going to be hard to climb rigging dressed like that.
+15524,It's going to be hard to climb rigging dressed like that.
+15525,It's going to be hard to climb rigging dressed like that.
+15526,"With the prices he charges, no wonder he can afford to look so sharp."
+15527,It's going to be hard to climb rigging dressed like that.
+15528,It's going to be hard to climb rigging dressed like that.
+15529,It's going to be hard to climb rigging dressed like that.
+15530,It's going to be hard to climb rigging dressed like that.
+15531,It's going to be hard to climb rigging dressed like that.
+15532,It's going to be hard to climb rigging dressed like that.
+15533,"With the prices he charges, no wonder he can afford to look so sharp."
+15534,It's going to be hard to climb rigging dressed like that.
+15535,It's going to be hard to climb rigging dressed like that.
+15536,It's going to be hard to climb rigging dressed like that.
+15537,It's going to be hard to climb rigging dressed like that.
+15538,It's going to be hard to climb rigging dressed like that.
+15539,It's going to be hard to climb rigging dressed like that.
+15540,"With the prices he charges, no wonder he can afford to look so sharp."
+15541,It's going to be hard to climb rigging dressed like that.
+15542,It's going to be hard to climb rigging dressed like that.
+15543,It's going to be hard to climb rigging dressed like that.
+15544,It's going to be hard to climb rigging dressed like that.
+15545,It's going to be hard to climb rigging dressed like that.
+15546,It's going to be hard to climb rigging dressed like that.
+15547,A big chicken.
+15548,"He's escaped? Next thing you know, there will be some turtles following him."
+15549,Imagination gone wild.
+15550,Don't burst its bubble!
+15551,An ancient automaton imbued with the power of Tumeken.
+15552,An ancient automaton imbued with the power of Elidinis.
+15553,Lives on surge potions.
+15554,Its stompin' time!
+15555,A demon of quite obviously fathomable power. The vicious grin rarely leaves his face.
+15556,An infinite mass of decay and death.
+15557,This is going to hurt... Slightly.
+15558,A tightly-wrapped monster.
+15559,The shadowy remains of a long-departed soul.
+15560,The animated dead; one of Rashiliyia's minions.
+15561,"Aaaargh, me hearty!"
+15562,"What could be worse than an angry, undead fremennik?"
+15563,He looks really nasty. Smells bad too.
+15564,The infamous enemy of Varrock.
+15566,A guard of Unkah.
+15568,A guard of Wintertodt.
+15569,Probably couldn't break through a wall at this size.
+15570,I might need more than 10k.
+15571,Wispy.
+15572,Good doggy-lizard-thing...
+15573,Good doggy-lizard-thing...
+15574,This is going to hurt...
+15575,A practitioner of tiger style.
+15576,"Wait, where is it?"
+15577,It couldn't hide well enough.
+15578,A banknote exchange merchant who likes to travel.
+15579,A banknote exchange merchant who likes to travel.
+15582,A spiky barricade.
+15583,A spiky barricade.
+15584,A spiky barricade.
+15585,A spiky barricade.
+15586,A very brave chocolate egg.
+15587,A very brave chocolate egg.
+15588,A very brave chocolate egg.
+15589,A local cat.
+15590,A very brave chocolate egg.
+15591,A very brave chocolate egg.
+15592,A very brave chocolate egg.
+15593,A very brave chocolate egg.
+15594,A very brave chocolate egg.
+15595,A very brave chocolate egg.
+15596,A very brave chocolate egg.
+15597,A very brave chocolate egg.
+15598,A very brave chocolate egg.
+15599,A very brave chocolate egg.
+15600,A very brave chocolate egg.
+15601,Fallen a bit too far from the tree.
+15602,A not so crazy druid.
+15603,Minding his own business at the canoe station.
+15604,Strayed too far from the village.
+15605,Seen her fair share of battles.
+15606,She'll get you properly dressed up.
+15607,She'll get you properly dressed up.
+15608,Hot.
+15609,A disciple sent to represent Leagues.
+15610,A fierce dragon with black scales!
+15611,Woah.
+15612,A three-headed gigantic hound. Guardian of the River of Souls.
+15613,A deadly predator formed from crystal.
+15614,A deadly predator formed from crystal.
+15615,A big angry plant.
+15616,I don't think insect repellent will work...
+15617,I don't think insect repellent will work...
+15618,The dagannoth king responsible for the death of the Bukalla.
+15619,"A legendary dagannoth king, rumoured to fly on the North winds."
+15620,Firstborn of the legendary dagannoth kings.
+15621,"The Guardian of Dusk, he's alive!"
+15622,The crack of Dawn.
+15623,"The Guardian of Dawn, he's alive!"
+15625,Doesn't skip leg day.
+15626,Doesn't skip leg day.
+15627,Doesn't skip leg day.
+15628,Doesn't look particularly happy.
+15629,Doesn't look particularly happy.
+15631,Commonly referred to as Sir Loin.
+15632,Seems to be trying to get into the milk business.
+15633,Commonly referred to as Sir Loin.
+15634,A wizard who's proven himself.
+15635,The crack of Dawn.
+15636,"Blimey, a Demon Butler!"
+15637,"Blimey, a Demon Butler!"
+15638,Looks a little older than most imps.
+15639,It's the sage. Woah!
+15640,It's the sage. In a cage. Woah!
+15641,It's the sage. In a cage. Woah!
+15642,thrall
+15643,thrall
+15644,thrall
+15645,"Atop his throne, always looking down on others."
+15646,A speedy little underling.
+15647,"Hard at work, or mischief, or something."
+15648,That's one strong-looking imp!
+15649,Furtive and diminished.
+15650,A pair of evil little creatures.
+15651,They don't seem to be interested in productive activity.
+15652,They're clearly a bad influence on each other.
+15653,I wonder what they're reading.
+15654,Is that scroll upside-down?
+15655,Seemingly studious.
+15656,Athletic!
+15657,It looks like they've been jumping for hours.
+15658,I'm getting tired just watching them.
+15659,Doesn't like being filled with water.
+15660,Still got all their marbles.
+15661,Not to be confused with jelly.
+15662,I guess they took the wrong path?
+15663,Shouldn't this abomination be in court?
+15664,Focusing intently on deeper powers.
+15665,Hard at work deciphering relics.
+15666,Not to be messed with.
+15667,Constantly glancing at the Sage with hungry intent.
+15668,What a crazy name.
+15669,This dummy is very susceptible to any sort of combat.
+15672,Yar! Shiver me timbers!
+15673,Avast ye scurvy land lubbers!
+15674,Yar! Shiver me timbers!
+15675,Avast ye scurvy land lubbers!
+15676,A boat may spawn here.
+15677,His favourite food is a corn.
+15678,"Thick as a plank, but has an aptitude for carpentry."
+15679,Mister who? Mister me? Mister E? No. Mister U.
+15680,"Isn't actually the oldest, but was caught knitting."
+15681,"Can speak, but as the ship's cook, the other crewmembers assume he has no tongue."
+15682,So incompetent it was considered easier to just attach this adjective to his name in common speech.
+15683,"Likes pillaging, plundering and making people take long walks off a short plank."
+15684,Not actually in charge but likes to think he is.
+15685,Her favourite letter is R.
+15686,His true love be the C.
+15687,Has no favourite letter as she is illiterate.
+15688,A dash of flotsam with a sprinkle of jetsam.
+15689,A true warrior.
+15690,A true nugget.
+15691,Not so quite a true rhino.
+15692,Ooo.
+15693,A true weasel.
+15694,A true rebel.
+15695,"He's escaped? Next thing you know, there will be some turtles following him."
+15696,Its stompin' time!
+15697,Graceful avatar of Armadyl.
+15698,An ancient automaton imbued with the power of Elidinis.
+15699,This is going to hurt...
+15700,A demon of quite obviously fathomable power. The vicious grin rarely leaves his face.
+15701,Just a lil magic guy
+15702,Just a lil magic guy
+15703,Just a lil magic guy
+15704,Just a lil shooty guy
+15705,Just a lil shooty guy
+15706,Just a lil shooty guy
+15707,Just a lil fighty guy
+15708,Just a lil fighty guy
+15709,Just a lil fighty guy
+15710,"They look pale, tired and old!"
+15711,"Blimey, a Demon Butler!"
+15712,"They look pale, tired and old!"
+15713,An angry-looking werewolf.
+15714,An angry-looking werewolf.
+15715,Conducts the Darkmeyer slave auctions.
+15716,Looking to make the perfect purchase.
+15717,Looking to make the perfect purchase.
+15718,Looking to make the perfect purchase.
+15719,Looking to make the perfect purchase.
+15720,Looking to make the perfect purchase.
+15721,Looking to make the perfect purchase.
+15722,The mysterious looking head of House Myrmel.
+15723,"A deadly, bloodsucking vampyre."
+15724,"A deadly, bloodsucking vampyre."
+15725,"A deadly, bloodsucking vampyre."
+15726,"A deadly, bloodsucking vampyre."
+15727,A slave from Meiyerditch. They look dirty and tired!
+15728,A slave from Meiyerditch. They look dirty and tired!
+15729,A slave from Meiyerditch. They look dirty and tired!
+15730,A slave from Meiyerditch. They look dirty and tired!
+15731,A slave from Meiyerditch. They look dirty and tired!
+15732,A slave from Meiyerditch. They look dirty and tired!
+15734,It's me. I'm holding an axe.
+15735,It's me. I'm holding an axe.
+15736,So many buckets... Where do they come from?
+15737,So many buckets... Where do they come from?
+15738,So many buckets... Where do they come from?
+15739,Let 'em what?
+15740,Best not to think too much about the venator it inhabits.
+15741,It smells even worse than it looks.
+15742,An unthinkable horror brought to life by Vampyrium's brutality.
+15743,The way it writhes is... unsettling. You wouldn't want it under your skin.
+15747,I wish I had a tree named after me.
+15749,I can't see their face.
+15750,I can't see their face.
+15751,I can't see their face.
+15752,I can't see their face.
+15753,I can't see their face.
+15754,I can't see their face.
+15755,I can't see their face.
+15756,A flying blood sucker.
+15757,A nasty fluffy thing with wings.
+15758,Lyme's best friend.
+15759,A not so noble creature!
+15760,I've a feeling we're not in Morytania anymore.
+15761,An iron-rich reptilian.
+15762,I can't see their face.
+15763,I can't see their face.
+15764,I can't see their face.
+15765,"Large, toothy, bloodthirsty dog."
+15766,"Large, toothy, bloodthirsty dog."
+15767,"Large, toothy, bloodthirsty dog."
+15768,"Large, toothy, bloodthirsty dog."
+15769,"Large, toothy, bloodthirsty dog."
+15770,"Larger, toothier, bloodthirstier dog."
+15771,A citizen of Burgh de Rott.
+15772,A citizen of Burgh de Rott.
+15773,A citizen of Burgh de Rott.
+15774,"A flea-infested, pale-looking excuse for a man."
+15775,"A flea-infested, pale-looking excuse for a man."
+15776,"A flea-infested, pale-looking excuse for a man."
+15777,"A flea-infested, pale-looking excuse for a man."
+15778,A citizen of Meiyerditch.
+15779,A citizen of Meiyerditch.
+15780,"This citizen looks pale, tired and old!"
+15781,"This citizen looks pale, tired and old!"
+15782,"This citizen looks pale, tired and old!"
+15783,"This citizen looks pale, tired and old!"
+15784,"This citizen looks pale, tired and old!"
+15785,"This citizen looks pale, tired and old!"
+15786,"This citizen looks pale, tired and old!"
+15787,"This citizen looks pale, tired and old!"
+15788,A citizen of Meiyerditch.
+15789,A citizen of Meiyerditch.
+15790,A citizen of Meiyerditch.
+15791,A citizen of Meiyerditch.
+15792,A citizen of Meiyerditch.
+15793,A citizen of Meiyerditch.
+15794,A citizen of Meiyerditch.
+15795,A citizen of Meiyerditch.
+15796,"This citizen looks pale, tired and old!"
+15797,"This citizen looks pale, tired and old!"
+15798,"This citizen looks pale, tired and old!"
+15799,"This citizen looks pale, tired and old!"
+15800,"This citizen looks pale, tired and old!"
+15801,"A flea-infested, pale-looking excuse for a woman."
+15802,"A flea-infested, pale-looking excuse for a woman."
+15803,A citizen of Meiyerditch.
+15804,A citizen of Meiyerditch.
+15805,"This citizen looks pale, tired and old!"
+15806,"This citizen looks pale, tired and old!"
+15807,"This citizen looks pale, tired and old!"
+15808,"This citizen looks pale, tired and old!"
+15809,"This citizen looks pale, tired and old!"
+15810,"This citizen looks pale, tired and old!"
+15811,"This citizen looks pale, tired and old!"
+15812,"This citizen looks pale, tired and old!"
+15813,"This citizen looks pale, tired and old!"
+15814,"This citizen looks pale, tired and old!"
+15815,A citizen of Meiyerditch.
+15816,A citizen of Meiyerditch.
+15817,A citizen of Meiyerditch.
+15818,A citizen of Meiyerditch.
+15819,A citizen of Meiyerditch.
+15820,A citizen of Meiyerditch.
+15821,A citizen of Meiyerditch.
+15822,A citizen of Meiyerditch.
+15823,A citizen of Meiyerditch.
+15824,A citizen of Meiyerditch.
+15825,"This citizen looks pale, tired and old!"
+15826,"This citizen looks pale, tired and old!"
+15827,This citizen looks dirty and tired!
+15828,This citizen looks dirty and tired!
+15829,This citizen looks dirty and tired!
+15830,This citizen looks dirty and tired!
+15831,This citizen looks dirty and tired!
+15832,This citizen looks dirty and tired!
+15833,Looks like he has a story to tell.
+15834,He's preparing to enter the Theatre.
+15835,The last remaining member of the Myreque.
+15836,They're on guard.
+15837,They seem to be in a reasonable shape.
+15839,She looks important.
+15855,"He has a weary look to him, but a glimmer of determination still shines through."
+15856,"He has a weary look to him, but a glimmer of determination still shines through."
+15857,An aspiring young priest.
+15858,"He has a weary look to him, but a glimmer of determination still shines through."
+15859,The last remaining member of the Myreque.
+15860,Going undercover.
+15861,He's in a spot of bother.
+15862,He's in a spot of bother.
+15863,"He has a weary look to him, but a glimmer of determination still shines through."
+15864,"He has a weary look to him, but a glimmer of determination still shines through."
+15878,Gruff would be an apt description.
+15879,Gruff would be an apt description.
+15880,Gruff would be an apt description.
+15881,Gruff would be an apt description.
+15882,Gruff would be an apt description.
+15883,Gruff would be an apt description.
+15884,He seems rather angry... and drunk.
+15885,He seems rather angry... and drunk.
+15886,Gruff would be an apt description.
+15887,Gruff would be an apt description.
+15893,He looks very weak.
+15894,"He may not look the same, but he's still very much the old Safalaan."
+15895,He looks very weak.
+15896,He's not looking great.
+15897,He looks very weak.
+15898,He looks very weak.
+15899,Ivan's making sure Safalaan is safe.
+15900,Ivan's making sure Safalaan is safe.
+15901,Ivan's making sure Safalaan is safe.
+15902,Veliaf's making sure Safalaan is safe.
+15909,She seems almost human.
+15910,She seems almost human.
+15911,Her injuries will never fully heal.
+15912,She's not looking so good.
+15913,She looks to be in a bit of a tricky situation.
+15914,She seems almost human.
+15915,She seems almost human.
+15916,A vampyre of incredible power.
+15917,She seems almost human.
+15918,A vampyre of incredible power.
+15919,The ruler of Morytania and the Lord of Vampyrium.
+15920,The ruler of Morytania and the Lord of Vampyrium.
+15921,The ruler of Morytania and the Lord of Vampyrium.
+15922,The ruler of Morytania and the Lord of Vampyrium.
+15923,The ruler of Morytania and the Lord of Vampyrium.
+15924,The ruler of Morytania and the Lord of Vampyrium.
+15925,The ruler of Morytania and the Lord of Vampyrium.
+15926,The ruler of Morytania and the Lord of Vampyrium.
+15927,The ruler of Morytania and the Lord of Vampyrium.
+15928,The ruler of Morytania and the Lord of Vampyrium.
+15929,The ruler of Morytania and the Lord of Vampyrium.
+15930,The ruler of Morytania and the Lord of Vampyrium.
+15931,The ruler of Morytania and the Lord of Vampyrium.
+15932,The ruler of Morytania and the Lord of Vampyrium.
+15933,The ruler of Morytania and the Lord of Vampyrium.
+15934,The ruler of Morytania and the Lord of Vampyrium.
+15935,The ruler of Morytania and the Lord of Vampyrium.
+15936,The ruler of Morytania and the Lord of Vampyrium.
+15941,The former ruler of Hallowvale.
+15942,The former ruler of Hallowvale.
+15943,The former ruler of Hallowvale.
+15944,The former ruler of Hallowvale.
+15945,The former ruler of Hallowvale.
+15946,The former ruler of Hallowvale.
+15947,The former ruler of Hallowvale.
+15948,The former ruler of Hallowvale.
+15949,The former ruler of Hallowvale.
+15950,An imposing winged woman.
+15951,An imposing winged woman.
+15952,An imposing winged woman.
+15953,An imposing winged woman.
+15960,A curious looking vampyre.
+15961,The ruler of Morytania.
+15962,A curious looking vampyre.
+15963,A curious looking vampyre.
+15964,A curious looking vampyre.
+15965,A curious looking vampyre.
+15967,A nylocas of extraordinary power.
+15968,A nylocas of extraordinary power.
+15969,A nylocas of extraordinary power.
+15973,A dangerous arachnid.
+15974,A dangerous arachnid.
+15975,A dangerous arachnid.
+15976,A nasty arachnid.
+15977,A nasty arachnid.
+15978,A nasty arachnid.
+15979,A nasty arachnid.
+15980,A nasty arachnid.
+15981,A nasty arachnid.
+15982,A rather large arachnid.
+15983,A rather large arachnid.
+15984,A rather large arachnid.
+15985,A rather large arachnid.
+15986,This is the fate of those who cross the vampyres.
+15987,This is the fate of those who cross the vampyres.
+15988,This is the fate of those who cross the vampyres.
+15989,This is the fate of those who cross the vampyres.
+15990,This is the fate of those who cross the vampyres.
+15991,This is the fate of those who cross the vampyres.
+15992,This is the fate of those who cross the vampyres.
+15993,Dripping with blood.
+15994,The power of blood.
+15996,What has Safalaan become...
+15997,What has Safalaan become...
+15998,What has Safalaan become...
+15999,What has Safalaan become...
+16000,What has Safalaan become...
+16001,What has Safalaan become...
+16002,What has Safalaan become...
+16003,What has Safalaan become...
+16004,What has Safalaan become...
+16006,I can't see their face.
+16007,I can't see their face.
+16008,I can't see their face.
+16009,I can't see their face.
+16010,I can't see their face.
+16011,I can't see their face.
+16012,I can't see their face.
+16013,I can't see their face.
+16014,I can't see their face.
+16015,I can't see their face.
+16016,I can't see their face.
+16017,I can't see their face.
+16018,I can't see their face.
+16019,I can't see their face.
+16020,I can't see their face.
+16021,I can't see their face.
+16022,I can't see their face.
+16023,I can't see their face.
+16024,I can't see their face.
+16025,I can't see their face.
+16026,I can't see their face.
+16027,I can't see their face.
+16028,I can't see their face.
+16029,I can't see their face.
+16030,I can't see their face.
+16031,I can't see their face.
+16032,I can't see their face.
+16033,I can't see their face.
+16034,I can't see their face.
+16035,I can't see their face.
+16036,I can't see their face.
+16037,I can't see their face.
+16038,I can't see their face.
+16039,I can't see their face.
+16040,I can't see their face.
+16041,I can't see their face.
+16042,I can't see their face.
+16043,I can't see their face.
+16044,I can't see their face.
+16045,I can't see their face.
+16046,I can't see their face.
+16047,I can't see their face.
+16048,I can't see their face.
+16049,I can't see their face.
+16050,I can't see their face.
+16051,I can't see their face.
+16052,I can't see their face.
+16053,I can't see their face.
+16054,I can't see their face.
+16055,I can't see their face.
+16056,I can't see their face.
+16057,I can't see their face.
+16058,I can't see their face.
+16059,I can't see their face.
+16060,I can't see their face.
+16061,I can't see their face.
+16062,I can't see their face.
+16063,I can't see their face.
+16064,I can't see their face.
+16065,I can't see their face.
+16066,I can't see their face.
+16067,I can't see their face.
+16068,I can't see their face.
+16069,I can't see their face.
+16070,I can't see their face.
+16071,I can't see their face.
+16072,I can't see their face.
+16073,I can't see their face.
+16074,I can't see their face.
+16075,I can't see their face.
+16076,I can't see their face.
+16077,I can't see their face.
+16078,I can't see their face.
+16079,I can't see their face.
+16080,I can't see their face.
+16081,I can't see their face.
+16082,I can't see their face.
+16083,I can't see their face.
+16084,I can't see their face.
+16085,I can't see their face.
+16086,I can't see their face.
+16087,I can't see their face.
+16088,I can't see their face.
+16089,I can't see their face.
+16090,I can't see their face.
+16091,I can't see their face.
+16092,I can't see their face.
+16093,I can't see their face.
+16094,I can't see their face.
+16095,I can't see their face.
+16096,I can't see their face.
+16097,I can't see their face.
+16118,I can't see their face.
+16119,I can't see their face.
+16120,The hungry looking head of House Jovkai.
+16121,The mysterious looking head of House Myrmel.
+16122,A citizen of Burgh de Rott.
+16123,A citizen of Burgh de Rott.
+16124,A citizen of Burgh de Rott.
+16125,"An evil, bloodsucking vampyre."
+16126,"An evil, bloodsucking vampyre."
+16127,"An evil, bloodsucking vampyre."
+16128,"An evil, bloodsucking vampyre."
+16129,"An evil, bloodsucking vampyre."
+16130,"An evil, bloodsucking vampyre."
+16131,"An evil, bloodsucking vampyre."
+16132,"An evil, bloodsucking vampyre."
+16133,"An evil, bloodsucking vampyre."
+16134,"An evil, bloodsucking vampyre."
+16135,"An evil, bloodsucking vampyre."
+16136,"A deadly, bloodsucking vampyre."
+16137,"A deadly, bloodsucking vampyre."
+16138,"An evil, bloodsucking vampyre."
+16139,"An evil, bloodsucking vampyre."
+16140,"An evil, bloodsucking vampyre."
+16141,"An evil, bloodsucking vampyre."
+16142,"An evil, bloodsucking vampyre."
+16143,A small but dangerous bloodveld.
+16144,"A deadly, bloodsucking vampyre."
+16145,"A deadly, bloodsucking vampyre."
+16146,"A deadly, bloodsucking vampyre."
+16147,"A deadly, bloodsucking vampyre."
+16148,An important vampyre.
+16149,A vampyre's prisoner.
+16150,A vampyre's prisoner.
+16151,A vampyre's prisoner.
+16152,A vampyre's prisoner.
+16153,A vampyre's prisoner.
+16154,An evil human cleric.
+16155,An evil human cleric.
+16156,An evil human cleric.
+16163,They look dirty and tired!
+16164,They look dirty and tired!
+16165,They look dirty and tired!
+16166,They look dirty and tired!
+16167,They look dirty and tired!
+16168,They look dirty and tired!
+16169,They look dirty and tired!
+16170,They look dirty and tired!
+16171,They look dirty and tired!
+16172,They look dirty and tired!
+16173,They look dirty and tired!
+16174,They look dirty and tired!
+16176,A vampyre of incredible power.
+16177,Gruff would be an apt description.
+16178,The former ruler of Hallowvale.
+16179,The former ruler of Hallowvale.
+16180,The former ruler of Hallowvale.
+16181,A curious looking vampyre.
+16182,"He has a weary look to him, but a glimmer of determination still shines through."
+16183,A nasty arachnid.
+16184,A nasty arachnid.
+16185,A nasty arachnid.
+16186,A nasty arachnid.
+16187,A nasty arachnid.
+16188,A nasty arachnid.
+16189,A nasty arachnid.
+16190,A nylocas of extraordinary power.
+16191,I can't see their face.
+16192,I can't see their face.
+16193,I can't see their face.
+16194,I can't see their face.
+16195,I can't see their face.
+16196,I can't see their face.
+16197,I can't see their face.
+16198,I can't see their face.
+16199,I can't see their face.
+16200,I can't see their face.
+16201,I can't see their face.
+16202,I can't see their face.
+16204,"The ruler of Morytania and the Lord of Vampyrium, untethered."
+16205,Blood from Drakan's lifelong reserves.
+16206,How many were killed to accumulate this much blood?
+16207,"Dangerous, magical blood."
+16209,The ruler of Morytania and the Lord of Vampyrium.
+16210,The ruler of Morytania and the Lord of Vampyrium.
+16211,The ruler of Morytania and the Lord of Vampyrium.
+16212,What has Safalaan become...
+16213,"Large, toothy, bloodthirsty dog."
+16214,"Large, toothy, bloodthirsty dog."
+16215,"Large, toothy, bloodthirsty dog."
+16216,"Large, toothy, bloodthirsty dog."
+16217,"Large, toothy, bloodthirsty dog."
+16218,"Large, toothy, bloodthirsty dog."
+16219,"Large, toothy, bloodthirsty dog."
+16220,"Large, toothy, bloodthirsty dog."
+16221,"Large, toothy, bloodthirsty dog."
+16222,"Large, toothy, bloodthirsty dog."
+16223,A flying blood sucker.
+16224,A flying blood sucker.
+16225,A flying blood sucker.
+16226,An odd-looking crow.
+16227,The ruler of Morytania and the Lord of Vampyrium.
+16229,I've a feeling we're not in Morytania anymore.
+16230,If the ones back home weren't sick and twisted enough...
+16231,I've a feeling we're not in Morytania anymore.
+16232,If the ones back home weren't sick and twisted enough...
+16233,"Given the empty sockets where the eyes should be, it's safe to say this creature is blind."
+16234,Looking a little less tame than the ones seen in the Theatre.
+16235,Looking a little less tame than the ones seen in the Theatre.
+16236,Looking a little less tame than the ones seen in the Theatre.
+16237,Looking a little less tame than the ones seen in the Theatre.
+16238,"Its very bitey, but displays great potential as a rope."
+16239,These trees have spikes and they're not afraid to use them.
+16240,Brings a feeling of safety.
+16241,The ruler of Morytania and the Lord of Vampyrium.
+16242,I can't see their face.
+16243,I can't see their face.
+16244,I can't see their face.
+16245,I can't see their face.
+16246,I can't see their face.
+16247,I can't see their face.
+16248,I can't see their face.
+16249,I can't see their face.
+16250,I can't see their face.
+16251,An ominous portal.
+16252,An ominous portal.
+16254,The former ruler of Hallowvale.
+16255,The former ruler of Hallowvale.
+16256,I can't see their face.
+16257,I can't see their face.
+16258,I can't see their face.
+16259,I can't see their face.
+16260,I can't see their face.
+16261,I can't see their face.
+16262,I can't see their face.
+16263,I can't see their face.
+16264,I can't see their face.
+16265,I can't see their face.
+16266,I can't see their face.
+16267,I can't see their face.
+16268,I can't see their face.
+16269,I can't see their face.
+16270,I can't see their face.
+16271,An evil human cleric.
+16272,An evil human cleric.
+16273,An evil human cleric.
+16274,He looks scared.
+16275,He looks scared.
+16276,A retired vampyre hunter.
+16277,A retired vampyre hunter.
+16278,Stop looking and run!
+16279,They have a lot to say.
+16280,They have a lot to say.
+16281,They have a lot to say.
+16282,They have a lot to say.
+16283,They're preparing to enter the Theatre.
+16284,They're preparing to enter the Theatre.
+16285,They're preparing to enter the Theatre.
+16286,They're preparing to enter the Theatre.
+16287,A citizen of Meiyerditch.
+16288,A citizen of Meiyerditch.
+16289,A citizen of Meiyerditch.
+16290,A citizen of Meiyerditch.
+16291,For debug.
+16292,For debug.
+16293,Best not to think too much about the venator it inhabits.

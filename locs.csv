@@ -2010,7 +2010,7 @@
 3186,I don't really want to end up here...
 3187,I don't really want to end up here...
 3190,These open and close!
-3191,This may be worth searching.
+3191,These may be worth searching.
 3194,Use for quick access to your bank.
 3195,Smells pretty bad!
 3196,Not much use for anything except scrap.
@@ -4427,7 +4427,7 @@
 7445,Time for a recital?
 7446,Very broken.
 7452,The door is closed.
-7453,The door is open
+7453,The door is open.
 7454,The door is locked.
 7463,Baby bread.
 7464,Baby bread.
@@ -6624,7 +6624,7 @@
 10509,Some old looking scrolls sit here.
 10510,A case. With books.
 10511,A drab looking bed.
-10512,Lovely comfy looking big bed.
+10512,A comfy looking big bed.
 10513,Contains equipment for growing herbs.
 10514,Herb stock is kept here.
 10515,A wall-mounted shield with scimitars.
@@ -15472,8 +15472,6 @@
 26242,A very expensive bench.
 26243,This leads to somewhere... but where?
 26244,It's old and pretty broken.
-26248,A well used tree.
-26249,A well used tree.
 26254,Lets you put items into your bank.
 26255,Information is displayed here.
 26256,Damages nearby monsters.
@@ -15918,18 +15916,18 @@
 27337,A table.
 27338,A comfy lounge sofa-bed.
 27339,A small comfy lounge sofa-bed.
-27340,A small ivory table.
-27341,A small ivory table.
-27342,A small ivory table.
-27343,A small ivory table.
-27344,A small ivory table.
-27345,A small ivory table.
-27346,A small ivory table.
-27347,A small ivory table.
-27348,A small ivory table.
-27349,A small ivory table.
-27350,A small ivory table.
-27351,A small ivory table.
+27340,A small table.
+27341,A small table.
+27342,A small table.
+27343,A small table.
+27344,A small table.
+27345,A small table.
+27346,A small table.
+27347,A small table.
+27348,A small table.
+27349,A small table.
+27350,A small table.
+27351,A small table.
 27353,A vast table.
 27354,A vast table.
 27356,A vast table.
@@ -16125,9 +16123,9 @@
 27725,A pile of wood used fueling the range.
 27726,For storing books.
 27754,A crate for shipping goods.
-27755,A crate for shipping goods.
-27756,A crate for shipping goods.
-27757,A crate for shipping goods.
+27755,Some crates for shipping goods.
+27756,Some crates for shipping goods.
+27757,Some crates for shipping goods.
 27758,A wooden barrel for storage.
 27759,A wooden rowboat.
 27760,This rowboat is in need of repair.
@@ -18686,8 +18684,8 @@
 31969,A red crystal.
 31970,A large red crystal.
 31971,A comfy lounge sofa-bed.
-31972,A small Ivory table.
-31973,A small Ivory table.
+31972,A small table.
+31973,A small table.
 31974,Something's burning here.
 31975,"Yellow blossom, lovely."
 31978,A large display of Vorkath in his icy home.
@@ -21796,7 +21794,7 @@
 39609,Leading you somewhere less gloomy.
 39610,"Ooh, fire!"
 39617,A place of rest for fallen knights.
-39620,Wouldn't be useful for smithing anything but bronze.
+39620,Won't be useful for smithing anything apart from bronze.
 39621,A mounted cape worn by the most experienced players.
 39626,Tracks in the sand.
 39627,Tracks in the sand.
@@ -26944,6 +26942,33 @@
 50778,A large pumpkin filled with treats!
 50779,"A big box of smelly, old onions."
 50780,Oh dear.
+50781,"I can see myself, and more!"
+50782,"Yep, that's a wall..."
+50783,"I can see myself, and more!"
+50787,A well used tree.
+50788,A well used tree.
+50790,A well slept in bed.
+50791,"A dead body lying on a bed. You could say he's dead tired, but that would be a little insensitive."
+50792,"A dead body lying on a bed. You could say he's dead tired, but that would be a little insensitive."
+50794,Is that human blood?
+50795,Is that human blood?
+50797,Something bad happened here.
+50798,All-purpose storage.
+50799,A well slept in bed.
+50800,The door is closed.
+50801,The door is closed.
+50802,The door is open.
+50803,It's been left open.
+50805,"A dead body lying on a table. Not the most ideal place for a dead body, but then again, where is?"
+50806,A round table.
+50808,It's full of compost.
+50809,Some shelves with bottles of wine.
+50810,A good source of books!
+50811,An extremely solid ladder fashioned from rough wood.
+50813,There's a plank covering a gap at the top of it.
+50814,There's a gap at the top of it.
+50816,Some fine armour should be here.
+50817,"A dead body hanging on an armour stand. Given the body is armoured, the stand is technically still serving its purpose."
 50825,The grand entrance to the Colosseum.
 50826,The grand entrance to the Colosseum.
 50855,Everything you might need to build a camp.
@@ -33179,3 +33204,19 @@
 63301,A container for items found within the Archive.
 63302,For holding items.
 63303,These could make a fine mess of my legs.
+63307,For storing personal belongings.
+63308,There's some blood on them.
+63310,Is that human blood?
+63314,For storing personal belongings.
+63315,A comfy looking big bed.
+63317,A comfy looking big bed.
+63318,"A dead body lying on a bed. You could say he's dead tired, but that would be a little insensitive."
+63321,Is that human blood?
+63322,Some shelves with bottles of wine.
+63325,A leafy fern.
+63326,I can climb this.
+63328,Is that human blood?
+63329,A very untidy workplace.
+63330,Great for sleeping in.
+63332,There's some interesting items on here.
+63333,There's some interesting items on here.

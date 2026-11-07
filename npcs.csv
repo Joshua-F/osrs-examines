@@ -294,7 +294,7 @@
 303,Nice hair.
 304,"Twisted by name, twisted by nature."
 305,The local shopkeeper.
-306,He provides new players with useful information.
+306,He's always happy to provide useful information.
 307,He looks relieved.
 308,A shady and mysterious figure.
 309,For Mod Reach.
@@ -1120,8 +1120,8 @@
 1176,How cute!
 1177,The black sheep of the family.
 1178,Freshly sheared.
-1179,He provides new players with useful information.
-1181,He provides new players with useful information.
+1179,He's always happy to provide useful information.
+1181,He's always happy to provide useful information.
 1182,Who could this be?
 1183,Who could this be?
 1184,Who could this be?
@@ -2905,7 +2905,7 @@
 3101,He changes the shape of wood.
 3102,She has green fingers. (Not literally.)
 3103,She has green fingers. (Not literally.)
-3105,Servant of the Duke of Lumbridge.
+3105,A servant to the Duke of Lumbridge.
 3106,One of Gielinor's many citizens.
 3107,One of Gielinor's many citizens.
 3108,One of Gielinor's many citizens.
@@ -3013,18 +3013,6 @@
 3213,Something fishy about him.
 3214,Nice eyes.
 3215,Kind of funny looking.
-3216,"Harlan, ready to teach swordplay."
-3217,Nemarti looks ready to teach you about ranged combat.
-3218,Mikasi looks ready to teach you about magic.
-3219,Cordero looks ready to teach you how to cook.
-3220,Cadmus looks a bit crafty.
-3221,Finlay mending nets.
-3222,Monlum surveying the rocks.
-3223,Yauchomi prays to Saradomin.
-3224,Feoras looks a bit fiery.
-3225,"Sani, the master smithing tutor."
-3226,"Wilfred, a chip off the old block."
-3227,Ready to teach you about banking.
 3231,Manufacturer of fine leathers.
 3232,The Wizards' Tower's armourer.
 3233,Yuck! It's all slimy!
@@ -3182,7 +3170,7 @@
 3390,He looks short and grumpy.
 3391,An ugly green creature.
 3392,An ugly green creature.
-3393,He provides new players with useful information.
+3393,He's always happy to provide useful information.
 3394,He seems to like wearing black.
 3395,Leader of the White Knights.
 3396,A rather dapper little monkey.
@@ -4321,7 +4309,7 @@
 4623,It's glowing bright blue!
 4624,It's very slightly green.
 4625,A wise old witch doctor.
-4626,The head cook of Lumbridge castle.
+4626,The head cook of Lumbridge Castle.
 4627,Miss Millicent Miller the Miller of Mill Lane Mill.
 4628,Gillie the Milkmaid milks cows. She's udderly fantastic at it.
 4629,She looks like a tourist.
@@ -5162,7 +5150,6 @@
 5520,A promising citizen.
 5521,Mysterious.
 5522,He tends to the flax fields.
-5523,Attracts a lot of attention.
 5524,Shiny armour!
 5525,Dude!
 5526,A Fremennik hero.
@@ -7827,7 +7814,6 @@
 8638,"Uri Molotov - shaken, not stirred."
 8643,Rages fiercely.
 8644,A castle wars recruiter.
-8665,A man who likes to talk about clue scrolls.
 8666,She can look after my money.
 8667,Has a really bubbly personality.
 8675,An elven bowyer.
@@ -8669,8 +8655,8 @@
 9621,A senior member of the Myreque.
 9622,A young rogue.
 9623,A young rogue.
-9624,Formerly part of a militia. Now a member of the Myreque.
-9625,Formerly part of a militia. Now a member of the Myreque.
+9624,"Formerly part of a militia, now a member of the Myreque."
+9625,"Formerly part of a militia, now a member of the Myreque."
 9627,A quick and agile fighter.
 9629,A member of the Myreque and intellectual assistant to Veliaf.
 9631,A member of the Myreque and an aspiring young priest.
@@ -13982,7 +13968,7 @@
 16272,An evil human cleric.
 16273,An evil human cleric.
 16274,He looks scared.
-16275,He looks scared.
+16275,He looks relaxed.
 16276,A retired vampyre hunter.
 16277,A retired vampyre hunter.
 16278,Stop looking and run!
@@ -14180,10 +14166,6 @@
 16472,Is this crab... Blushing?
 16473,No one likes crabs...
 16474,The coolest yet hottest crab on the island.
-16475,I can see stuff floating in the water.
-16476,I can see stuff floating in the water.
-16477,I can see stuff floating in the water.
-16478,I can see stuff floating in the water.
 16479,The coolest yet hottest crab on the island.
 16480,No one likes crabs...
 16481,The coolest yet hottest crab on the island.
@@ -14474,3 +14456,48 @@
 16801,"They're a bit old for all this, really."
 16802,"They're a bit old for all this, really."
 16803,"They're a bit old for all this, really."
+16804,A master of tasks.
+16805,Claims to be a butcher.
+16806,The local blacksmith. He looks a bit fiery.
+16807,The Lumbridge Castle steward.
+16808,A chip off the old block.
+16809,Surveying the rocks.
+16810,Mending some nets.
+16811,A man who likes clue scrolls.
+16813,"Do not fear the Reaper, or his messenger."
+16814,He can tell you about being an Ironman.
+16815,Attracts a lot of attention.
+16816,An expert at smithing.
+16817,I can see stuff floating in the water.
+16818,I can see stuff floating in the water.
+16819,I can see stuff floating in the water.
+16820,I can see stuff floating in the water.
+16821,An expert in swordplay.
+16822,An expert in swordplay.
+16829,Goblins... Such curious creatures.
+16830,Goblins... Such curious creatures.
+16831,Goblins... Such curious creatures.
+16832,Goblins... Such curious creatures.
+16835,An outlaw with a bow who is trying to blend in.
+16836,An outlaw with a bow who is trying to blend in.
+16837,An outlaw with a bow who has failed to blend in.
+16839,An outlaw with a staff who is trying to blend in.
+16840,An outlaw with a staff who has failed to blend in.
+16842,An outlaw with a sword and shield who has failed to blend in.
+16843,An outlaw with a sword and shield who has failed to blend in.
+16844,One of Gielinor's many citizens.
+16850,She seems upset.
+16851,She seems upset.
+16852,Who are they?
+16853,Who is this?
+16854,She doesn't seem so upset now.
+16855,She doesn't seem so upset now.
+16861,He has a tired look to him.
+16862,He has a tired look to him.
+16866,A Shayzien detective.
+16867,A Shayzien detective.
+16871,A Shayzien detective.
+16872,A Shayzien detective.
+16873,A holy man.
+16874,A local farmer.
+16875,A local forester.
